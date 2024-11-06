@@ -1,0 +1,10 @@
+{
+    "name": "Graham Stevenson's Compendium of Communist Biographies",
+    "short_name": "Compendium of Communist Biographies",
+    "theme_color": "#fff",
+    "background_color": "#fff",
+    "display": "browser",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/"
+}
