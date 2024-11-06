@@ -2,14 +2,15 @@
 base_url = "https://grahamstevenson.me.uk"
 
 # The site title and description; used in feeds by default.
-title = "Graham Stevenson"
+title = "Compendium of Communist Biographies"
+author = "Graham Stevenson"
 description = "Books, pamphlets, articles and speeches."
 
 # The default language; used in feeds.
 default_language = "en"
 
 # Whether to automatically compile all Sass files in the sass directory
-compile_sass = false
+compile_sass = true
 
 # When set to "true", a feed is automatically generated.
 generate_feeds = false
