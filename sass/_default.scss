@@ -1,5 +1,21 @@
+:root {
+    --text-size-xs: calc(var(--text-size-base) * 0.7);
+    --text-size-sm: calc(var(--text-size-base) * 0.8);
+    --text-size-base: calc(0.7rem + 0.2svw + 0.2cqw);
+    --text-size-lg: calc(var(--text-size-base) * 1.2);
+    --text-size-xl: calc(var(--text-size-base) * 1.4);
+    --text-size-2xl: calc(var(--text-size-base) * 1.7);
+    --text-size-3xl: calc(var(--text-size-base) * 2);
+    --text-size-4xl: calc(var(--text-size-base) * 2.5);
+    --text-size-5xl: calc(var(--text-size-base) * 3);
+  }
+
 body {
     font-family: Rockwell, 'Rockwell Nova', 'Roboto Slab', 'DejaVu Serif', 'Sitka Small', serif;
     width: clamp(66%, calc(50svw + 20rem), 95%);
     margin: 0 auto;
+}
+
+p {
+    font-size: var(--text-size-base);
 }
