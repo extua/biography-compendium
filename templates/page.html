@@ -1,18 +1,87 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="description" content="">
   <meta name="keywords" content="">
-  <meta name="author" content="Graham Stevenson">
-  <title>Hello, world!</title>
+  <meta name="author" content="{{ config.author }}">
+  <title>{{ config.title }}</title>
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <meta name="description" content="" />
   <link rel="icon" href="favicon.svg">
   <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="{{ get_url(path='style.css', trailing_slash=false) | safe }}">
 </head>
+
 <body>
-  <h1>Hello, world!</h1>
+  <header>
+    <h1>{{ config.title }}</h1>
+  </header>
+  <nav>
+    Internal navigation
+  </nav>
+  <main>
+    <h1>{{ page.title }}
+
+      {% if page.extra.birth or page.extra.death %}
+      ({{ page.extra.birth | date(format="%Y") }} -- {{ page.extra.death | date(format="%Y") }})
+      {% endif %}
+    </h1>
+    {{ page.content | safe }}
+  </main>
+  <aside>
+    <section>
+      Page meta. git tag. Other tags.
+    </section>
+    <nav>
+      <h1>Navigation</h1>
+      <section>
+        <h2>Search</h2>
+        <search></search>
+      </section>
+      <section>
+        <h2>Compendium</h2>
+        <ol>
+          <li>A</li>
+          <li>B</li>
+          <li>C</li>
+          <li>D</li>
+          <ol>
+      </section>
+      <section>
+        <h2>Speeches</h2>
+      </section>
+      <section>
+        <h2>Marxism</h2>
+      </section>
+    </nav>
+    <section>
+      <h2>References</h2>
+    </section>
+  </aside>
+
+  <footer>
+    <section>Copyright 2024</section>
+    <section>About Graham</section>
+    <section>About this site</section>
+  </footer>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Article",
+      "name": "{{ page.title }}",
+      "about": {
+        "@type": "Person",
+        "name": "NAME",
+        "birthDate": "",
+        "deathDate": "",
+      },
+      "contentReferenceTime": "2016-03-21T11:30:00-07:00"
+    }
+    </script>
   <script type="speculationrules">speculation_rules.json</script>
+
 </body>
+
 </html>
