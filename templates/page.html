@@ -24,51 +24,85 @@
     </div>
     <h2>{{ config.title }}</h2>
   </header>
-  <main>
-    <h1>{{ page.title }}
+  <div id="page-wrap">
+    <main>
+      <h3>{{ page.title }}
 
-      {% if page.extra.birth or page.extra.death %}
-      ({{ page.extra.birth | date(format="%Y") }} -- {{ page.extra.death | date(format="%Y") }})
-      {% endif %}
-    </h1>
-    {{ page.content | safe }}
-  </main>
-  <aside>
-    <section>
-      Page meta. git tag. Other tags.
-    </section>
-    <nav>
-      <h1>Navigation</h1>
+        {% if page.extra.birth or page.extra.death %}
+        ({{ page.extra.birth | date(format="%Y") }} - {{ page.extra.death | date(format="%Y") }})
+        {% endif %}
+      </h3>
+      <article>
+        {{ page.content | safe }}
+      </article>
+    </main>
+    <aside>
       <section>
-        <h2>Search</h2>
-        <search></search>
+        Page meta. git tag. Other tags.
       </section>
+      <nav>
+        <h1>Navigation</h1>
+        <section>
+          <h2>Search</h2>
+          <search>
+            <form action="./search/">
+              <input type="search" id="biographysearch" name="q" />
+              <button type="submit">Search</button>
+            </form>
+          </search>
+        </section>
+        <section>
+          <h2>Compendium</h2>
+          <div id="alphabetnav">
+            <div>A</div>
+            <div>B</div>
+            <div>C</div>
+            <div>D</div>
+            <div>E</div>
+            <div>F</div>
+            <div>G</div>
+            <div>H</div>
+            <div>I</div>
+            <div>J</div>
+            <div>K</div>
+            <div>L</div>
+            <div>M</div>
+            <div>N</div>
+            <div>O</div>
+            <div>P</div>
+            <div>Q</div>
+            <div>R</div>
+            <div>S</div>
+            <div>T</div>
+            <div>U</div>
+            <div>V</div>
+            <div>W</div>
+            <div>X</div>
+            <div>Y</div>
+            <div>Z</div>
+          <div>
+        </section>
+        <section>
+          <h2>Speeches</h2>
+        </section>
+        <section>
+          <h2>Marxism</h2>
+        </section>
+      </nav>
       <section>
-        <h2>Compendium</h2>
-        <ol>
-          <li>A</li>
-          <li>B</li>
-          <li>C</li>
-          <li>D</li>
-          <ol>
+        <h2>References</h2>
+        <article>
+          Sources: Numerous local newspapers; TGWU GEC Minutes 1923; Birmingham Daily Gazette; Wendy Freer (1991) Canal boat people, 1840-1970. PhD thesis, University of Nottingham.
+        </article>
       </section>
-      <section>
-        <h2>Speeches</h2>
-      </section>
-      <section>
-        <h2>Marxism</h2>
-      </section>
-    </nav>
-    <section>
-      <h2>References</h2>
-    </section>
-  </aside>
+    </aside>
 
-  <footer>
-    <section>Copyright 2024</section>
-    <section>About Graham</section>
-    <section>About this site</section>
-  </footer>
+    <footer>
+      <section>Copyright 2024</section>
+      <section>About Graham</section>
+      <section>About this site</section>
+    </footer>
+  </div>
   <script type="application/ld+json">
     {
       "@context": "https://schema.org/",

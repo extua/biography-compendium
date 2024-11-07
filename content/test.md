@@ -1,5 +1,5 @@
 +++
-title = "this is a test page"
+title = "Test person"
 [extra]
 birth = 1946-02-17
 death = 1973-02-08
