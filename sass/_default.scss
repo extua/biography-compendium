@@ -1,19 +1,23 @@
+@use 'fonts';
+
 :root {
     --text-size-xs: calc(var(--text-size-base) * 0.7);
     --text-size-sm: calc(var(--text-size-base) * 0.8);
-    --text-size-base: calc(0.7rem + 0.2svw + 0.2cqw);
+    --text-size-base: calc(0.7rem + 0.3svw + 0.1cqi);
     --text-size-lg: calc(var(--text-size-base) * 1.2);
     --text-size-xl: calc(var(--text-size-base) * 1.4);
     --text-size-2xl: calc(var(--text-size-base) * 1.7);
     --text-size-3xl: calc(var(--text-size-base) * 2);
     --text-size-4xl: calc(var(--text-size-base) * 2.5);
     --text-size-5xl: calc(var(--text-size-base) * 3);
+
+    scrollbar-gutter: stable both-edges;
+
+    color-scheme: dark light;
   }
 
 body {
-    font-family: "Lexica Ultralegible", "Atkinson Hyperlegible", Helvetica, Arial, sans-serif;
-    width: clamp(66%, calc(50svw + 20rem), 95%);
-    margin: 0 auto;
+    font-family: 'Lexica Ultralegible', 'Atkinson Hyperlegible', Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, Helvetica, Arial, sans-serif;
 }
 
 p {
