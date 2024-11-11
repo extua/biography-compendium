@@ -12,10 +12,12 @@ jobs:
   zola-check:
     runs-on: ubuntu-latest
     container: 
-      image: ghcr.io/getzola/zola:latest
+      image: ghcr.io/getzola/zola:v0.19.2
       credentials:
         username: ${{ github.actor }}
         password: ${{ secrets.github_token }}
+    permissions:
+       packages: read
 
     steps:
       - uses: actions/checkout@v4
