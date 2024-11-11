@@ -11,8 +11,8 @@ on:
 jobs:
   zola-check:
     runs-on: ubuntu-latest
+    container: getzola/zola:latest
+
     steps:
       - uses: actions/checkout@v4
-      - uses: MTRNord/zola-check-manager@v1.0.1
-        with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+      - run: zola check
