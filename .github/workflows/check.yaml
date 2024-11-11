@@ -11,7 +11,8 @@ on:
 jobs:
   zola-check:
     runs-on: ubuntu-latest
-    container: getzola/zola:latest
+    container: 
+      image: ghcr.io/getzola/zola:latest
 
     steps:
       - uses: actions/checkout@v4
