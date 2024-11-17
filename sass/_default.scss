@@ -1,9 +1,14 @@
 @use 'fonts';
 
+@property --text-size-base {
+  syntax: "<length>";
+  inherits: true;
+  initial-value: calc(0.7rem + 0.3svw + 0.1cqi);
+}
+
 :root {
     --text-size-xs: calc(var(--text-size-base) * 0.7);
     --text-size-sm: calc(var(--text-size-base) * 0.8);
-    --text-size-base: calc(0.7rem + 0.3svw + 0.1cqi);
     --text-size-lg: calc(var(--text-size-base) * 1.2);
     --text-size-xl: calc(var(--text-size-base) * 1.4);
     --text-size-2xl: calc(var(--text-size-base) * 1.7);
