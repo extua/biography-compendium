@@ -112,18 +112,16 @@ textarea:not([rows]) {
 }
 
 /* Set root defaults */
-
-
 @property --text-size-base {
     syntax: "<length>";
     inherits: true;
     initial-value: 0.9rem;
-  }  
+}
 
 :root {
     --text-size-xs: calc(var(--text-size-base) * 0.7);
     --text-size-sm: calc(var(--text-size-base) * 0.8);
-    --text-size-base: max(0.92rem,calc(0.8rem + 0.2svw + 0.2cqi));
+    --text-size-base: max(0.92rem, calc(0.8rem + 0.2svw + 0.2cqi));
     --text-size-lg: calc(var(--text-size-base) * 1.2);
     --text-size-xl: calc(var(--text-size-base) * 1.4);
     --text-size-2xl: calc(var(--text-size-base) * 1.7);
@@ -152,7 +150,7 @@ body {
 }
 
 header > div {
-    margin-block: var(--sizing-gap-base);
+    margin-block: var(--sizing-gap-base) var(--sizing-gap-1g);
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -196,7 +194,7 @@ header > h2 {
 
 div#page-wrap {
     display: grid;
-    grid-template-columns: minmax(40ch, 3fr) minmax(10px, 1fr);
+    grid-template-columns: 3fr 1fr;
     grid-template-rows: min-content 1fr;
     grid-template-areas:
         'main sidebar'
@@ -204,7 +202,7 @@ div#page-wrap {
     gap: var(--sizing-gap-base);
 }
 
-@media (width < 768px) {
+@media (width < 60em) {
     div#page-wrap {
         grid-template-areas:
             'main'
