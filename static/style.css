@@ -192,6 +192,7 @@ header > h2 {
     font-size: var(--text-size-4xl);
 }
 
+
 div#page-wrap {
     display: grid;
     grid-template-columns: 3fr 1fr;

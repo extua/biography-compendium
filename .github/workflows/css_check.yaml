@@ -7,7 +7,7 @@ on:
       - 'static/style.css'
 
 jobs:
-  zola-check:
+  css-check:
     runs-on: ubuntu-latest
 
     steps:
