@@ -9,7 +9,7 @@
   <title>{{ config.title }}</title>
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <meta name="description" content="" />
-  <link rel="icon" href="favicon.svg">
+  <link rel="icon" href="{{ get_url(path='favicon.svg', trailing_slash=false) | safe }}">
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="stylesheet" href="{{ get_url(path='style.css', trailing_slash=false) | safe }}">
 </head>
