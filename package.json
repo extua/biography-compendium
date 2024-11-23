@@ -1,6 +1,6 @@
 {
     "scripts": {
-      "test": "lightningcss *.css"
+      "test": "lightningcss static/style.css"
     }
   }
   
