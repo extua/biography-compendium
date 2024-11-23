@@ -1,0 +1,276 @@
+/* CSS Reset */
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+/* Prevent font size inflation */
+html {
+    -moz-text-size-adjust: none;
+    -webkit-text-size-adjust: none;
+    text-size-adjust: none;
+}
+
+/* Remove default margin in favour of better control in authored CSS */
+body, h1, h2, h3, h4, p, figure,
+blockquote, dl, dd {
+    margin-block-end: 0;
+    margin-block-start: 0;
+}
+
+/* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
+ul[role='list'],
+ol[role='list'] {
+    list-style: none;
+}
+
+/* Set core body defaults */
+body {
+    line-height: 1.5;
+    /* Improve text rendering */
+    text-rendering: optimizeLegibility;
+}
+
+/* Set shorter line heights on headings and interactive elements */
+h1, h2, h3, h4,
+button, input, label {
+    line-height: 1.1;
+}
+
+/* 7. Avoid text overflows */
+p, h1, h2,
+h3, h4, h5, h6 {
+    overflow-wrap: break-word;
+}
+
+/* 8. Improve line wrapping */
+p {
+    text-wrap: pretty;
+}
+
+h1, h2, h3, h4,
+h5, h6 {
+    text-wrap: balance;
+}
+
+/* Make images easier to work with */
+img, picture {
+    max-width: 100%;
+    display: block;
+}
+
+/* Inherit fonts for inputs and buttons */
+input, button,
+textarea, select {
+    font-family: inherit;
+    font-size: inherit;
+}
+
+/* Make sure textareas without a rows attribute are not tiny */
+textarea:not([rows]) {
+    min-height: 10em;
+}
+
+/* Anything that has been anchored to should have extra scroll margin */
+:target {
+    scroll-margin-block: 5ex;
+}
+
+/* Font declarations */
+@font-face {
+    font-family: 'Lexica Ultralegible';
+    font-style: bold;
+    font-weight: 700;
+    src: url('/fonts/LexicaUltralegible-Bold.woff2') format('woff2');
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Lexica Ultralegible';
+    font-style: italic;
+    font-weight: 700;
+    src: url('/fonts/LexicaUltralegible-BoldItalic.woff2') format('woff2');
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Lexica Ultralegible';
+    font-style: italic;
+    font-weight: 400;
+    src: url('/fonts/LexicaUltralegible-Italic.woff2') format('woff2');
+    font-display: optional;
+}
+
+@font-face {
+    font-family: 'Lexica Ultralegible';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/fonts/LexicaUltralegible-Regular.woff2') format('woff2');
+    font-display: optional;
+}
+
+/* Set root defaults */
+
+
+@property --text-size-base {
+    syntax: "<length>";
+    inherits: true;
+    initial-value: 0.9rem;
+  }  
+
+:root {
+    --text-size-xs: calc(var(--text-size-base) * 0.7);
+    --text-size-sm: calc(var(--text-size-base) * 0.8);
+    --text-size-base: max(0.92rem,calc(0.8rem + 0.2svw + 0.2cqi));
+    --text-size-lg: calc(var(--text-size-base) * 1.2);
+    --text-size-xl: calc(var(--text-size-base) * 1.4);
+    --text-size-2xl: calc(var(--text-size-base) * 1.7);
+    --text-size-3xl: calc(var(--text-size-base) * 2);
+    --text-size-4xl: calc(var(--text-size-base) * 2.5);
+    --text-size-5xl: calc(var(--text-size-base) * 3);
+    scrollbar-gutter: stable both-edges;
+    color-scheme: dark light;
+    --sizing-gap-base: calc(0.2rem + 0.3svw + 0.2cqi);
+    --sizing-gap-1g: calc(var(--sizing-gap-base) * 1.2);
+}
+
+body {
+    font-family: 'Lexica Ultralegible', 'Atkinson Hyperlegible', Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, Helvetica, Arial, sans-serif;
+}
+
+p {
+    font-size: var(--text-size-base);
+}
+
+/* Layout rules */
+body {
+    margin-inline: auto;
+    margin-block: var(--text-size-lg);
+    width: clamp(68%, calc(50svw + 21rem), 95%);
+}
+
+header > div {
+    margin-block: var(--sizing-gap-base);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+}
+
+header h1 {
+    display: inline-block;
+    width: fit-content;
+    margin-inline-end: auto;
+    font-size: var(--text-size-5xl);
+    flex-basis: 17ch;
+    flex-grow: 2;
+}
+
+#headernav {
+    flex-basis: 16ch;
+    flex-grow: 1;
+    margin-inline-end: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    gap: var(--sizing-gap-base);
+    flex-wrap: wrap;
+}
+
+#headernav a {
+    display: block;
+    flex-basis: 8ch;
+    text-align: end;
+    font-size: var(--text-size-lg);
+}
+
+header > h2 {
+    margin-block: var(--sizing-gap-1g);
+    display: block;
+    font-size: var(--text-size-4xl);
+}
+
+div#page-wrap {
+    display: grid;
+    grid-template-columns: minmax(40ch, 3fr) minmax(10px, 1fr);
+    grid-template-rows: min-content 1fr;
+    grid-template-areas:
+        'main sidebar'
+        'footer footer';
+    gap: var(--sizing-gap-base);
+}
+
+@media (width < 768px) {
+    div#page-wrap {
+        grid-template-areas:
+            'main'
+            'sidebar'
+            'footer';
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+    }
+}
+
+div#page-wrap main {
+    grid-area: main;
+}
+
+div#page-wrap aside {
+    grid-area: sidebar;
+    margin-inline: var(--sizing-gap-base);
+}
+
+div#page-wrap footer {
+    grid-area: footer;
+}
+
+main h3 {
+    font-size: var(--text-size-3xl);
+    margin-block: var(--sizing-gap-base);
+}
+
+main article {
+    margin-inline: var(--sizing-gap-1g);
+    max-width: calc(55ch + 8cqi);
+}
+
+article p {
+    margin-block-end: var(--sizing-gap-base)
+}
+
+aside section {
+    margin-block: var(--sizing-gap-base);
+}
+
+aside h1,
+h2, h3, h4 {
+    font-size: var(--text-size-2xl);
+    margin-block-end: var(--sizing-gap-1g);
+}
+
+aside search button,
+input {
+    width: 100%;
+}
+
+aside div#alphabetnav {
+    margin-block: var(--sizing-gap-base);
+    display: grid;
+    grid-template: repeat(4, 1fr) / repeat(6, 1fr);
+    grid-auto-flow: row;
+    gap: var(--sizing-gap-base);
+    font-size: var(--text-size-xl);
+    justify-items: center;
+}
+
+footer {
+    margin-block: var(--sizing-gap-base);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
