@@ -136,6 +136,12 @@ textarea:not([rows]) {
 
 body {
     font-family: 'Lexica Ultralegible', 'Atkinson Hyperlegible', Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, Helvetica, Arial, sans-serif;
+    @media (prefers-color-scheme: light) {
+      filter: sepia(4%);
+    }
+    @media (prefers-color-scheme: dark) {
+      filter: contrast(104%);
+    } 
 }
 
 p {
@@ -191,7 +197,6 @@ header > h2 {
     display: block;
     font-size: var(--text-size-4xl);
 }
-
 
 div#page-wrap {
     display: grid;
