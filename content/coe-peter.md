@@ -1,5 +1,5 @@
 +++
-title = "Coe "Peter""
+title = "Coe \'Peter\'"
 date = "2013-04-27"
 categories = ["c"]
 tags = ["coe", "peter"]
