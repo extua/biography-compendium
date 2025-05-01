@@ -1,5 +1,5 @@
 +++
-title = "Togwell Walter "Wally" Levi"
+title = 'Togwell Walter "Wally" Levi'
 date = "2008-09-20"
 categories = ["t"]
 tags = ["walter", "wally", "togwell", "levi"]
