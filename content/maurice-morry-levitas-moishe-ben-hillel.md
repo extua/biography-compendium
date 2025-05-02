@@ -1,11 +1,9 @@
 +++
-title = "Levitas Maurice "Morry""
+title = 'Levitas Maurice "Morry"'
 date = "2008-09-19"
 categories = ["l"]
 tags = ["maurice", "levitas", "morry"]
 +++
-
-![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/levitas%20maurice.JPG)Maurice "Morry" Levitas (Moishe ben Hillel)
 
 Born February 1st 1917, died February 14th 2001 - Levitas was by then one of the last surviving Irish veterans who served with the International Brigade in the fight against Fascism in Spain. Born in Dublin's Warren Street, a predominantly Jewish neighbourhood of artisan housing in the Portobello area. The families of his parents, Harry Levitas (his family name was Kovno, from the Lithuanian shtetl of Akmeyan) and Leah Rick (whose family came from the Latvian capital of Riga) had fled anti-Semitic pogroms in Tsarist Russia to join relatives already residing in Dublin. Harry went to Ireland in 1912 and Leah was born in Dublin on 1st February 1917. It was to prove to be a life-saving choice for Morry and his part of the extended family. 
 
@@ -35,4 +33,4 @@ He returned to London in 1990 and joined the Communist Party of Britain. Ever lo
 
 Even in his late 70s, Levitas could often be seen on demonstrations, particularly those against racial injustice. In the 1990s, as an old brigader, he was awarded Spanish citizenship and, with other surviving Irish veterans of the International Brigades, he was given a civic reception by the Lord Mayor of Dublin. On May 4th, 1991, he was chosen by his fellow veterans to read out the roll of honour of those Irishmen who had sacrificed their lives in defence of the SpanishRepublic, on the occasion of the unveiling of the Liberty Hall plaque in their memory by the Lord Mayor of Dublin. He again returned to Liberty Hall on May 12th, 1996, for the unveiling of the James Connolly statue by the then President, Mrs Mary Robinson. Maurice Levitas paid his last visit to Spain in November 1996 to receive the right to citizenship conferred on all International Brigade veterans by unanimous decision of the Spanish parliament. This he regarded as the ultimate vindi-cation by the Spanish people of his fight against Fascism 60 years previously. The vindication of his native city followed in the wake of his 80th birthday, when he visited the Mansion House on February 14th, 1997, and was accorded a civic reception by the Lord Mayor and Dublin City Council in honour of the five surviving Irish veterans.
 
-Guardian 7th March 2001; The Irish Times Saturday, February 24, 2001
+_Guardian 7th March 2001; The Irish Times Saturday, February 24, 2001_
