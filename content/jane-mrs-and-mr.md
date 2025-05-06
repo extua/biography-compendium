@@ -1,5 +1,5 @@
 +++
-title = "Jane "Mrs and Mr""
+title = "Mrs and Mr Jane"
 date = "2010-04-18"
 categories = ["j"]
 tags = ["jane"]
@@ -15,6 +15,6 @@ Mrs Jane contested Trinity Ward and Mr Jane stood in St Mathew's ward.
 
 Other Communist Party candidates included what the Daily Worker only identified as:
 
-“Comrades Fay in St ThomasWard, Coughlin in St Mark's ward, Nelson in St Paul's Ward and Marriot in St Luke's Ward.”
+<q>Comrades Fay in St Thomas Ward, Coughlin in St Mark's ward, Nelson in St Paul's Ward and Marriot in St Luke's Ward.</q>
 
 _Michael Walker_
