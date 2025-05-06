@@ -5,13 +5,11 @@ categories = ["e"]
 tags = ["alan", "ecclestone"]
 +++
 
-![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/ecclestone%20alan.jpg)Alan Ecclestone
-
 Born in Stoke on Trent on 3rd June 1904, his father was a pottery painter but his mother was the radical one; she used to display a Home Rule for Ireland poster in the window of the family home but put it up and down according to her husband’s movements to and from work!
 
 A clever boy at school, Ecclestone went on, via a series of scholarships, to obtain Firsts in English and History at Cambridge and a lectureship in English at Durham. He was radicalised by the struggles of the 1920s and 1930s and joined the Communist Party, to which he was staunchly loyal at least until the early 1970s. Inspired by other \`turbulent priests’ of the time, he was trained for the church at Wells and ordained a deacon in 1931 and a priest in 1934. Sent to Frizington in Cumberland, he encountered a village where three-quarters of the men were unemployed miners.
 
-He was vicar of the HolyTrinityChurch in Darnall, Sheffield from 1942 to 1969. His wife, Delia, whom he married in 1934, though as much a believer as her husband, was eventually obliged to defer to local sensitivity by agreeing to sell the Daily Worker after, rather than before the services, outside, rather than inside, the church!
+He was vicar of the Holy Trinity Church in Darnall, Sheffield from 1942 to 1969. His wife, Delia, whom he married in 1934, though as much a believer as her husband, was eventually obliged to defer to local sensitivity by agreeing to sell the Daily Worker after, rather than before the services, outside, rather than inside, the church!
 
 He became a leading figure in the post-war Christian-Marxist dialogue, attended peace conferences in Paris and Warsaw and stood six times (always unsuccessfully!) as a Communist candidate for solidly Labour council wards. The Cold War ensured his isolation in the Church, as a committed Communist, and this may have ensured a gradual weakening of the ties that bound him to the Party but he never quite renounced it.
 
