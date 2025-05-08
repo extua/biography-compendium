@@ -718,11 +718,11 @@ Those who argue for local development plans make a valuable point, as do the cal
 
 The resolution, with its supportive amendments, represents the most effective analysis for building the Party for two decades and more. The newly amended version that we can all unite around will set many aims for the Party but it boils down to four key areas in a wide range of achievable but ambitious targets.
 
-- Firstly, the building of a truly national Party with a leadership that fulfils its role under our constitution to closely monitor and control the work of all Party organisations in a [\[g1\]](#_msocom_1)national plan of regeneration. We should not dilute this need in any way; the absence of effective organisation, the denial of accountability and performance, simply makes us less effective Communists not nicer ones! 
+- Firstly, the building of a truly national Party with a leadership that fulfils its role under our constitution to closely monitor and control the work of all Party organisations in a [\[g1\]](_msocom_1)national plan of regeneration. We should not dilute this need in any way; the absence of effective organisation, the denial of accountability and performance, simply makes us less effective Communists not nicer ones! 
 
-- Secondly, Congress will signal to the new EC that the gender imbalance in the Party is a [\[g2\]](#_msocom_2)major political issue for it to address; that there needs to be continuous improvement of our organisational work and a cadre development plan; with maximum support to the YCL in the context of a joint approach to growth. [\[g4\]](#_msocom_4)
+- Secondly, Congress will signal to the new EC that the gender imbalance in the Party is a [\[g2\]](_msocom_2)major political issue for it to address; that there needs to be continuous improvement of our organisational work and a cadre development plan; with maximum support to the YCL in the context of a joint approach to growth. [\[g4\]](_msocom_4)
 
-- Thirdly, we want more! More of everything. More action, more presence. More and better Communist Universities, even more of a Party profile on demonstrations and similar events; with further priority for Communist Review and the Morning Star. [\[g6\]](#_msocom_6)
+- Thirdly, we want more! More of everything. More action, more presence. More and better Communist Universities, even more of a Party profile on demonstrations and similar events; with further priority for Communist Review and the Morning Star. [\[g6\]](_msocom_6)
 
 - The good work that does go on must be more widely publicised and we need a publishing plan for books, pamphlets, leaflets, stickers, posters, internet and e-mail facilities, T-shirts, etc., etc., and a collective to develop this.
 

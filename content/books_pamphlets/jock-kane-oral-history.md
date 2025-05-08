@@ -45,7 +45,7 @@ Contents
 
 8\. Betty Kane's story
 
-9.“When the locals came into their own” byEric Browne
+9.“When the locals came into their own” by Eric Browne
 
 10.“A panorama of people's lives” by Jack Dunn, former General Secretary, NUM Kent Area
 
@@ -67,7 +67,7 @@ Then my father went to work in the Foulshiels pit, in the village of Stoneyburn,
 
 I wasn't working — I hadn't left school then. I have known my father go up through the fields to the pit to work on night shift — it was only about three-quarters of a mile across the fields — and I've been sent by my mother to follow him and watch that he really got to the pit, that he didn't lie down and go to sleep, he'd that much drink in him. I'd watch him get on the chair, the little cage. I was only four at the time, but I'd watch him get on, you know, and go down the pit and I'd go back and say: "Well, he's got to work. That's all right."
 
-Tam and Martin and Mick were always active, active in the Irish movement, in the troubles in the 1920s, and later in the ILP[\[1\]](#_ftn1). They were active in getting munitions and explosives and sending them across. They used to go up on the moors drilling and one thing and another in their twenties.
+Tam and Martin and Mick were always active, active in the Irish movement, in the troubles in the 1920s, and later in the ILP[\[1\]]REFERENCE ONE. They were active in getting munitions and explosives and sending them across. They used to go up on the moors drilling and one thing and another in their twenties.
 
 Tam got arrested. He'd gone on a job to meet some soldiers who were going to flog some munitions to them — maybe a couple of rifles — and they got arrested. The soldiers were in court and jailed for six weeks. He was tried and we've got a verdict in Scotland "not proven" and that's what the verdict was. The judge, or whatever the hell he was, said that he could not believe all the evidence that had been given.
 
