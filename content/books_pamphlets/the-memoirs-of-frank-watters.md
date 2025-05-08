@@ -8,7 +8,6 @@ categories = ["communist-history", "books-and-pamphlets"]
 
  
 
-“Dedicated to my grandchildren   ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/beingfrankpics/Front%20cover%20of%20%60Being%20Frank'.jpg)   
 
  
 
