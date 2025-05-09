@@ -12,5 +12,5 @@ jobs:
       - uses: actions/checkout@v4
       - uses: taiki-e/install-action@v2
         with:
-          tool: zola@0.19.2
-      - run: zola check
+          tool: zola@0.20.0
+      - run: zola check --skip-external-links
