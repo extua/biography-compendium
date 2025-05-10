@@ -3,11 +3,10 @@ title = "Abbott Bill"
 date = "2017-11-19"
 categories = ["a"]
 tags = ["bill", "abbott"]
+[extra]
+birth = 1905
+death = ?
 +++
-
-Bill Abbott
-
- 
 
 Born in Ancoats, Manchester in 1905, Abbott became an apprentice pattern-maker at a firm of wire manufacturers at the age of fourteen. He worked there for eight years, from 1919-27, until he was sacked for his activities as a shop steward.
 

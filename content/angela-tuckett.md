@@ -31,6 +31,6 @@ Publications by Angela Tuckett:
 
 “The Scottish Trades Union Congress: the first 80 years 1897-1977” (1986) Mainstream 
 
-_Source:_ _Bernard Barry ”Angela Tuckett -1906-1994 her story” WMCL_
+_Source:_ _Bernard Barry ”Angela Tuckett -1906-1994 her story” WCML_
 
  _See:_ [http://www.wcml.org.uk/contents/activists/angela-tuckett/](http://www.wcml.org.uk/contents/activists/angela-tuckett/)

@@ -3,6 +3,7 @@ title = "Aaronovitch David"
 date = "2017-12-26"
 categories = ["a"]
 tags = ["david", "aaronovitch"]
+birth = 1954
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2019/02/Aaronovitch-David.jpg)
