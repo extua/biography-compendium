@@ -3,6 +3,7 @@ title = "Aaronovitch David"
 date = "2017-12-26"
 categories = ["a"]
 tags = ["david", "aaronovitch"]
+[extra]
 birth = 1954
 +++
 
