@@ -27,11 +27,23 @@
   </header>
   <div id="page-wrap">
     <main>
-      <h3>{{ page.title }}
-
-        {% if page.extra.birth or page.extra.death %}
-        ({{ page.extra.birth | date(format="%Y") }} - {{ page.extra.death | date(format="%Y") }})
-        {% endif %}
+      <h3>
+        {{ page.title }}
+        {% if page.extra.birth or page.extra.death -%}
+          (
+            {%- if page.extra.birth -%}
+              {{ page.extra.birth }}
+            {%- else -%}
+              ?
+            {%- endif -%}
+            - 
+            {%- if page.extra.death -%}
+              {{ page.extra.death }}
+            {%- else -%}
+              ?
+            {%- endif -%}
+          )
+        {% endif -%}
       </h3>
       <article>
         {{ page.content | safe }}
@@ -100,7 +112,7 @@
     </aside>
 
     <footer>
-      <section>Copyright 2024</section>
+      <section>Copyright 2025</section>
       <section>About Graham</section>
       <section>About this site</section>
     </footer>
@@ -113,8 +125,12 @@
       "about": {
         "@type": "Person",
         "name": "NAME",
-        "birthDate": "",
-        "deathDate": "",
+        {% if page.extra.birth and page.extra.birth is number %}
+        "birthDate": "{{ page.extra.birth }}",
+        {% endif %}
+        {% if page.extra.death and page.extra.death is number %}
+        "deathDate": "{{ page.extra.death }}",
+        {% endif %}
       }
     }
     </script>

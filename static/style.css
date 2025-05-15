@@ -81,7 +81,6 @@ textarea:not([rows]) {
 /* Font declarations */
 @font-face {
     font-family: 'Lexica Ultralegible';
-    font-style: bold;
     font-weight: 700;
     src: url('/fonts/LexicaUltralegible-Bold.woff2') format('woff2');
     font-display: optional;
@@ -136,12 +135,15 @@ textarea:not([rows]) {
 
 body {
     font-family: 'Lexica Ultralegible', 'Atkinson Hyperlegible', Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, Helvetica, Arial, sans-serif;
+    
     @media (prefers-color-scheme: light) {
       filter: sepia(4%);
     }
+    
     @media (prefers-color-scheme: dark) {
       filter: contrast(104%);
-    } 
+    }
+    
 }
 
 p {

@@ -5,7 +5,7 @@ categories = ["l"]
 tags = ["lazarus", "abe"]
 authors = ["Michael Walker"]
 [extra]
-birth = 1911-04
+birth = 1911
 death = 1967
 +++
 

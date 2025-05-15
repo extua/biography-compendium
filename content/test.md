@@ -1,8 +1,8 @@
 +++
 title = "Test person"
 [extra]
-birth = 1946-02-17
-death = 1973-02-08
+birth = 1946
+death = ""
 +++
 
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet risus facilisis, mattis leo ut, bibendum odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus vel diam libero. Fusce tristique malesuada metus, sed mollis est condimentum ultricies. Phasellus non libero blandit, viverra arcu vel, aliquet erat. Nunc mollis consequat ipsum, ut vulputate mi ullamcorper non. Morbi massa dui, blandit commodo purus non, convallis porttitor lectus. Suspendisse maximus sagittis volutpat. Etiam eget laoreet est. Maecenas risus nisi, convallis ac egestas nec, consequat nec ante. Vivamus quis sapien consequat, accumsan lacus at, mattis ex. Praesent et velit in nisl aliquet sodales et non felis. Nullam pellentesque sem et felis imperdiet finibus finibus dictum eros.
