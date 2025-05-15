@@ -148,6 +148,7 @@ body {
 
 p {
     font-size: var(--text-size-base);
+    margin-block-end: 1rlh;
 }
 
 /* Layout rules */
@@ -246,10 +247,6 @@ main {
         margin-inline: var(--sizing-gap-1g);
         max-width: calc(55ch + 8cqi);
     }
-}
-
-article p {
-    margin-block-end: var(--sizing-gap-base)
 }
 
 aside {
