@@ -102,13 +102,16 @@
           <h2>Marxism</h2>
         </section>
       </nav>
+      {%- if page.extra.sources -%}
       <section>
         <h2>References</h2>
-        <article>
-          Sources: Numerous local newspapers; TGWU GEC Minutes 1923; Birmingham Daily Gazette; Wendy Freer (1991) Canal
-          boat people, 1840-1970. PhD thesis, University of Nottingham.
-        </article>
+        <ul>
+        {% for source in page.extra.sources %}
+              <li>{{ source }}</li>
+        {% endfor %}
+        </ul>
       </section>
+      {%- endif -%}
     </aside>
 
     <footer>
