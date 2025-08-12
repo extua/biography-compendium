@@ -3,11 +3,11 @@ title = "Heathfield Betty"
 date = "2008-09-19"
 categories = ["h"]
 tags = ["betty", "heathfield"]
+[extra]
+birth = 1927
+death = 2006
+sources = ["Joe Clarke tribute", "Guardian 22.2.06", "GS personal knowledge", "Max Levenson."]
 +++
-
-![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/heathfield%20betty.jpg)Betty Heathfield
-
-_Pic: Betty Heathfield (centre) in 1984_
 
 Born in Chesterfield into a working class family, on March 30th 1927, both her grandfathers had been miners and her father, Billy Vardy, was also a miner. He was in the army during the First World War, serving in the Lincolnshire Regiment. He later became a gas worker, switching jobs because his wife was fearful for his safety in the mines. 
 
@@ -24,5 +24,4 @@ Undoubtedly, Betty was overshadowed in this period by his role as a full time of
 She chaired and led the Women Against Pit Closures with fortitude and inspiration. WAPC grew from her example from the start, after she gathered some women together in her Chesterfield home. Together with Anne Scargill, they mobilised thousands of miners’ wives, partners and relatives into a fighting force that virtually sustained the strike for the whole year. WAPC continued to play a significant role in workers’ solidarity movements for some time to come.
 
 Sadly, the fall out from the intense pressure of these events led to the separation and divorce of the Heathfields after 36 years of marriage. Betty began a politics degree at Lancaster University but fell ill in her last years, dying on February 16th 2006 at the age of 78.
-
-_Sources: Joe Clarke tribute; Guardian 22.2.06; GS personal knowledge; Max Levenson._
+_
