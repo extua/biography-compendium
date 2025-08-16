@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="isbn" xml:lang="en" dir="ltr">
    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
       <dc:title id="main_title">Anatomy of decline</dc:title>
-      <meta
-         refines="#main_title"
-         property="title-type">
-         main
+      <meta refines="#main_title" property="title-type">
+      main
       </meta>
       <dc:title id="subtitle">
-      The Young Communist League 1967-86
+         The Young Communist League 1967-86
       </dc:title>
-      <meta
-         refines="#subtitle"
-         property="title-type">
-         subtitle
+      <meta refines="#subtitle" property="title-type">
+      subtitle
       </meta>
-      <dc:creator>Graham Stevenson</dc:creator>
-      <dc:contributor>Pierre Marshall</dc:contributor>
+      <dc:title id="fulltitle">Anatomy of decline: The Young Communist League 1967-86</dc:title>
+      <meta property="title-type" refines="#fulltitle">extended</meta>
+      <dc:identifier id="isbn">
+         ISBN here
+      </dc:identifier>
+      <dc:creator id="author">Graham Stevenson</dc:creator>
+      <meta refines="#author" property="role" scheme="marc:relators" id="role">
+      aut
+      </meta>
+      <dc:contributor id="markup_editor">Pierre Marshall</dc:contributor>
+      <meta refines="#markup_editor" property="role" scheme="marc:relators" id="role">
+      mrk
+      </meta>
       <dc:language>en</dc:language>
       <meta property="dcterms:modified">2025-08-09T10:54:03Z</meta>
    </metadata>
