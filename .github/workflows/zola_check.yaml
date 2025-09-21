@@ -12,5 +12,5 @@ jobs:
       - uses: actions/checkout@v4
       - uses: taiki-e/cache-cargo-install-action@v2
         with:
-          tool: zola@0.20.0
+          tool: zola@0.21
       - run: zola check --skip-external-links
