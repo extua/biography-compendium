@@ -5,7 +5,7 @@ categories = ["s"]
 tags = ["albert", "shaw"]
 [extra]
 birth = 1915
-sources = ["A and L Fowler “History of the Nelson Weavers” (1984)"]
+sources = ["A and L Fowler, History of the Nelson Weavers (1984)"]
 +++
 
 Shaw joined a union when aged 14 years when working in Lancashire textile mills. Some time in the 1930s, he joined the Communist Party.

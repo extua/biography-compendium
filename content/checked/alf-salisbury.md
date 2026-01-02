@@ -6,7 +6,7 @@ tags = ["alf", "salisbury"]
 [extra]
 birth = 1909
 death = 2000
-sources = ["Morning Star November 11th 2000, "Guardian December 8th 2000", "The life and times of Alf Salisbury by Liane Groves Cities of London & Westminster Trades Council."]
+sources = ["Morning Star November 11th 2000", "Guardian December 8th 2000", "The life and times of Alf Salisbury by Liane Groves Cities of London & Westminster Trades Council."]
 +++
 
 <!-- ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/salisbury%20alf%201.jpg)Alf Salisbury

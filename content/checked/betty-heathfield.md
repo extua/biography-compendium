@@ -6,7 +6,7 @@ tags = ["betty", "heathfield"]
 [extra]
 birth = 1927
 death = 2006
-sources = ["Joe Clarke tribute", "Guardian 22.2.06", "GS personal knowledge", "Max Levenson."]
+sources = ["Joe Clarke tribute", "Guardian 22.2.06", "GS personal knowledge", "Max Levenson"]
 +++
 
 Born in Chesterfield into a working class family, on March 30th 1927, both her grandfathers had been miners and her father, Billy Vardy, was also a miner. He was in the army during the First World War, serving in the Lincolnshire Regiment. He later became a gas worker, switching jobs because his wife was fearful for his safety in the mines. 

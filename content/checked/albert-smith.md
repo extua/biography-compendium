@@ -4,7 +4,7 @@ date = "2008-09-20"
 categories = ["s"]
 tags = ["albert", "smith"]
 [extra]
-sources = ["Barry Johnson \'Nine Days That Shook Mansfield: the General Strike in the Mansfield Area.'"]
+sources = ["Barry Johnson, Nine Days That Shook Mansfield: the General Strike in the Mansfield Area"]
 +++
 
 A Sheffield Young Communist League organiser, Smith travelled from Sheffield to Mansfield in May 1926, specifically to agitate on behalf of the Nottinghamshire miners during the General Strike.

@@ -5,7 +5,7 @@ categories = ["l"]
 tags = ["bert", "lloyd"]
 [extra]
 birth = 1908
-sources = ["David Gregory, \`A. L. Lloyd and the English Folk Song Revival, 1934-44’", "Canadian Journal for Traditional Music (1997)"]
+sources = ["David Gregory, A. L. Lloyd and the English Folk Song Revival, 1934-44", "Canadian Journal for Traditional Music (1997)"]
 +++
 
 Bert Lloyd's 1944 history of the evolution of English folk song from the 14th century to the 20th, \`The Singing Englishman’, which evolved into his \`Folk Song in England’ (1967), has rightly earned him the prestige of being the key interpreter of the tradition. Lloyd blended a Marxist approach to cultural history with an analysis of folksong melody and oral tradition.
