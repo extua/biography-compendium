@@ -10,7 +10,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v6
-      - uses: taiki-e/cache-cargo-install-action@v3
-        with:
-          tool: zola@0.21
-      - run: zola check --skip-external-links
+      - name: Install zola
+        run: sudo snap install --edge zola
+      - name: Check zola
+        run: zola check --skip-external-links
