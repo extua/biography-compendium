@@ -28,4 +28,4 @@ jobs:
           echo "${{ secrets.SSH_DEPLOY_KEY }}" > ~/.ssh/github_deploy
           chmod 600 ~/.ssh/github_deploy
           ssh-keyscan -t ecdsa github.com >> ~/.ssh/known_hosts
-          ssh -q -o Port=${{ secrets.SSH_PORT }} -o User=${{ secrets.SSH_USER }} -o BatchMode=yes -o StrictHostKeyChecking=no -o ConnectTimeout=5 ${{ secrets.SERVER_IP_ADDRESS }} 'exit 0'
+          ssh -q -o -o User=${{ secrets.SSH_USER }} -o BatchMode=yes -o StrictHostKeyChecking=no -o ConnectTimeout=5 ${{ secrets.SERVER_IP_ADDRESS }} 'exit 0'
