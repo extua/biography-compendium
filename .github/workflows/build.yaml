@@ -21,3 +21,11 @@ jobs:
         uses: getzola/github-pages@066755243e69f508fd1a74739fbf1a65f656c790
         with:
           zola_version: v0.22.0
+  
+      - name: Set up SSH key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_DEPLOY_KEY }}" > ~/.ssh/github_deploy
+          chmod 600 ~/.ssh/github_deploy
+          ssh-keyscan -t ecdsa github.com >> ~/.ssh/known_hosts
+          ssh -q -p ${{ secrets.SSH_PORT }} -o BatchMode=yes -o StrictHostKeyChecking=no -o ConnectTimeout=5 ${{ secrets.SERVER_IP_ADDRESS }} 'exit 0'
