@@ -22,10 +22,13 @@ jobs:
         with:
           zola_version: v0.22.0
   
-      - name: Set up SSH key
-        run: |
-          mkdir -p ~/.ssh
-          echo "${{ secrets.SSH_DEPLOY_KEY }}" > ~/.ssh/github_deploy
-          chmod 600 ~/.ssh/github_deploy
-          ssh-keyscan -t ecdsa github.com >> ~/.ssh/known_hosts
-          ssh -q -o BatchMode=yes -o StrictHostKeyChecking=no -o ConnectTimeout=5 ${{ secrets.SSH_CONNECTION_STRING }} 'exit 0'
+      - name: Execute remote SSH commands
+        uses: appleboy/ssh-action@v1
+        with:
+          host: ${{ secrets.SERVER_IP_ADDRESS }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_DEPLOY_KEY }}
+          # port: ${{ secrets.PORT }}
+          script: |
+            whoami
+            ls -al
