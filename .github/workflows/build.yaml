@@ -34,7 +34,7 @@ jobs:
           echo "${{ secrets.SSH_DEPLOY_KEY }}" > ~/.ssh/github_deploy
           chmod 600 ~/.ssh/github_deploy
           echo "${{ secrets.SSH_CONFIG }}" > ~/.ssh/config
-          scp public biogserver:/var/www/html
+          scp public/ biogserver:/var/www/html
 
       # - name: Execute remote SSH commands
       #   uses: appleboy/ssh-action@v1
