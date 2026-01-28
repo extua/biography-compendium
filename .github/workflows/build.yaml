@@ -17,10 +17,16 @@ jobs:
       - name: checkout
         uses: actions/checkout@v6.0.1
 
-      # - name: Build Zola + upload Pages artifact
-      #   uses: getzola/github-pages@066755243e69f508fd1a74739fbf1a65f656c790
-      #   with:
-      #     zola_version: v0.22.0
+      - name: Build site with Zola
+        shell: bash
+        run: |
+          set -euo pipefail
+          image="ghcr.io/getzola/zola:v0.22.1"
+          echo "Using image: $image"
+          docker run --rm \
+            -v "${{ github.workspace }}":/workspace \
+            -w "/workspace/" \
+            "$image" build
 
       - name: Set up SSH key
         run: |
@@ -29,7 +35,9 @@ jobs:
           chmod 600 ~/.ssh/github_deploy
           echo "${{ secrets.SSH_CONFIG }}" > ~/.ssh/config
           touch text.txt
-          scp text.txt biogserver:test.txt
+          ls
+          ls /public
+          scp /public biogserver:public
 
       # - name: Execute remote SSH commands
       #   uses: appleboy/ssh-action@v1
