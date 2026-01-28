@@ -12,7 +12,7 @@ permissions:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04-arm
     steps:
       - name: checkout
         uses: actions/checkout@v6.0.1
@@ -36,4 +36,4 @@ jobs:
           echo "${{ secrets.SSH_CONFIG }}" > ~/.ssh/config
 
       - name: Copy built site to server
-        run: scp -qr public/ biogserver:/var/www/html
+        run: rsync -e ssh public/ biogserver:/var/www/html
