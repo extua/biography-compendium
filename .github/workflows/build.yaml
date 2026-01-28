@@ -29,7 +29,7 @@ jobs:
           chmod 600 ~/.ssh/github_deploy
           echo "${{ secrets.SSH_CONFIG }}" > ~/.ssh/config
           touch text.txt
-          scp text.txt biogserver
+          scp text.txt biogserver:test.txt
 
       # - name: Execute remote SSH commands
       #   uses: appleboy/ssh-action@v1
