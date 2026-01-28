@@ -36,4 +36,4 @@ jobs:
           echo "${{ secrets.SSH_CONFIG }}" > ~/.ssh/config
 
       - name: Copy built site to server
-        run: rsync -er ssh public/ biogserver:/var/www/html
+        run: rsync -e ssh -r public/ biogserver:/var/www/html
