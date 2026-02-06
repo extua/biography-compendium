@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="isbn" xml:lang="en" dir="ltr">
+   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <dc:title id="main_title">Anatomy of decline</dc:title>
+      <meta refines="#main_title" property="title-type">
+      main
+      </meta>
+      <dc:title id="subtitle">
+         The Young Communist League 1967-86
+      </dc:title>
+      <meta refines="#subtitle" property="title-type">
+      subtitle
+      </meta>
+      <dc:title id="fulltitle">Anatomy of decline: The Young Communist League 1967-86</dc:title>
+      <meta property="title-type" refines="#fulltitle">extended</meta>
+      <dc:identifier id="isbn">
+         ISBN here
+      </dc:identifier>
+      <dc:creator id="author">Graham Stevenson</dc:creator>
+      <meta refines="#author" property="role" scheme="marc:relators">
+      aut
+      </meta>
+      <dc:contributor id="markup_editor">Pierre Marshall</dc:contributor>
+      <meta refines="#markup_editor" property="role" scheme="marc:relators">
+      mrk
+      </meta>
+      <dc:language>en</dc:language>
+      <meta property="dcterms:modified">2025-08-09T10:54:03Z</meta>
+   </metadata>
+   <!-- copyright rdf data goes here too? -->
+   <manifest>
+      <item href="titlepage.xhtml" id="title_page" media-type="application/xhtml+xml" />
+      <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav" />
+      <item href="01-bursting_the_bubble.xhtml" id="chapter_01" media-type="application/xhtml+xml" />
+      <item href="02-turning_rebels_into_revolutionaries.xhtml" id="chapter_02" media-type="application/xhtml+xml" />
+      <item href="03-world_youth_festivals.xhtml" id="chapter_03" media-type="application/xhtml+xml" />
+   </manifest>
+   <spine>
+      <itemref idref="title_page" />
+      <itemref idref="nav" linear="no" />
+      <itemref idref="chapter_01" />
+      <itemref idref="chapter_02" />
+      <itemref idref="chapter_03" />
+   </spine>
+</package>
