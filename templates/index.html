@@ -80,7 +80,7 @@
   
   {% set speculation_rules = load_data(path="static/speculation_rules.json", format="plain") %}
   <script type="speculationrules"
-  integrity="sha384-{{ get_hash(path="static/speculation_rules.json", sha_type=384, base64=true) | safe }}">{{ speculation_rules | safe }}</scripts>
+  integrity="sha384-{{ get_hash(path="static/speculation_rules.json", sha_type=384, base64=true) | safe }}">{{ speculation_rules | safe }}</script>
 </body>
 
 </html>
