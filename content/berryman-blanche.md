@@ -1,5 +1,5 @@
 +++
-title = "Berryman Blanche"
+title = "Blanche Berryman"
 date = "2012-02-15"
 [taxonomies]
 surname_initial = ["b"]
