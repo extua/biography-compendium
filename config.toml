@@ -20,8 +20,8 @@ build_search_index = false
 generate_sitemap = true
 
 taxonomies = [
-    { name = "surname_initial"},
-    { name = "tags", render = false},
+    { name = "surname_initial", render = false },
+    { name = "tags", render = false }
 ]
 
 [extra]
