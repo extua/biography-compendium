@@ -1,8 +1,15 @@
-# Build instructions
+# Instructions
 
-This site is built using [Zola](https://www.getzola.org/).
+## Build
 
+This site is generated using [Zola](https://www.getzola.org/).
 Install zola and run `zola build` in the root of this repository.
+
+## Deployment
+
+Every push to this repository sets off a workflow to check and rebuild the site.
+The artifact of the build is then automatically rsync'd to a web server.
+See the `.github` directory for details, but otherwise the deployment process is kept intentionally simple.
 
 # Credits
 
