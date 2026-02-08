@@ -1,5 +1,5 @@
 +++
-title = "Abbott Bill"
+title = "Bill Abbott"
 date = "2017-11-19"
 [taxonomies]
 surname_initial = ["a"]
@@ -13,4 +13,4 @@ Born in Ancoats, Manchester in 1905, Abbott became an apprentice pattern-maker a
 
 In 1925, he joined the Communist Party and the Minority Movement. In 1928, he became a founder member of the Openshaw branch of the National Unemployed Workers' Movement. In 1932, he went to work at A. V. Roe's Newton Heath factory, losing his job there two years later for political reasons.
 
-He then became East Lancs\* organiser for the NUWM. In 1935, he found regular work, becoming convenor at Metropolitan-Vickers by 1944.
+He then became East Lancs organiser for the NUWM. In 1935, he found regular work, becoming convenor at Metropolitan-Vickers by 1944.

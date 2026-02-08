@@ -17,28 +17,37 @@
 <body>
   <header>
     <div>
-      <h1>Graham Stevenson</h1>
+      <h1>{{ config.title }}</h1>
       <nav id="headernav">
         <a href="/">Home 🏠</a><a href="/">Back 📁</a>
       </nav>
     </div>
-    <h2>{{ config.title }}</h2>
   </header>
   <div id="page-wrap">
     <main>
-      <h3>
-      </h3>
+                      {% set surname_initial = get_taxonomy(kind="surname_initial") %}
+                      {% for category in surname_initial.items %}
+<h3 id="{{ category.name | slugify }}">
+    {{ category.name }}
+</h3>
+
 <ul>
+    {% for entry in category.pages %}
+    <li>
+        <a href="{{ entry.permalink | safe }}">{{ entry.title }}</a>
+    </li>
+    {% endfor %}
 </ul>
+{% endfor %}
     </main>
     <aside>
+      <h1>Navigation</h1>
       <section>
         Page meta. git tag. Other tags.
       </section>
       <nav>
         <h1>Navigation</h1>
         <section>
-          <h2>Compendium</h2>
           <div id="alphabetnav">
             <div>A</div>
             <div>B</div>
