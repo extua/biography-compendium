@@ -28,8 +28,13 @@
     <main>
       <h3>
       </h3>
-      <article>
-             </article>
+<ul>
+    {% for term in terms %}
+    <li>
+        <a href="{{ term.permalink }}">{{ term.name }} <sup><strong><sup>{{ term.page_count }}</sup></strong></sup> </a>
+    </li>
+    {% endfor %}
+</ul>
     </main>
     <aside>
       <section>
