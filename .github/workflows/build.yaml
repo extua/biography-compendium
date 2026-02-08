@@ -34,9 +34,7 @@ jobs:
           echo "${{ secrets.SSH_DEPLOY_KEY }}" > ~/.ssh/github_deploy
           chmod 600 ~/.ssh/github_deploy
           echo "${{ secrets.SSH_CONFIG }}" > ~/.ssh/config
-
+          echo "${{ secrets.SSH_KNOWN_HOSTS }}" > ~/.ssh/known_hosts
+          
       - name: Copy built site to server
-        run: |
-          rsync -e ssh -qr public/ biogserver:/var/www/html
-          echo "reading known_hosts"
-          cat ~/.ssh/known_hosts
+        run: rsync -e ssh -qr public/ biogserver:/var/www/html
