@@ -1,7 +1,8 @@
 +++
 title = "Frank and June Chenoweth"
 date = "2011-08-25"
-categories = ["c"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["frank", "chenoweth", "june"]
 [extra]
 sources = ["The Guardian 11th December 2008"]

@@ -1,7 +1,8 @@
 +++
 title = "Alex Tudor-Hart"
 date = "2009-07-28"
-categories = ["t"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["alex", "tudorhart"]
 +++
 
@@ -11,8 +12,5 @@ He served in a field operating theatre during the Spanish civil war. Methods of 
 
 Alex Tudor-Hart’s second wife was the Austrian Jewish photographer, Edith Suschitzky, later Edith Tudor-Hart (see separate entry). She is retrospectively rated as one of the most significant documentary photographers working in Britain in the 1930s and 1940s.
 
-<!--
-_Below: Ruth Bader-Gilbert's study of Alex Tudor-Hart:_ [http://ruthbadergilbert.net/content/gallery9.htm](http://ruthbadergilbert.net/content/gallery9.htm)
+_Ruth Bader-Gilbert's study of Alex Tudor-Hart:_ [http://ruthbadergilbert.net/content/gallery9.htm](http://ruthbadergilbert.net/content/gallery9.htm)
 
- ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/tudor%20hart%20alex%20by%20ruth%20bader%20gilbert.jpg)
- -->

@@ -1,9 +1,10 @@
 +++
 title = "Alf Maunders"
 date = 2008-09-19
-categories = ["m"]
-tags = ["alf", "maunders"]
 authors = ["Dick Maunders"]
+[taxonomies]
+surname_initial = ["m"]
+tags = ["alf", "maunders"]
 [extra]
 birth = 1908
 death = 1991

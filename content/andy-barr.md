@@ -1,18 +1,15 @@
 +++
 title = "Barr Andy"
 date = "2008-09-19"
-categories = ["b"]
-tags = ["barr", "andy"]
 authors = ["Michael Walker"]
+[taxonomies]
+surname_initial = ["b"]
+tags = ["barr", "andy"]
 [extra]
 birth = 1913
 death = 2003
 sources = ["Andy Barr: An Undiminished Dream (2003) by F Devine"]
 +++
-
-<!--
-![](https://grahamstevenson.me.uk/wp-content/uploads/2008/09/Barr-Andy.jpg)Andy Barr
- -->
 
 Communist and trade union leader in the north of Ireland, Andy Barr was born on 23rd September 1913 at 29 Cluan Place, off the Mountpottinger Road, east Belfast. He started his working life as an apprentice sheet metalworker in Musgraves on the Albert Bridge Road, where he was apprenticed to Sam McCoubrey, who became the district secretary of their union, He secured a clean job at the recently established Shorts aircraft works in 1938. He married Dorothy Adrain, a mill worker and shop steward at Ewarts Mill, in 1941. Barr was elected shop steward in 1942, in the same year he joined the Communist Party of Ireland. (His father had been involved in the Left Book Club.)
 

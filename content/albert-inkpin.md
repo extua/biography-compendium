@@ -1,15 +1,14 @@
 +++
 title = "Albert Inkpin"
 date = "2008-09-19"
-categories = ["i"]
+[taxonomies]
+surname_initial = ["i"]
 tags = ["albert", "inkpin"]
 [extra]
 birth = 1884
 death = 1944
 sources = ["Sunday Worker, 25th October 1925 (thanks to MW);  and other material"]
 +++
-
-<!-- ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/inkpin%20albert(1).jpg) -->
 
 Albert Samuel Inkpin was born in London in 1884; he joined the main Marxist current in Britain, the Social Democratic Federation (SDF) in 1906 and the National Union of Clerks in 1907. He rose rapidly in the socialist movement, being made Joint Assistant Secretary in 1907, a post he maintained until 1913. Inkpin took a leading role in the campaign against the "national" socialists, pro-imperialist forces, who controlled the journal \`Justice’, which had been the official organ of the SDF.
 

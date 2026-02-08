@@ -1,12 +1,12 @@
 +++
 title = "Abe, Alex and Dave Moffat"
 date = "2008-09-19"
-categories = ["m"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["alex", "dave", "abe", "moffat"]
+[extra]
 sources = ["Abe Moffat `My life with the miners' (1965) and other material"]
 +++
-
-<!-- ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/moffat%20abe%20scots%20miners%20presd2%20RESIZED(1).jpg) -->
 
 _(Note: unusually, the entries for these brothers are combined, for reasons that will be evident upon reading the text! Although the entry is somewhat skewed towards Abe, the more famous of them. The main source is Abe's biography, which, though generous to his brother Alex, who served the Communist Party and the miners with distinction - understandably focuses upon his own life. Sadly, there is little detail about David Moffat to draw upon.)_
 
@@ -26,16 +26,10 @@ This sequence of events is rarely referred to by critics of the decision to form
 
 Abe Moffat was not, again contrary to some academic persuasions, a key force in the creation of the UMS. He was, at the time of its foundation, a pit delegate - an important but not leading position; however, he was UMS secretary from 1931 to 1935 and, given the importance of this role, unsurprisingly was a delegate to the 7th Comintern Congress in 1935. His leadership of the UMS was primarily devoted to finding a way to achieve organisational unity amongst miners once again. In 1933 attempts to merge with the official union were rebuffed and, in 1935, with some support from the national miners' federation and arising from a proposition by Abe Moffat himself, UMS members balloted to apply for membership of the official Fife union, to maximise the possibilities for unity. Despite this, both Alex and Abe were victimised from working in the pits.
 
-<!-- ![moffat abe.jpg](http://graham.thewebtailor.co.uk/archives/moffat%20abe.jpg) --> 
-
 In 1938, Abe Moffat, who had been Willie Gallacher's agent in between elections, was himself elected a County Councillor, beating his Labour opponent by two to one and making the Communist Group of councillors five strong. He remained unbeaten as a councillor until 1944, when he left public elective office to become a full-time official for the miners� union. His brother, Alex Moffat also became an elected Communist Fife County Councillor, serving for 19 years in a seat that was held by the Party for 40 years!
 
 In 1938, with the discreet connivance of a full-time union official, both Alex and Abe were able to obtain work at a small private mine, not part of the county owners' association, largely due to their reputation for hard work. Fortunately, the union was then structured on localities not pits, so, in 1939, Abe Moffat was elected delegate for Lumphinnans, amicably replacing another brother, David, who had kept the seat warm for him! The following year he was elected to the EC of the Scottish miners' federation.
 
-<!-- ![moffat abe inset from banner.jpg](http://graham.thewebtailor.co.uk/archives/moffat%20abe%20inset%20from%20banner.jpg) -->
-
 He was elected President of the Scottish miners in 1942, with 32,000 votes to 19,700 for his challenger and then proceeded to lead the campaign for a single Scottish miners' union to be created out of the county associations.
-
-<!-- ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/moffat%20pamphlet.jpg)  _Left: a wartime pamphlet by Abe_ -->
 
 After the formation of the National Union of Miners (NUM) in 1944, across the whole of Britain, he was elected the Scottish President with a three to one vote, a position he held with considerable distinction until his retirement in September 1961. By that time, he served on the Scottish Communist Party District Committee for at least 25 years and the Party's national Executive Committee for 30 years.

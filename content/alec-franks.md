@@ -1,7 +1,8 @@
 +++
 title = "Alec Franks"
 date = "2008-09-19"
-categories = ["f"]
+[taxonomies]
+surname_initial = ["f"]
 tags = ["alec", "franks"]
 [extra]
 death = 1949

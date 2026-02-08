@@ -1,7 +1,8 @@
 +++
 title = "Alan Ecclestone"
 date = "2008-09-19"
-categories = ["e"]
+[taxonomies]
+surname_initial = ["e"]
 tags = ["alan", "ecclestone"]
 [extra]
 birth = 1904

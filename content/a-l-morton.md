@@ -1,15 +1,14 @@
 +++
 title = "A L Morton"
 date = "2008-09-19"
-categories = ["m"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["morton"]
 [extra]
 birth = 1903
 death = 1987
 sources = ["Morning Star 24th October 1987", "Morning Star 26th October 1987"]
 +++
-
-<!-- ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/morton%20a%20l.jpg) -->
 
 (Arthur) Leslie Morton was born on July 4th 1903 at Bury St Edmunds into a farming family. From 1921, he studied at Cambridge, where he was one of the group that formed around Maurice Dobb (see separate entry). Morton joined the Communist Party in 1929 and remained a member all of his life, along with his wife, Vivien, the daughter of T A Jackson (see spearate entry for Jackson).
 

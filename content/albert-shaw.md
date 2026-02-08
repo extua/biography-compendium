@@ -1,7 +1,8 @@
 +++
 title = "Albert Shaw"
 date = "2008-09-20"
-categories = ["s"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["albert", "shaw"]
 [extra]
 birth = 1915

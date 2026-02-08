@@ -1,7 +1,8 @@
 +++
 title = "Alfred Comrie"
 date = "2008-09-19"
-categories = ["c"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["comrie", "alfred"]
 [extra]
 birth = 1887
@@ -11,6 +12,6 @@ sources = ["Comrie's daughter", "Mrs Christina Wilson"]
 
 Born on 28th November 1887 in Nottingham, Comrie was a member of the SLP.
 
-He served in World War One and was a founder member of the Communist Party. He was married to Ellen Mary (Gill) Comrie. <!-- _(pictured right). ![](https://grahamstevenson.me.uk/wp-content/uploads/2008/09/comrie-ellen-mary-gill.jpg)_ -->
+He served in World War One and was a founder member of the Communist Party. He was married to Ellen Mary (Gill) Comrie.
 
 Alfred Comrie died on 15th December 1954.

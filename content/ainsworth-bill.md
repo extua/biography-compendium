@@ -1,16 +1,15 @@
 +++
 title = "Bill Ainsworth"
 date = "2013-07-17"
-categories = ["a"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["bill", "ainsworth"]
 [extra]
 birth = 1917
 death = 2008
 +++
 
-<!-- \[caption id="attachment\_1867" align="alignright" width="130"\]![](https://grahamstevenson.me.uk/wp-content/uploads/2010/01/ainsworth-bill.jpg) Bill Ainsworth in later life\[/caption\] -->
-
-W S Ainsworth was born on 17 January 1917 in Birmingham to William and Emily Ainsworth. Young Bill met his wife Gwen met at a Young Communist League camp in 1935 – probably one held by Birmingham Communists.  His twin brother, Fred, was also in the Communist Party and the two did everything together.
+WS Ainsworth was born on 17 January 1917 in Birmingham to William and Emily Ainsworth. Young Bill met his wife Gwen met at a Young Communist League camp in 1935 – probably one held by Birmingham Communists.  His twin brother, Fred, was also in the Communist Party and the two did everything together.
 
 But when the war broke out, the brother volunteered for the navy with the aim of carrying out political work in the forces at a time when the Party had characterised the war as basically imperialist. Acting Able Seaman Frederick John Ainsworth was 24 years old at the time of his death when he lost his life due to the sinking of the battleship Hood, in early 1941.
 

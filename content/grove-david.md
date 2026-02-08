@@ -1,7 +1,8 @@
 +++
 title = "David Grove"
 date = "2011-03-11"
-categories = ["g"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["david", "grove"]
 +++
 

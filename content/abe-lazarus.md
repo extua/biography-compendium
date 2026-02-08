@@ -1,9 +1,10 @@
 +++
 title = "Abe Lazarus"
 date = "2008-09-19"
-categories = ["l"]
-tags = ["lazarus", "abe"]
 authors = ["Michael Walker"]
+[taxonomies]
+surname_initial = ["l"]
+tags = ["lazarus", "abe"]
 [extra]
 birth = 1911
 death = 1967

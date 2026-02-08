@@ -1,16 +1,15 @@
 +++
 title = "Alex McCrindle"
 date = "2008-09-19"
-categories = ["m"]
-tags = ["alex", "mccrindle"]
 authors = ["Michael Walker"]
+[taxonomies]
+surname_initial = ["m"]
+tags = ["alex", "mccrindle"]
 [extra]
 birth = 1911
 death = 1990
 sources = ["Morning Star 18th August 1986", "The Times 28 April 1990"]
 +++
-
-<!-- ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/McCrindle%20Alex%201.jpg) -->
 
 Alex McCrindle, who was born on 3rd August 1911 in Glasgow, started work at the age of 10 years, delivering milk. At 15, he left school and got a job in a timer merchants' office. He started his acting career playing heroes in plays put on by the Boys Brigade. Later, after moving to Glasgow and getting a job as a manager of a hardware firm, he joined the Glasgow Clarion Players. A pioneer Scottish theatre group with strong links to the Communist Party, this was a predecessor of Glasgow Unity and Glasgow Citizens.
 
@@ -21,11 +20,6 @@ He eventually became a formable actor himself. In the period 1937-9, he appeared
 McCrindle began a history of the actors' union, Equity, but was unable to finish it due to being called up for the Royal Navy during the Second World War. He produced the first ever play performed on board a RN ship during war, \`Androcles and the Lion', transmitted over the Tannoy!
 
 He starred in the British BBC radio show \`Dick Barton Special Agent' from 1946-51, which ran for 700 episodes and had 15 million listeners. Alex played the role of Jock Anderson one of Dick Barton's key henchmen and was widely loved for the role and enormously popular in it. In 1947, he was producer of the TV programme \`Larry the Lamb'.
-
-<!--
-![alex mccrindle centre.jpg](http://graham.thewebtailor.co.uk/archives/alex%20mccrindle%20centre.jpg)
-The cast of Dick Barton Special Agent, from left: Alex McCrindle (centre) c.1948. BBC Photo Library
--->
 
 Although he also branched out very successfully into scriptwriting, McCrindle was effectively blacklisted because of his Communist and Equity activities for much of the important years of his career, especially from the late 1940s to the end of the 1950s. In the 1950s, he appeared - often uncredited to escape the blacklist - in a string of small budget movies as a character actor. But, in the main, blacklisting resulted in him devoting more time to building up Equity and securing improved pay and conditions for Actors, to meet this objective he was sent by his union to found Scottish Equity, which only had 15 members before he began his work. He worked at this full-time for the next seven years, leaving the union in a flouring position north of the border. In this period, he only worked in British television and then only twice during the early 1960s.
 

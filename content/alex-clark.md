@@ -1,7 +1,8 @@
 +++
 title = "Alex Clark"
 date = "2008-09-19"
-categories = ["c"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["clark", "alex"]
 [extra]
 birth = 1922

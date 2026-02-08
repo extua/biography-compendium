@@ -1,7 +1,8 @@
 +++
 title = "A L (Bert) Lloyd"
 date = "2008-09-19"
-categories = ["l"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["bert", "lloyd"]
 [extra]
 birth = 1908

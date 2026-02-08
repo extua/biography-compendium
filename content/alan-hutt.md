@@ -1,7 +1,8 @@
 +++
 title = "Alan Hutt"
 date = "2008-09-19"
-categories = ["h"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["alan", "hutt"]
 [extra]
 birth = 1901

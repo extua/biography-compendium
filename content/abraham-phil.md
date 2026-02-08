@@ -1,7 +1,8 @@
 +++
 title = "Phil Abraham"
 date = "2011-08-25"
-categories = ["a"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["abraham", "phil"]
 +++
 

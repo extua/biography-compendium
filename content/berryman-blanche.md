@@ -1,7 +1,8 @@
 +++
 title = "Berryman Blanche"
 date = "2012-02-15"
-categories = ["b"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["blanche", "berryman"]
 [extra]
 death = "2012"

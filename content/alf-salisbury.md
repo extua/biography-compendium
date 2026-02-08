@@ -1,18 +1,14 @@
 +++
 title = "Alf Salisbury"
 date = "2008-09-20"
-categories = ["s"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["alf", "salisbury"]
 [extra]
 birth = 1909
 death = 2000
 sources = ["Morning Star November 11th 2000", "Guardian December 8th 2000", "The life and times of Alf Salisbury by Liane Groves Cities of London & Westminster Trades Council."]
 +++
-
-<!-- ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/salisbury%20alf%201.jpg)Alf Salisbury
-
-_Alf Salisbury (far left) demonstrating in Stepney in 1936_
--->
 
 Alf was born to Latvian Jewish immigrant parents in 1909, one of ten children. He left school at 14 years of age and joined the merchant marine and the National Union of Seamen.
 
@@ -27,8 +23,6 @@ Rejected on medical grounds for wartime military service, in 1940 he married Lil
 Alf was involved in East End housing campaigns and started a rent strike, becomg evicted in the process. Over the next years, he worked in the textile, clothing, chemical and furniture industries, on the railways, edning up with the London Co-Operative Society.  
 
 He spent his remaining years as a local activist of considerable renown, being involved with trades councils, and latterly with the shopworkers' union Usdaw, until his death. In 1970, he co-founded the Waltham Forest Campaign for Nuclear Disarmament.
-
-<!-- ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/salisbury%20alf.jpg) -->
 
 He remained involved with his union post-retirement, with London pensioners' organisations and the International Brigade Association. In the 1980s, he was exceptionally active in supporting the miners' strike and the printers sacked by Rupert Murdoch at Wapping, and the pensioners' movement.
 

@@ -1,7 +1,8 @@
 +++
 title = "Dorothy M. Adams"
 date = "2011-08-25"
-categories = ["a"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["dorothy", "adams"]
 [extra]
 sources = ["Leicester Oral History Archive 1983", "Ned Newitt"]

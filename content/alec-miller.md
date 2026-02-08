@@ -1,14 +1,13 @@
 +++
 title = "Alec Miller"
 date = "2008-09-19"
-categories = ["m"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["alec", "miller"]
 [extra]
 death = 1986
 sources = ["Morning Star 17th December 1986"]
 +++
-
-<!-- ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/miller%20alec%201.jpg) -->
 
 Born in Stepney, in the east end of London, Miller trained to be a signwriter, a trade that enabled him to design and produce many posters and banners. He joined the Young Communist League at 14 years of age and went on to organise the biggest ever YCL branch at Stepney, with some 250 members.
 

@@ -1,15 +1,14 @@
 +++
 title = "Alex McCulloch"
 date = "2008-09-19"
-categories = ["m"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["alex", "mcculloch"]
 [extra]
 birth = 1910
 death = 1991
 sources = ["Frank Watters' speech on the occasion of MDCP celebration of Alex McColloch's 65th birthday c. 1975"]
 +++
-
-<!-- ![](https://grahamstevenson.me.uk/wp-content/uploads/2008/09/mcculloch-alex.jpg) -->
 
 Born in 1910, like his brother, Walter, Alex was also a Glasgow carpenter who came south looking for work. Alex joined the Communist Party aged 25.
 

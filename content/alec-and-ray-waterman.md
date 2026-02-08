@@ -1,9 +1,10 @@
 +++
 title = "Alec and Ray Waterman"
 date = "2008-09-20"
-categories = ["w"]
-tags = ["ray", "alec", "waterman"]
 authors = ["Pete Waterman"]
+[taxonomies]
+surname_initial = ["w"]
+tags = ["ray", "alec", "waterman"]
 [extra]
 birth = 1907
 death = 1966

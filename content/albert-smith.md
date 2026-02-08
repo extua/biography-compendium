@@ -1,8 +1,9 @@
 +++
 title = "Albert Smith"
 date = "2008-09-20"
-categories = ["s"]
-tags = ["albert", "smith"]
+[taxonomies]
+surname_initial = ["s"]
+tags = ["albert", "smith", "YCL"]
 [extra]
 sources = ["Barry Johnson, Nine Days That Shook Mansfield: the General Strike in the Mansfield Area"]
 +++

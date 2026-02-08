@@ -1,9 +1,10 @@
 +++
 title = "Alan Watts"
 date = "2009-07-19"
-categories = ["w"]
-tags = ["alan", "watts", "ycl"]
 authors = ["Michael Walker"]
+[taxonomies]
+surname_initial = ["w"]
+tags = ["alan", "watts", "ycl"]
 [extra]
 sources = ["Challenge November 1975"]
 +++
@@ -12,6 +13,6 @@ Watts was the former North West District and Merseyside Communist Party Chair, t
 
 Mersey Dynamo was under the secretaryship of John Volleamere (ex-Merseyside YCL Secretary). Watts had been an activist in the YCL and came from a Communist family.
   
-Another Communist football team active in on Merseyside was the  Merseyside Chilean Communist Party X1 under the secretaryship of Alberto Toledo, Secretary of Merseyside Chile Communist Party.
+Another Communist football team active in on Merseyside was the Merseyside Chilean Communist Party X1 under the secretaryship of Alberto Toledo, Secretary of Merseyside Chile Communist Party.
   
 The idea of a Merseyside YCL Football team "Mersey Dynamo" was first agreed at the Merseyside YCL conference in April 1972, but for six months before this the YCL had been running an unofficial team. This was part of a deliberate "political approach" to social activities and was endorsed at the 1973 and 1975 YCL congress.

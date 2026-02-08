@@ -1,7 +1,8 @@
 +++
 title = "Alf Adler"
 date = "2008-09-19"
-categories = ["a"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["alf", "adler"]
 [extra]
 birth = 1906

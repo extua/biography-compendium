@@ -1,7 +1,8 @@
 +++
 title = "Heathfield Betty"
 date = "2008-09-19"
-categories = ["h"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["betty", "heathfield"]
 [extra]
 birth = 1927

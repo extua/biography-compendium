@@ -1,9 +1,10 @@
 +++
 title = "Alfred Augustus Watts"
 date = "2008-09-20"
-categories = ["w"]
-tags = ["alfred", "watts", "augustus"]
 authors = ["Michael Walker"]
+[taxonomies]
+surname_initial = ["w"]
+tags = ["alfred", "watts", "augustus"]
 [extra]
 birth = 1862
 death = 1928

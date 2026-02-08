@@ -1,7 +1,8 @@
 +++
 title = "Abbott Bill"
 date = "2017-11-19"
-categories = ["a"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["bill", "abbott", "NUWM"]
 [extra]
 birth = 1905

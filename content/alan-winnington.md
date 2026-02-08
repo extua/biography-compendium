@@ -1,7 +1,8 @@
 +++
 title = "Alan Winnington"
 date = "2008-09-20"
-categories = ["w"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["alan", "winnington"]
 [extra]
 birth = 1910

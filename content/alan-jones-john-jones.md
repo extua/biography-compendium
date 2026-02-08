@@ -1,7 +1,8 @@
 +++
 title = "John Jones (Cllr)"
 date = "2008-09-19"
-categories = ["j"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["cllr", "john", "jones"]
 [extra]
 death = 1988
