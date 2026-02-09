@@ -5,8 +5,8 @@
 		<meta charset="UTF-8">
 		<title>{{ config.title }}</title>
 		<meta name="description" content="{{ config.description }}">
-		<meta name="keywords" content="biography, labour, socialism, tgwu{{ config.description }}">
-		<meta name="author" content="{{ config.author }}biography, labour, socialism, tgwu, cpgb">
+		<meta name="keywords" content="biography, labour, socialism, tgwu, cpgb">
+		<meta name="author" content="{{ config.author }}">
 		<meta name="viewport" content="width=device-width,initial-scale=1">
 		<meta name="generator" content="zola">
 		<link rel="icon" href="{{ get_url(path='favicon.svg', trailing_slash=false) | safe }}">
@@ -16,12 +16,7 @@
 
 	<body>
 		<header>
-			<div>
 				<h1>{{ config.title }}</h1>
-				<nav id="headernav">
-					<a href="/">Home 🏠</a><a href="/">Back 📁</a>
-				</nav>
-			</div>
 		</header>
 		<div id="page-wrap">
 			<main>
@@ -41,9 +36,10 @@
 				{% endfor %}
 			</main>
 			<aside>
-				<h1>Navigation</h1>
+				<h1>About</h1>
 				<section>
-					Page meta. git tag. Other tags.
+					Graham Stevenson
+					
 				</section>
 				<nav>
 					<h1>Navigation</h1>
@@ -81,13 +77,19 @@
 			</aside>
 
 			<footer>
-				<section>Copyright 2026</section>
-				<section>About Graham</section>
-				<section>About this site</section>
+				<section>©
+				{% if page.date %}
+{{ page.date | date(format="%Y") }}
+{% else %}
+{{ now() | date(format="%Y") }}
+{% endif %}
+				{% if page.authors %}
+{{ page.authors }}
+{% else %}
+Graham Stevenson and contributors{% endif %}. This page can be freely copied under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><abbr title="Creative Commons">CC</abbr>-<abbr title="Attribution">BY</abbr>-<abbr title="ShareAlike">SA</abbr> 4.0 license</a>.</section>
+<section>Generated on <time datetime="{{ now() | date(format="%Y-%m-%d %H:%M",timezone="Europe/London") }}">{{ now() | date(format="%e %B %Y",timezone="Europe/London") }} from git commit ???</time></section>
 			</footer>
 		</div>
-
-		{% set speculation_rules = load_data(path="static/speculation_rules.json", format="plain") %}
-		<script type="speculationrules">{{ speculation_rules | safe }}</script>
+		<script type="speculationrules">{{ load_data(path="static/speculation_rules.json", format="plain") | safe }}</script>
 	</body>
 </html>
