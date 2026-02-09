@@ -156,6 +156,7 @@ body {
     margin-inline: auto;
     margin-block: var(--text-size-lg);
     width: clamp(68%, calc(50svw + 21rem), 95%);
+    background-color: light-dark(#fffdfa, #000604);
 }
 
 header > div {

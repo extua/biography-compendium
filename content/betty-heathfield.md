@@ -1,5 +1,5 @@
 +++
-title = "Heathfield Betty"
+title = "Betty Heathfield"
 date = "2008-09-19"
 [taxonomies]
 surname_initial = ["h"]

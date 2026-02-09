@@ -1,5 +1,5 @@
 +++
-title = "John Jones (Cllr)"
+title = "John Jones"
 date = "2008-09-19"
 [taxonomies]
 surname_initial = ["j"]

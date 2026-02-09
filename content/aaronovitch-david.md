@@ -12,7 +12,7 @@ Born in 1954, Aaronovitch was the son of a rather more grounded leading member o
 
 After being thrown out of Oxford in 1974 for failing exams, Aaronovitch studied history at Manchester University, graduating in 1978.
 
-While at Manchester University, in 1975, he was part of a University Challenge team that answered every question with "Che Guevara", "Marx", "Trotsky" or "Lenin". It was a protest about the programme's bias towards Oxbridge in that Oxford and Cambridge universities can enter each of their colleges in the contest as a separate team, even though the individual colleges are not universities in themselves.
+While at Manchester University, in 1975, he was part of a University Challenge team that [answered every question](https://www.youtube.com/watch?v=9LLR6tGRAUI) with "Che Guevara", "Marx", "Trotsky" or "Lenin". It was a protest about the programme's bias towards Oxbridge in that Oxford and Cambridge universities can enter each of their colleges in the contest as a separate team, even though the individual colleges are not universities in themselves.
 
 Aaronovitch adopted an extreme “Euro-Communist position” during his later years of membership of the Communist Party and was highly confrontational in his activities within the Party.
 

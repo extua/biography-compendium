@@ -1,9 +1,11 @@
 +++
 title = "David Grove"
-date = "2011-03-11"
+date = 2011-03-11
 [taxonomies]
 surname_initial = ["g"]
 tags = ["david", "grove"]
+[extra]
+birth = 1923
 +++
 
 David was born in Liverpool in 1923. He grew up in a comfortable middle class suburb during the Great Depression, and attended the local state grammar school (Quarry Bank), where John Lennon was later a pupil.  When David ever went into the city centre, the tram passed the great bulk of the new Anglican cathedral rising amidst some of the worst slums in Europe. David was shocked by the poverty and waste, inequality and conflict that he saw all around.
@@ -30,7 +32,7 @@ The branch launched a campaign against high rents, which was taken up by the ten
 
 He was also active in the CP Architecture & Planning Group, and was one of the team that wrote \`_This Housing Question’_, published by Lawrence & Wishart in 1954. David’s article “Lessons of the New Towns” was published in _Marxism Today_ in March 1962. He also wrote “La planification urbaine: est-elle possible en régime capitaliste” for the French Communist journal _Democratie Nouvelle_ (February 1961).
 
-In 1961 David took a research post at the University of Kumasi and the family moved to Ghana for three years. He and Elizabeth took part in activities of the Convention People’s Party, and had lively discussions with an informal group of socialist students who were concerned that the policies of the élite clique surrounding Kwame Nkrumah were leading to disaster. His article “Progress and Problems in Ghana” was published in _Marxism Today_ in November 1963.
+In 1961 David took a research post at the University of Kumasi and the family moved to Ghana for three years. He and Elizabeth took part in activities of the Convention People’s Party, and had lively discussions with an informal group of socialist students who were concerned that the policies of the élite clique surrounding Kwame Nkrumah were leading to disaster. His article “[Progress and Problems in Ghana](https://www.marxists.org/subject/africa/cpgb/progress-ghana.pdf)” was published in _Marxism Today_ in November 1963.
 
 In 1965 David joined the planning and architectural consultancy recently established by his old colleague and comrade Graeme Shankland (see separate entry). His first task was to manage a study for the expansion of Ipswich. He lived for a time at Brightlingsea, where he bought a boat and learned to sail. He was co-opted on to the East Anglia District Committee. This was at the time when it was proposed to change the name of the _Daily Worker_; the DC voted unanimously against a change. It was the only occasion David met his intellectual hero, the great Marxist historian and literary critic, A L Morton.
 
