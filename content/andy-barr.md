@@ -1,5 +1,5 @@
 +++
-title = "Barr Andy"
+title = "Andy Barr"
 date = "2008-09-19"
 authors = ["Michael Walker"]
 [taxonomies]
