@@ -29,8 +29,6 @@ ol[role='list'] {
 /* Set core body defaults */
 body {
     line-height: 1.5;
-    /* Improve text rendering */
-    text-rendering: optimizeLegibility;
 }
 
 /* Set shorter line heights on headings and interactive elements */
@@ -66,11 +64,6 @@ input, button,
 textarea, select {
     font-family: inherit;
     font-size: inherit;
-}
-
-/* Make sure textareas without a rows attribute are not tiny */
-textarea:not([rows]) {
-    min-height: 10em;
 }
 
 /* Anything that has been anchored to should have extra scroll margin */
@@ -135,14 +128,6 @@ textarea:not([rows]) {
 
 body {
     font-family: 'Lexica Ultralegible', 'Atkinson Hyperlegible', Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, Helvetica, Arial, sans-serif;
-    
-    @media (prefers-color-scheme: light) {
-      filter: sepia(4%);
-    }
-    
-    @media (prefers-color-scheme: dark) {
-      filter: contrast(104%);
-    }
     
 }
 
@@ -274,6 +259,9 @@ aside {
         gap: var(--sizing-gap-base);
         font-size: var(--text-size-xl);
         justify-items: center;
+        & div {
+            text-transform: uppercase;
+        }
     }
 }
 
