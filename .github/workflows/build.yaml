@@ -13,16 +13,22 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-24.04-arm
+    env:
+        env: prod
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
     steps:
       - name: checkout
         uses: actions/checkout@v6
 
       - name: Build site with Zola
         shell: bash
+        env:
+          COMMIT_HASH: ${{ github.sha }}
         run: |
           set -euo pipefail
           image="ghcr.io/getzola/zola:v0.22.1"
-          echo "Using image: $image"
+          echo "Using image: $image with hash $COMMIT_HASH"
           docker run --rm \
             -v "${{ github.workspace }}":/workspace \
             -w "/workspace/" \
