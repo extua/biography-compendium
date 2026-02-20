@@ -60,7 +60,12 @@
 				{% if page.authors %}{{ page.authors }}{% else %}Graham Stevenson and contributors{% endif %}.
 				This page can be freely copied under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><abbr title="Creative Commons">CC</abbr>-<abbr title="Attribution">BY</abbr>-<abbr title="ShareAlike">SA</abbr> 4.0 license</a>.
 				The text on this page has not been produced by a language model.</section>
-				<section>Page generated on <time datetime="{{ now() | date(format="%Y-%m-%d %H:%M",timezone="Europe/London") }}">{{ now() | date(format="%e %B %Y",timezone="Europe/London") }} from git commit ???</time></section>
+				<section>Page generated on <time datetime="{{ now() | date(format="%Y-%m-%d %H:%M",timezone="Europe/London") }}">{{ now() | date(format="%e %B %Y",timezone="Europe/London") }}</time> at git commit
+					{% if get_env(name="COMMIT_HASH") %}
+					{% set long_commit_hash = get_env(name="COMMIT_HASH") %}
+					at git commit <a href="https://github.com/extua/biography-compendium/commit/{{ long_commit_hash }}">{{ long_commit_hash | truncate(length=7, end="") }}</a>.
+					{% endif %}
+				</section>
 			</footer>
 		</div>
 		<script type="speculationrules">{{ load_data(path="static/speculation_rules.json", format="plain") | safe }}</script>
