@@ -19,16 +19,15 @@ jobs:
         uses: actions/checkout@v6
 
       - name: Build site with Zola
-        shell: bash
-        env:
-          COMMIT_HASH: ${{ github.sha }}
+        shell: bash          
         run: |
           set -euo pipefail
           image="ghcr.io/getzola/zola:v0.22.1"
-          echo "Using image: $image with hash $COMMIT_HASH"
+          echo "Using image: $image"
           docker run --rm \
             -v "${{ github.workspace }}":/workspace \
             -w "/workspace/" \
+            -e COMMIT_HASH=${{ github.sha }} \
             "$image" build
 
       - name: Set up SSH key
