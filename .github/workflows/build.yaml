@@ -13,9 +13,6 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-24.04-arm
-    env:
-        env: prod
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
     steps:
       - name: checkout
