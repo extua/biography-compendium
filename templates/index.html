@@ -23,7 +23,7 @@
 				{% set surname_initial = get_taxonomy(kind="surname_initial") %}
 				{% for category in surname_initial.items %}
 				<h3 id="{{ category.name | slugify }}">
-					{{ category.name }}
+					{{ category.name | upper }}
 				</h3>
 
 				<ul>
@@ -60,11 +60,14 @@
 					This page can be freely copied under the <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><abbr title="Creative Commons">CC</abbr>-<abbr title="Attribution">BY</abbr>-<abbr title="ShareAlike">SA</abbr>
 					4.0 license</a>.
 					The text on this page has not been produced by a language model.</section>
-				<section>Page generated on <time datetime="{{ now() | date(format='%Y-%m-%d %H:%M', timezone='Europe/London') }}">{{ now() | date(format=''%e %B %Y', timezone='Europe/London') }}</time>
+				<section>Page generated on {% set date_now_rfc3399 = now() | date(format="%Y-%m-%d %H:%M", timezone='Europe/London') %}
+				{% set date_now_natural = now() | date(format="%e %B %Y", timezone='Europe/London') %}
+				<time datetime="{{ date_now_rfc3399 }}">{{ date_now_natural }}</time>
 					{% set long_commit_hash = get_env(name="COMMIT_HASH",  default="") %}
 					{% if long_commit_hash != "" %}
 					at git commit <a href="https://github.com/extua/biography-compendium/commit/{{ long_commit_hash }}">{{ long_commit_hash | truncate(length=7, end="") }}</a>
-					{% endif %}.</section>
+					{% else %}
+					and this is a development build{% endif %}.</section>
 			</footer>
 		</div>
 		<script type="speculationrules">{{ load_data(path="static/speculation_rules.json", format="plain") | safe }}</script>

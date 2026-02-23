@@ -17,12 +17,6 @@
 
 	<body>
 		<header>
-			<div>
-				<h1>Graham Stevenson</h1>
-				<nav id="headernav">
-					<a href="/">Home 🏠</a><a href="/">Back 📁</a>
-				</nav>
-			</div>
 			<h2>{{ config.title }}</h2>
 		</header>
 		<div id="page-wrap">
@@ -50,58 +44,6 @@
 				</article>
 			</main>
 			<aside>
-				<section>
-					Page meta. git tag. Other tags.
-				</section>
-				<nav>
-					<h1>Navigation</h1>
-					<section>
-						<h2>Search</h2>
-						<search>
-							<form action="./search/">
-								<input type="search" id="biographysearch" name="q">
-								<button type="submit">Search</button>
-							</form>
-						</search>
-					</section>
-					<section>
-						<h2>Compendium</h2>
-						<div id="alphabetnav">
-							<div>A</div>
-							<div>B</div>
-							<div>C</div>
-							<div>D</div>
-							<div>E</div>
-							<div>F</div>
-							<div>G</div>
-							<div>H</div>
-							<div>I</div>
-							<div>J</div>
-							<div>K</div>
-							<div>L</div>
-							<div>M</div>
-							<div>N</div>
-							<div>O</div>
-							<div>P</div>
-							<div>Q</div>
-							<div>R</div>
-							<div>S</div>
-							<div>T</div>
-							<div>U</div>
-							<div>V</div>
-							<div>W</div>
-							<div>X</div>
-							<div>Y</div>
-							<div>Z</div>
-						</div>
-					</section>
-					<section>
-						<h2>Speeches</h2>
-					</section>
-					<section>
-						<h2>Marxism</h2>
-					</section>
-				</nav>
 				{%- if page.extra.sources -%}
 				<section>
 					<h2>References</h2>
@@ -113,12 +55,6 @@
 				</section>
 				{%- endif -%}
 			</aside>
-
-			<footer>
-				<section>Copyright 2026</section>
-				<section>About Graham</section>
-				<section>About this site</section>
-			</footer>
 		</div>
 		<script type="application/ld+json">
 			{
