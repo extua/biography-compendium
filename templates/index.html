@@ -29,6 +29,11 @@
 				<ul>
 					{% for entry in category.pages %}
 					<li>
+
+					          {% if entry.taxonomies.sex %}
+                    {% set sex = entry.taxonomies.sex[0] %}
+                    <span class="sex">{% if sex == "man" %}♂{% else %}♀{% endif %}</span>
+                    {% endif %}
 						<a href="{{ entry.permalink | safe }}">{{ entry.title }}</a>
 					</li>
 					{% endfor %}
