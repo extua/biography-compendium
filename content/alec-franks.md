@@ -4,6 +4,7 @@ date = "2008-09-19"
 [taxonomies]
 surname_initial = ["f"]
 tags = ["alec", "franks"]
+sex = ["man"]
 [extra]
 death = 1949
 +++

@@ -5,6 +5,7 @@ authors = ["Michael Walker"]
 [taxonomies]
 surname_initial = ["m"]
 tags = ["alex", "mccrindle"]
+sex = ["man"]
 [extra]
 birth = 1911
 death = 1990

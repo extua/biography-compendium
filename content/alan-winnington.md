@@ -4,13 +4,12 @@ date = "2008-09-20"
 [taxonomies]
 surname_initial = ["w"]
 tags = ["alan", "winnington"]
+sex = ["man"]
 [extra]
 birth = 1910
 death = 1983
 sources = ["Alan Winnington “Breakfast with Mao - Memoirs of a Foreign Correspondent” Lawrence and Wishart (1986), and other miscdellaneous sources."]
 +++
-
-<!-- ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/winnington%20alan003.jpg) _Left: Winnington, in China, writing a report for the Daily Worker_ -->
 
 Born in London in 1910, he was a bright child who was able to win a scholarship to Chigwell school. He was won to the Communist Party after a chance meeting with Harry Pollitt in a pub, when the Party’s leader put off his desire for a political discussion by selling him a copy of the 1848 Communist Manifesto that he happened to have in his pocket. Winnington eventually joined the Party in Walthamstow around 1934 and soon became a branch secretary. 
 

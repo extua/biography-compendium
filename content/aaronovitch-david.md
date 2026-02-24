@@ -4,6 +4,7 @@ date = "2017-12-26"
 [taxonomies]
 surname_initial = ["a"]
 tags = ["david", "aaronovitch"]
+sex = ["man"]
 [extra]
 birth = 1954
 +++

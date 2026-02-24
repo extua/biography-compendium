@@ -5,6 +5,7 @@ authors = ["Michael Walker"]
 [taxonomies]
 surname_initial = ["w"]
 tags = ["alan", "watts", "ycl"]
+sex = ["man"]
 [extra]
 sources = ["Challenge November 1975"]
 +++

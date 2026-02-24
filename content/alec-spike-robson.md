@@ -1,13 +1,15 @@
 +++
-title = "Alec 'Spike' Robson"
+title = "Alec Robson"
 date = "2008-09-20"
 [taxonomies]
 surname_initial = ["r"]
 tags = ["alec", "robson", "spike"]
+sex = ["man"]
 [extra]
 birth = 1895
 death = 1979
 sources = ["Spike (Alec Robson 1895-1979) Class Fighter, North Tyneside TUC (1987)"]
+aka = "Spike"
 +++
 
 Robson was born in 1895, one of 11 children, to a mining family. He began himself in the Gambois pit, near Blyth, aged only 11 years, He was a trapper boy, regulating the flow of air by opening and closing doors and allowing the pony-pulled tubs of coal came up, much harder work than it sounds especially when doing the then standard ten hour day.

@@ -3,7 +3,8 @@ title = "Alec Miller"
 date = "2008-09-19"
 [taxonomies]
 surname_initial = ["m"]
-tags = ["alec", "miller"]
+tags = ["alec", "miller", "Challenge"]
+sex = ["man"]
 [extra]
 death = 1986
 sources = ["Morning Star 17th December 1986"]
@@ -15,4 +16,4 @@ He played a prominent role in the struggles of the unemployed, took par in the B
 
 Miller became London YCL District Secretary after the war and was the Treasurer of the London Communist Party for many years. During this period, he began organising tours to socialist countries for the Party, before branching out on his own account into tourism; this became Progressive Tours.
 
-He had wide interests, witnessed by his organisation of the Challenge Jazz Club, the Challenge Film Club (\`Challenge� was and is the name of the Young Communist League journal) and the Socialist Youth Camp in the New Forest. He was expelled by the revisionist leadership of the CPGB during the internal struggles of the 1980s but never accepted this as valid, remaining Chair of the Sydenham branch until his death in 1986.
+He had wide interests, witnessed by his organisation of the Challenge Jazz Club, the Challenge Film Club (\`Challenge' was and is the name of the Young Communist League journal) and the Socialist Youth Camp in the New Forest. He was expelled by the revisionist leadership of the CPGB during the internal struggles of the 1980s but never accepted this as valid, remaining Chair of the Sydenham branch until his death in 1986.

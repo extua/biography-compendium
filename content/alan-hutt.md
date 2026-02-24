@@ -4,14 +4,11 @@ date = "2008-09-19"
 [taxonomies]
 surname_initial = ["h"]
 tags = ["alan", "hutt"]
+sex = ["man"]
 [extra]
 birth = 1901
 death = 1973
 +++
-
-<!-- ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/hutt%20at%20dw%20ed%20mtg%20during%20war.jpg)
-
-_Picture:_ _war-time Daily Worker editorial meeting with Allen Hutt, Bill Rust, J R Campbell and Ivor Montagu_-->
 
 Born in 1901, Allen Hutt began writing for the Communist Party’s journals shortly after the General Strike. He joined the Daily Worker from its first issue as a journalist. Throughout, he was a prolific writer of pamphlets and books and was a life-long Communist.
 

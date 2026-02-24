@@ -4,9 +4,8 @@ date = "2011-08-25"
 [taxonomies]
 surname_initial = ["a"]
 tags = ["abraham", "phil"]
+sex = ["man"]
 +++
-
-<!-- ![](https://grahamstevenson.me.uk/wp-content/uploads/2019/05/abraham-phil.jpg) -->
 
 The secretary of the Nantyglo branch of the National Unemployed Workers Movement, Abraham was effectively the local leader of the unemployed. He reckoned that around 60% of the unemployed in Blaina were associated with the NUWM. Thus, the work that Communist Party did within the unemployed clearly boosted support for the party in the locality.
 

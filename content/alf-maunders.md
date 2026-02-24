@@ -5,6 +5,7 @@ authors = ["Dick Maunders"]
 [taxonomies]
 surname_initial = ["m"]
 tags = ["alf", "maunders"]
+sex = ["man"]
 [extra]
 birth = 1908
 death = 1991

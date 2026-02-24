@@ -5,6 +5,7 @@ authors = ["Jim Gibb"]
 [taxonomies]
 surname_initial = ["g"]
 tags = ["alfred", "gibb"]
+sex = ["man"]
 +++
 
 Prior to the Second World War and during it, my father, Alfred Gibb was a Communist Party member and a member of the AEU. He worked in London in various factories. At the time we were living in Kilburn, he worked at Handley-Page at Cricklewood.

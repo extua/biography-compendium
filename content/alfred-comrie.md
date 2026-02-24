@@ -8,6 +8,7 @@ tags = ["comrie", "alfred"]
 birth = 1887
 death = 1954
 sources = ["Comrie's daughter", "Mrs Christina Wilson"]
+sex = ["man"]
 +++
 
 Born on 28th November 1887 in Nottingham, Comrie was a member of the SLP.

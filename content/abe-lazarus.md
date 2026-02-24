@@ -5,6 +5,7 @@ authors = ["Michael Walker"]
 [taxonomies]
 surname_initial = ["l"]
 tags = ["lazarus", "abe"]
+sex = ["man"]
 [extra]
 birth = 1911
 death = 1967

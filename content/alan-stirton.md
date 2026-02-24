@@ -4,6 +4,7 @@ date = "2008-09-20"
 [taxonomies]
 surname_initial = ["s"]
 tags = ["alan", "stirton"]
+sex = ["man"]
 +++
 
 Formerly active in Cudworth Labour Party, Barnsley, Stirton had been a member of the united front-minded Socialist League in the period before the Second World War.

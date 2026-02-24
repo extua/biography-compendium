@@ -4,6 +4,7 @@ date = "2008-09-20"
 [taxonomies]
 surname_initial = ["s"]
 tags = ["albert", "shaw"]
+sex = ["man"]
 [extra]
 birth = 1915
 sources = ["A and L Fowler, History of the Nelson Weavers (1984)"]

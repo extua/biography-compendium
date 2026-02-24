@@ -4,6 +4,7 @@ date = "2011-08-25"
 [taxonomies]
 surname_initial = ["a"]
 tags = ["dorothy", "adams"]
+sex = ["woman"]
 [extra]
 sources = ["Leicester Oral History Archive 1983", "Ned Newitt"]
 +++

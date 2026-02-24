@@ -5,6 +5,7 @@ authors = ["Michael Walker"]
 [taxonomies]
 surname_initial = ["w"]
 tags = ["alfred", "watts", "augustus"]
+sex = ["man"]
 [extra]
 birth = 1862
 death = 1928

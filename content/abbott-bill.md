@@ -4,6 +4,7 @@ date = "2017-11-19"
 [taxonomies]
 surname_initial = ["a"]
 tags = ["bill", "abbott", "NUWM"]
+sex = ["man"]
 [extra]
 birth = 1905
 sources = ["Communist Politics and Shop Stewards in Engineering 1935-46", "Richard Croucher, University of Warwick thesis - April 1977"]

@@ -4,6 +4,7 @@ date = "2013-07-17"
 [taxonomies]
 surname_initial = ["a"]
 tags = ["bill", "ainsworth"]
+sex = ["man"]
 [extra]
 birth = 1917
 death = 2008

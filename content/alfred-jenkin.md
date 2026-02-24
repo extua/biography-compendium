@@ -4,6 +4,7 @@ date = "2008-09-19"
 [taxonomies]
 surname_initial = ["j"]
 tags = ["alfred", "jenkin"]
+sex = ["man"]
 [extra]
 death = 1993
 sources = ["Morning Star 16th August 1993"]

@@ -21,7 +21,8 @@ generate_sitemap = true
 
 taxonomies = [
     { name = "surname_initial", render = false },
-    { name = "tags", render = false }
+    { name = "tags", render = false },
+    { name = "sex", render = false }
 ]
 
 [extra]
