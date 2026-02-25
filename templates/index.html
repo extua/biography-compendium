@@ -30,11 +30,34 @@
 					{% for entry in category.pages %}
 					<li>
 
-					          {% if entry.taxonomies.sex %}
-                    {% set sex = entry.taxonomies.sex[0] %}
-                    <span class="sex">{% if sex == "man" %}♂{% else %}♀{% endif %}</span>
-                    {% endif %}
-						<a href="{{ entry.permalink | safe }}">{{ entry.title }}</a>
+						<a href="{{ entry.permalink | safe }}">
+
+							<div class="sex">
+								{% if entry.taxonomies.sex %}
+								{% set sex = entry.taxonomies.sex[0] %}
+								{% if sex == "man" %}♂{% else %}♀{% endif %}
+								{% endif %}
+							</div>
+
+							<div class="title">{{ entry.title }}</div>
+							<div>
+								{% if entry.extra.birth or entry.extra.death -%}
+								(
+								{%- if entry.extra.birth -%}
+								{{ entry.extra.birth }}
+								{%- else -%}
+								?
+								{%- endif -%}
+								-
+								{%- if entry.extra.death -%}
+								{{ entry.extra.death }}
+								{%- else -%}
+								?
+								{%- endif -%}
+								)
+								{% endif -%}
+							</div>
+						</a>
 					</li>
 					{% endfor %}
 				</ul>
@@ -66,8 +89,8 @@
 					4.0 license</a>.
 					The text on this page has not been produced by a language model.</section>
 				<section>Page generated on {% set date_now_rfc3399 = now() | date(format="%Y-%m-%d %H:%M", timezone='Europe/London') %}
-				{% set date_now_natural = now() | date(format="%e %B %Y", timezone='Europe/London') %}
-				<time datetime="{{ date_now_rfc3399 }}">{{ date_now_natural }}</time>
+					{% set date_now_natural = now() | date(format="%e %B %Y", timezone='Europe/London') %}
+					<time datetime="{{ date_now_rfc3399 }}">{{ date_now_natural }}</time>
 					{% set long_commit_hash = get_env(name="COMMIT_HASH",  default="") %}
 					{% if long_commit_hash != "" %}
 					at git commit <a href="https://github.com/extua/biography-compendium/commit/{{ long_commit_hash }}">{{ long_commit_hash | truncate(length=7, end="") }}</a>

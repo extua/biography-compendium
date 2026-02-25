@@ -198,6 +198,20 @@ main {
         padding-inline: 0.5cqi;
         display: grid;
         grid: auto-flow / repeat(3, 1fr);
+        & li {
+        margin-inline: 0.2em;
+        margin-block: 0.3em;
+        & a {
+            display: flex;
+            flex-direction: row;
+            column-gap: 0.1em;
+            text-decoration: none;
+            & div {
+                min-width: 2ch;
+                margin-inline: 0.1em;
+            }
+        }
+    }
     }
     
     & article {
