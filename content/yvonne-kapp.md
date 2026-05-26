@@ -8,7 +8,7 @@ sex = ["woman"]
 [extra]
 birth = 1903
 death = 1999
-sources = ["The University of North London holds papers of Yvonne Kapp relating to her work for the AEU.", "The Institute of Germanic Studies holds Mynatt/Kapp Papers", "Guardian June 29th 1999"]
+source = ["The University of North London holds papers of Yvonne Kapp relating to her work for the AEU.", "The Institute of Germanic Studies holds Mynatt/Kapp Papers", "Guardian June 29th 1999"]
 +++
 
 Yvonne Kapp (nee Mayer) was born in London on April 17th 1903, to a German Jewish family from the Rhineland, her father being engaged in the vanilla trade.
