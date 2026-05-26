@@ -4,6 +4,7 @@ date = 2010-06-09
 [taxonomies]
 surname_initial = ["a"]
 tags = ["bob", "allen", "YCL"]
+sex = ["man"]
 +++
 
 Originally an activist in the Nottingham Young Communist League, Allen was involved in the late 60s in a stunt that saw the flag of the Vietnamese National Liberation Front hauled up Nottingham castle.

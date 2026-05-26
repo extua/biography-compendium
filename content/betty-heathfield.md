@@ -4,6 +4,7 @@ date = "2008-09-19"
 [taxonomies]
 surname_initial = ["h"]
 tags = ["betty", "heathfield"]
+sex = ["woman"]
 [extra]
 birth = 1927
 death = 2006

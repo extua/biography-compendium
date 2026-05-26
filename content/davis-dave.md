@@ -4,6 +4,7 @@ date = "2009-10-13"
 [taxonomies]
 surname_initial = ["d"]
 tags = ["dave", "davis", "Democratic Left", "Labour Party", "SWP"]
+sex = ["man"]
 [extra]
 death = 2009
 +++

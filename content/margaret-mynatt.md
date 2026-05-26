@@ -4,6 +4,7 @@ date = 2008-09-19
 [taxonomies]
 surname_initial = ["m"]
 tags = ["margaret", "mynatt"]
+sex = ["woman"]
 [extra]
 birth = 1907
 death = 1977
