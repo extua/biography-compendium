@@ -4,6 +4,7 @@ date = "2008-09-19"
 [taxonomies]
 surname_initial = ["m"]
 tags = ["morton"]
+sex = ["man"]
 [extra]
 birth = 1903
 death = 1987
