@@ -1,6 +1,7 @@
 +++
 title = "Gwyn Alf Williams"
 date = "2011-10-08"
+[taxonomies]
 surname_initial = ["w"]
 tags = ["alf", "williams", "gwyn", "wales"]
 [extra]
