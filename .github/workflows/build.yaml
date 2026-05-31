@@ -19,8 +19,7 @@ jobs:
         uses: actions/checkout@v6
         with:
           sparse-checkout: |
-            *
-            !raw_files/
+            !raw_files
 
       - name: Build site with Zola
         shell: bash          
