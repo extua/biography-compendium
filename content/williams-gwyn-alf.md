@@ -4,8 +4,8 @@ date = "2011-10-08"
 [taxonomies]
 surname_initial = ["w"]
 tags = ["alf", "williams", "gwyn", "wales"]
-[extra]
 sex = ["man"]
+[extra]
 birth = 1925
 death = 1995
 sources = ["Morning Star 20th November 1995"]
