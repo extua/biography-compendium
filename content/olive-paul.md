@@ -4,6 +4,7 @@ date = "2011-07-17"
 [taxonomies]
 surname_initial = ["o"]
 tags = ["olive", "paul"]
+sex = ["man"]
 [extra]
 sources = ["Article by Caroline Rowan-Olive, from 1977 Paul Olive’s partner, joint parent to Daniel and Rachel and wife from 2002 - The Guardian 3rd February 2011"]
 +++

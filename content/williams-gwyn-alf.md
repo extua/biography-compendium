@@ -5,6 +5,7 @@ date = "2011-10-08"
 surname_initial = ["w"]
 tags = ["alf", "williams", "gwyn", "wales"]
 [extra]
+sex = ["man"]
 birth = 1925
 death = 1995
 sources = ["Morning Star 20th November 1995"]
@@ -13,7 +14,7 @@ sources = ["Morning Star 20th November 1995"]
 Born in Dowlais on 30th September 1925, Gwyn Alf (as he was known, to distinguish him from several other eminent Welshmen with similar names) saw himself as "a people's remembrancer", which meant that he an unusual academic historian.
 
 During the heady days of the civil war in Spain he joined the Young Communist League.
-He asked the local Party office for a %rifle and a one way ticket to Spain, only to be told “come back when we’re desperate, son”!
+He asked the local Party office for a rifle and a one way ticket to Spain, only to be told “come back when we’re desperate, son”!
 
 He did however become a D-Day veteran and eventually read History at the University College of Wales, Aberystwyth, and was appointed Lecturer in Welsh History there in 1954.
 

@@ -4,6 +4,7 @@ date = "2009-07-20"
 [taxonomies]
 surname_initial = ["w"]
 tags = ["alice", "wheeldon"]
+sex = ["woman"]
 [extra]
 birth = 1866
 death = 1919
