@@ -3,7 +3,7 @@ title = "John D Kay"
 date = "2016-11-16"
 [taxonomies]
 surname_initial = ["k"]
-tags = ["john", "kay"]
+tags = ["john", "kay", "Democratic Left"]
 [extra]
 birth = 1927
 death = 1999
@@ -17,11 +17,11 @@ Born in 1927, John Kay worked for most of his professional life as an architect 
 A particular interest of his was lighting, in which field he became a recognised authority.
 
 At the end of the war he joined and became a very active member of the CPGB, and a long-standing active member of the Marx Memorial Library.
-After 1991, he wasa founder member of the short-lived Democratic Left.
-A memento of his work is the book-case, designed by him in memory  of Alex Gossip (1862-1952).
+After 1991, he was a founder member of the short-lived Democratic Left.
+A memento of his work is the book-case, designed by him in memory of Alex Gossip (1862-1952).
 
 He was a founder and very active member of the William Morris Society, and Chair of the Kelmscott House Trust.
 
-The driving force of the successful touring exhibition "William Morris and Crafts Today" in 1996, the centenary year of William Morris's death, he was an influential member of many  other societies.
+The driving force of the successful touring exhibition <cite>William Morris and Crafts Today</cite> in 1996, the centenary year of William Morris's death, he was an influential member of many other societies.
 
 John served on the committee of the MML for some years in his capacity as architect.
