@@ -4,6 +4,7 @@ date = "2016-11-16"
 [taxonomies]
 surname_initial = ["k"]
 tags = ["john", "kay", "Democratic Left"]
+sex = ["man"]
 [extra]
 birth = 1927
 death = 1999
