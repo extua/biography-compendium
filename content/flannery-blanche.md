@@ -9,7 +9,7 @@ sex = ["woman"]
 birth = 1921
 death = 2010
 sources = ["Bill Ronskley, Sheffield TUC", "Guardian 22 December 2010", "Yorkshire Post 5th November 2010", "Sheffield Star 9 November 2010"]
-aka = ["Blanche Howson"]
+aka = "Blanche Howson"
 +++
 
 Blanche was born in 1921 as Blanche Howson.
