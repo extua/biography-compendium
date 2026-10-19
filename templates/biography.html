@@ -3,42 +3,21 @@
 
 	<head>
 		<meta charset="UTF-8">
-		<meta name="description" content="">
-		<meta name="keywords" content="">
 		<meta name="author" content="{{ config.author }}">
 		<title>{{ config.title }}</title>
 		<meta name="viewport" content="width=device-width,initial-scale=1">
-		<meta name="description" content="">
 		<meta name="generator" content="zola">
 		<link rel="icon" href="{{ get_url(path='favicon.svg', trailing_slash=false) | safe }}">
 		<link rel="manifest" href="manifest.webmanifest">
-		<link rel="stylesheet" href="{{ get_url(path='style.css', trailing_slash=false) | safe }}">
+		<link rel="stylesheet" href="{{ get_url(path='page.css', trailing_slash=false) | safe }}">
 	</head>
 
 	<body>
-		<header>
-			<h2>{{ config.title }}</h2>
-		</header>
 		<div id="page-wrap">
+			<header>
+				<h2>{{ page.title }}</h2>
+			</header>
 			<main>
-				<h3>
-					{{ page.title }}
-					{% if page.extra.birth or page.extra.death -%}
-					(
-					{%- if page.extra.birth -%}
-					{{ page.extra.birth }}
-					{%- else -%}
-					?
-					{%- endif -%}
-					-
-					{%- if page.extra.death -%}
-					{{ page.extra.death }}
-					{%- else -%}
-					?
-					{%- endif -%}
-					)
-					{% endif -%}
-				</h3>
 				<article>
 					{{ page.content | safe }}
 				</article>
@@ -56,14 +35,15 @@
 				{%- endif -%}
 			</aside>
 		</div>
+		<!-- This json could be an include? -->
 		<script type="application/ld+json">
 			{
 				"@context": "https://schema.org/",
 				"@type": "Article",
-				"name": "{{ page.title }}",
+			    "wordCount": {{ page.word_count }}
 				"about": {
 					"@type": "Person",
-					"name": "NAME",
+					"name": "{{ page.title }}",
 					{% if page.extra.birth and page.extra.birth is number %}
 					"birthDate": "{{ page.extra.birth }}",
 					{% endif %}
