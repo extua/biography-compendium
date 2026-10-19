@@ -4,11 +4,11 @@ date = "2008-09-19"
 [taxonomies]
 surname_initial = ["c"]
 tags = ["comrie", "alfred"]
+sex = ["man"]
 [extra]
 birth = 1887
 death = 1954
 sources = ["Comrie's daughter", "Mrs Christina Wilson"]
-sex = ["man"]
 +++
 
 Born on 28th November 1887 in Nottingham, Comrie was a member of the SLP.

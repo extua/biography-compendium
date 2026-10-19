@@ -4,6 +4,7 @@ date = 2011-03-11
 [taxonomies]
 surname_initial = ["g"]
 tags = ["david", "grove"]
+sex = ["man"]
 [extra]
 birth = 1923
 +++

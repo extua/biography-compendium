@@ -5,6 +5,7 @@ authors = ["Michael Walker"]
 [taxonomies]
 surname_initial = ["d"]
 tags = ["walter", "davis"]
+sex = ["man"]
 +++
 
 A member of the Young Communist League's National Committee, or executive, in the 1940s and early 1950s, Walter Davies was the holder of the Distinguished Service Cross.

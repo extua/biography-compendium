@@ -4,6 +4,7 @@ date = "2008-09-19"
 [taxonomies]
 surname_initial = ["d"]
 tags = ["davies", "hugh", "sykes"]
+sex = ["man"]
 [extra]
 birth = 1909
 death = 1984

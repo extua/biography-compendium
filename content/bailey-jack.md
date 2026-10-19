@@ -5,6 +5,7 @@ authors = ["Michael Walker"]
 [taxonomies]
 surname_initial = ["b"]
 tags = ["jack", "bailey", "Daily Worker", "London"]
+sex = ["man"]
 [extra]
 sources = ["World News November 1961"]
 +++

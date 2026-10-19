@@ -9,6 +9,7 @@ sex = ["man"]
 [extra]
 birth = 1911
 death = 1967
+aka = "Bill Firestone"
 +++
 
 Abe Lazarus was born, from a Jewish background, in Chiswick in 1911 and joined the Communist Party at Hammersmith in 1930.
