@@ -1,8 +1,16 @@
 +++
 title = "Barbour James Cllr"
 date = "2014-12-27"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["barbour", "james", "cllr"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 James Barbour

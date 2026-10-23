@@ -1,8 +1,16 @@
 +++
 title = "Higgs Phil"
 date = "2008-09-19"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["phil", "higgs"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2019/05/HIGGS-PHIL-division-17-auew-c-1984.jpg)

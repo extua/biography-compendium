@@ -1,8 +1,16 @@
 +++
 title = "Egelnick Ann (McPherson)"
 date = "2011-08-25"
-categories = ["e"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["e"]
 tags = ["egelnick", "ann", "mcpherson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  Ann \[McPherson\] Egelnick

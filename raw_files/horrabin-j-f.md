@@ -1,8 +1,16 @@
 +++
 title = "Horrabin J F"
 date = "2010-12-01"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["horrabin"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 J F Horrabin

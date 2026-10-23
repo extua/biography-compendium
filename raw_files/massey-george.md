@@ -1,8 +1,16 @@
 +++
 title = "Massey George"
 date = "2010-04-14"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["george", "massey"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 George Massey

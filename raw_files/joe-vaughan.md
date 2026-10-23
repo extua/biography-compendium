@@ -1,7 +1,15 @@
 +++
 title = "Vaughan Joe"
 date = "2009-07-20"
-categories = ["v"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["v"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/vaughan%20Joe%201.JPG)Joe Vaughan

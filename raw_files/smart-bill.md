@@ -1,8 +1,16 @@
 +++
 title = "Smart Bill"
 date = "2010-12-28"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["bill", "smart"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bill Smart

@@ -1,8 +1,16 @@
 +++
 title = "Askins Jack"
 date = "2008-09-19"
-categories = ["a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["jack", "askins"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2008/09/askins-jack-young.jpg)Jack Askins

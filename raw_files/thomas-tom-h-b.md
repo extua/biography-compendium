@@ -1,8 +1,16 @@
 +++
 title = "Thomas Tom (H B)"
 date = "2012-09-30"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["tom", "thomas"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Tom Thomas

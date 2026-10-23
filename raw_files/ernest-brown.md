@@ -1,8 +1,16 @@
 +++
 title = "Brown Ernest"
 date = "2008-12-13"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["brown", "ernest"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ernest Brown 

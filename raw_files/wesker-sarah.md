@@ -1,8 +1,16 @@
 +++
 title = "Wesker Sarah"
 date = "2011-07-30"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["wesker", "sarah"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Sarah Wesker

@@ -1,8 +1,16 @@
 +++
 title = "Cohen Eve"
 date = "2015-05-16"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["cohen", "eve"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  _Eve is pictured on the right in the 1950s at a National Assembly of Women meeting_

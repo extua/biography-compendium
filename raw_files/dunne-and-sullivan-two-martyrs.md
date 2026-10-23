@@ -1,7 +1,15 @@
 +++
 title = "Dunne and Sullivan - martyrs of the Irish republic"
 date = "2009-01-01"
-categories = ["articles-and-reviews", "history"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["articles-and-reviews", "history"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/reggie%20dunne(3).jpg)![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/joe%20osullivan(2).jpg)

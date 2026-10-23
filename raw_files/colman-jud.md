@@ -1,8 +1,16 @@
 +++
 title = "Colman Jud"
 date = "2011-08-25"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["colman", "jud"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2011/08/colman-jud.JPG)Jud Colman

@@ -1,8 +1,16 @@
 +++
 title = "Bould Harry"
 date = "2009-10-11"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["harry", "bould"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Harry Bould

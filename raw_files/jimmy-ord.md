@@ -1,8 +1,16 @@
 +++
 title = "Ord Jimmy"
 date = "2008-09-19"
-categories = ["o"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["o"]
 tags = ["jimmy", "ord"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jimmy Ord

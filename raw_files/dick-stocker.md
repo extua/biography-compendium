@@ -1,8 +1,16 @@
 +++
 title = "Stocker Dick"
 date = "2008-09-20"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["dick", "stocker"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dick Stocker William Richard “Dick” Stocker was born 1886 in Pemberton, Wigan. He started his working life as a drapers’ assistant and it is believed that both his mother and father were drapers. He was a political co-worker with Jim Cannon, father of Les Cannon, later of the Electricians' Union. Stocker joined the Socialist Labour Party (SLP) in 1906 and for a period was its national organiser. Later he joined the British Socialist Party (BSP) and became its national Chair at its 1915 annual conference, although he made a point of working closely with the more well-known SLP leaders, Bell and MacManus.   

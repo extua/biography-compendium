@@ -1,8 +1,16 @@
 +++
 title = "Jerrom George"
 date = "2011-12-12"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["george", "jerrom"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 George Jerrom

@@ -1,8 +1,16 @@
 +++
 title = "Maher John"
 date = "2011-10-09"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["john", "maher"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 John Maher

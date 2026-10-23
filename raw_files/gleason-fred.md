@@ -1,7 +1,15 @@
 +++
 title = "Gleason, Fred"
 date = "2020-02-02"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Fred Gleason

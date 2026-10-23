@@ -1,8 +1,16 @@
 +++
 title = "Dare Eddie"
 date = "2011-06-11"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["eddie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Eddie Dare  

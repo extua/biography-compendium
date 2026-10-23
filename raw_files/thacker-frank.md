@@ -1,8 +1,16 @@
 +++
 title = "Thacker Frank"
 date = "2013-03-16"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["frank", "thacker"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Frank Thacker

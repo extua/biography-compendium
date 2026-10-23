@@ -1,8 +1,16 @@
 +++
 title = "Hearne Mervyn"
 date = "2010-09-23"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["mervyn", "hearne"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Mervyn Hearne

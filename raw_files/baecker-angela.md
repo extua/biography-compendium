@@ -1,8 +1,16 @@
 +++
 title = "Baecker Angela"
 date = "2012-02-15"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["baecker", "angela"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Angela Baecker

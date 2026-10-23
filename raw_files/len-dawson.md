@@ -1,8 +1,16 @@
 +++
 title = "Dawson Len"
 date = "2009-01-09"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["len", "dawson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Len Dawson

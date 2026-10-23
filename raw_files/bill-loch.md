@@ -1,8 +1,16 @@
 +++
 title = "Loch Bill"
 date = "2008-09-19"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["bill", "loch"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bill Loch

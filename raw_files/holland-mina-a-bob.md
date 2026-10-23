@@ -1,8 +1,16 @@
 +++
 title = "Holland Mina & Bob"
 date = "2011-06-11"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["bob", "holland", "mina"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Mina and Bob Holland

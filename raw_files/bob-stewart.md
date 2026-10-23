@@ -1,8 +1,16 @@
 +++
 title = "Stewart Bob"
 date = "2008-09-20"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["bob", "stewart"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 One of the founders and key leaders of the British Communist Party, Stewart was born on 16th February 1877 in Angus, to a farm foreman and handloom weaver. The family moved to Dundee when Stewart was two years old and he remained closely associated with that town thereafter. His father supported twelve children on a carter’s wage, Bob Stewart being tenth out of the brood. He attended school only between the age s of seven and thirteen. For a time he worked in various capacities in jute mills, before becoming apprenticed as a carpenter at the age of twelve.

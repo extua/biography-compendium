@@ -1,7 +1,15 @@
 +++
 title = "Lenin's key texts"
 date = "2009-01-04"
-categories = ["marxism"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["marxism"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 A SUMMARY OF SOME KEY TEXTS BY LENIN

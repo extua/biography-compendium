@@ -1,8 +1,16 @@
 +++
 title = "Birch Chris"
 date = "2011-08-25"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["birch", "chris"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Christopher Berkeley Peyton Birch was born in 1928 in St Kitts, which was then the British West Indies, the son of Norman Peyton Birch and Iris Berkeley King.  St Kitts was the same small island where Emile Burns (see separate entry), a distant relative, was born. Birch’s father was the accountant at the St Kitts branch of Barclays Bank; his mother's family had been in the West Indies for nearly 300 years. As a child he spent ten years in St Kitts, followed by seven years schooling in Trinidad and a year in Barbados before going to England in 1946. 

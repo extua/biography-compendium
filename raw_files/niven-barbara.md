@@ -1,8 +1,16 @@
 +++
 title = "Niven Barbara"
 date = "2010-01-03"
-categories = ["n"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["n"]
 tags = ["niven", "barbara"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/niven%20barbara%201950.jpg)Barbara Niven

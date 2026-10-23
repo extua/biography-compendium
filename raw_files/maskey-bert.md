@@ -1,8 +1,16 @@
 +++
 title = "Maskey Bert"
 date = "2015-11-01"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["bert", "maskey"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bert Maskey (Barnett Masansky) - a biography by his grandson David Mason

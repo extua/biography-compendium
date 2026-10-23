@@ -1,8 +1,16 @@
 +++
 title = "Shaw Andrew F W"
 date = "2008-09-20"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["andrew", "shaw"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Andrew F W  Shaw

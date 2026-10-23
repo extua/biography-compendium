@@ -1,8 +1,16 @@
 +++
 title = "McNulty Rab"
 date = "2008-09-19"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["mcnulty", "rab"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 # Rab McNulty

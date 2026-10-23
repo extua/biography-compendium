@@ -1,8 +1,16 @@
 +++
 title = "Mann Tom"
 date = "2008-09-19"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["tom", "mann"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/mann%20tom%20in%20australia.jpg)Tom Mann

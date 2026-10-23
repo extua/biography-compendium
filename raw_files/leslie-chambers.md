@@ -1,7 +1,15 @@
 +++
 title = "Chambers Leslie"
 date = "2019-05-23"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2019/05/chambers-leslie.jpg)

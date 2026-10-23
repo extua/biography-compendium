@@ -1,8 +1,16 @@
 +++
 title = "McLennan Mary"
 date = "2012-03-13"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["mary", "mclennan"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Mary McLennan

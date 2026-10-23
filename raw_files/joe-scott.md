@@ -1,8 +1,16 @@
 +++
 title = "Scott Joe"
 date = "2009-07-31"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["joe", "scott"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/scott%20joe%20nat%20sec%20minority%20mvt.jpg)Joe Scott

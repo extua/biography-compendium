@@ -1,8 +1,16 @@
 +++
 title = "McArthur John Cllr"
 date = "2010-01-02"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["cllr", "john", "mcarthur"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 John McArthur  

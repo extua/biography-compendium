@@ -1,8 +1,16 @@
 +++
 title = "Evans Dai Dan"
 date = "2009-01-17"
-categories = ["e"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["e"]
 tags = ["evans", "dan", "dai"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dai Dan Evans

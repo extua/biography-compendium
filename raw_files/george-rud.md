@@ -1,8 +1,16 @@
 +++
 title = "Rude George"
 date = "2008-09-20"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["george", "rude"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 George Rudé

@@ -1,8 +1,16 @@
 +++
 title = "Morton Cyril"
 date = "2010-09-23"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["morton", "cyril"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2010/09/morton-cyril.jpg)Cyril Morton

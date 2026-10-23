@@ -1,8 +1,16 @@
 +++
 title = "Williamson John"
 date = "2010-11-18"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["john", "williamson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 John Williamson

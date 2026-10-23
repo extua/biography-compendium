@@ -1,8 +1,16 @@
 +++
 title = "Gray Olga"
 date = "2012-04-15"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["gray", "olga"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Olga Gray

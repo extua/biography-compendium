@@ -1,8 +1,16 @@
 +++
 title = "Lewis Dr John"
 date = "2008-09-19"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["john", "dr", "lewis"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dr John Lewis

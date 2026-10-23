@@ -1,8 +1,16 @@
 +++
 title = "Nicholson Elizabeth"
 date = "2010-01-03"
-categories = ["n"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["n"]
 tags = ["nicholson", "elizabeth"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Elizabeth Nicholson

@@ -1,8 +1,16 @@
 +++
 title = "Tanner Jack"
 date = "2009-07-28"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["jack", "tanner"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/tanner%20jack.jpg)Jack Tanner

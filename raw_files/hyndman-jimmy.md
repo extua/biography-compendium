@@ -1,8 +1,16 @@
 +++
 title = "Hyndman Jimmy"
 date = "2012-09-16"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["jimmy", "hyndman"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jim Hyndman

@@ -1,7 +1,15 @@
 +++
 title = "Orwellian mischief"
 date = "2013-02-05"
-categories = ["articles-and-reviews", "books-and-other-thungs"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["articles-and-reviews", "books-and-other-thungs"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Orwellian mischief – the politics and psychology of an anti-Communist

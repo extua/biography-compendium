@@ -1,8 +1,16 @@
 +++
 title = "Smith Bill"
 date = "2011-10-08"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["bill", "smith"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bill Smith

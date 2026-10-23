@@ -1,8 +1,16 @@
 +++
 title = "Walker Melvina"
 date = "2008-09-20"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["walker", "melvina"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Melvina Walker

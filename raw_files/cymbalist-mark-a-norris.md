@@ -1,8 +1,16 @@
 +++
 title = "Cymbalist Mark & Norris"
 date = "2010-04-14"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["mark", "norris", "cymbalist"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Norris Cymbalist (featured picture) was born in Inverness in Scotland, the son of Communist, Mark Cymbalist, who was a Jewish tailor in Inverness, Scotland (pictured below). His tailor’s shop was at 38 Waterloo Place, Inverness, where he also lived with his two sons Norris and David.

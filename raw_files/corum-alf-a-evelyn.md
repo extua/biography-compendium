@@ -1,8 +1,16 @@
 +++
 title = "Corum Alf & Evelyn"
 date = "2012-12-23"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["corum", "alf", "evelyn"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Alf Corum

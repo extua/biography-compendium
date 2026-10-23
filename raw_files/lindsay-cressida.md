@@ -1,8 +1,16 @@
 +++
 title = "Lindsay Cressida"
 date = "2010-12-26"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["lindsay", "cressida"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Cressida Lindsay

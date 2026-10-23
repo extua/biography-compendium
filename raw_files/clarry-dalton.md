@@ -1,8 +1,16 @@
 +++
 title = "Dalton Clarry"
 date = "2009-01-08"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["dalton", "clarry"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Clarry Dalton

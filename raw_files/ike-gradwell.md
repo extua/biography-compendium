@@ -1,8 +1,16 @@
 +++
 title = "Gradwell Ike"
 date = "2008-09-19"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["gradwell", "ike"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 <table style="width: auto"><tbody><tr><td><a href="https://picasaweb.google.com/lh/photo/-mgQ19HXBQRkE_1RApbHmEoRKQX2HLZN7LAGYFtvc9A?feat=embedwebsite"><img height="109" src="https://lh4.googleusercontent.com/-ZMA5YuHH8Aw/TgdiXPvUG1I/AAAAAAAAA6A/okC1lGLMIoo/s144/1960s%252520Gradwell%252520Ike%252520CP%252520office%252520Swindon%252520Bridge%252520Street.jpg" width="144"></a></td></tr><tr><td style="font-size: 11px; font-family: arial,sans-serif; text-align: right">The Swindon Party office in the early 1960s</td></tr></tbody></table>

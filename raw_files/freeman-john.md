@@ -1,8 +1,16 @@
 +++
 title = "Freeman John"
 date = "2014-07-18"
-categories = ["f"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["f"]
 tags = ["john", "freeman"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 John Freeman

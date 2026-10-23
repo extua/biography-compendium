@@ -1,8 +1,16 @@
 +++
 title = "Tayler Julian"
 date = "2013-02-27"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["tayler", "julian"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Julian Tayler

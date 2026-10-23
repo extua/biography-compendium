@@ -1,8 +1,16 @@
 +++
 title = "Baker Betty"
 date = "2010-01-12"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["baker", "betty"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Betty Baker

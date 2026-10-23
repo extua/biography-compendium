@@ -1,8 +1,16 @@
 +++
 title = "Devine Frieda"
 date = "2011-01-29"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["devine", "frieda"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Frieda Devine

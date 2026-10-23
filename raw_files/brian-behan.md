@@ -1,8 +1,16 @@
 +++
 title = "Behan Brian"
 date = "2008-09-19"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["brian", "behan"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2008/09/Behan-Brian.jpg)Brian Behan

@@ -1,8 +1,16 @@
 +++
 title = "Nicholson David"
 date = "2013-07-20"
-categories = ["n"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["n"]
 tags = ["david", "nicholson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 David Nicholson

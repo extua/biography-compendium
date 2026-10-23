@@ -1,8 +1,16 @@
 +++
 title = "Munby Lionel"
 date = "2011-07-17"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["lionel", "munby"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Lionel Munby

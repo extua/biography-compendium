@@ -1,8 +1,16 @@
 +++
 title = "Weiss Manny"
 date = "2014-03-27"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["manny", "weiss"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Manny Weiss

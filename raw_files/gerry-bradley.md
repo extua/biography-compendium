@@ -1,8 +1,16 @@
 +++
 title = "Bradley Gerry"
 date = "2008-09-19"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["gerry", "bradley"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2008/09/Bradley-Gerald-C.JPG)Gerry Bradley (né Gerald Cecil Barathy) 

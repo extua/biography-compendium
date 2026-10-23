@@ -1,8 +1,16 @@
 +++
 title = "Thompson Harry (Leicester)"
 date = "2011-08-28"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["harry", "thompson", "leicester"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Harry Thompson (Leicester)

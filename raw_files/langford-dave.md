@@ -1,8 +1,16 @@
 +++
 title = "Langford Dave"
 date = "2009-12-22"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["dave", "langford"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dave Langford

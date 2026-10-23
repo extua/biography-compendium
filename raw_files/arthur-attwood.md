@@ -1,8 +1,16 @@
 +++
 title = "Attwood Arthur"
 date = "2008-09-19"
-categories = ["a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["arthur", "attwood"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2008/09/attwood-arthur.jpg)Arthur Attwood

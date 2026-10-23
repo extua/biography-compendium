@@ -1,8 +1,16 @@
 +++
 title = "Jones Arthur"
 date = "2008-09-19"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["arthur", "jones"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/Jones%20Arthur.jpg)Arthur Jones

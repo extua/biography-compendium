@@ -1,8 +1,16 @@
 +++
 title = "Shepperson Harry"
 date = "2013-03-16"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["harry", "shepperson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Harry Shepperson

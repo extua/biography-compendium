@@ -1,8 +1,16 @@
 +++
 title = "Johnston Roy Dr"
 date = "2010-12-01"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["dr", "johnston", "roy"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dr Roy Johnston

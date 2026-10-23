@@ -1,8 +1,16 @@
 +++
 title = "Arundel Honor"
 date = "2008-09-19"
-categories = ["a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["arundel", "honor"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Honor Arundel

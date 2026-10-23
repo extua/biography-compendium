@@ -1,8 +1,16 @@
 +++
 title = "Corry Bert"
 date = "2008-09-19"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["bert", "corry"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bert Corry

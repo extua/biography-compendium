@@ -1,8 +1,16 @@
 +++
 title = "Betteridge John"
 date = "2008-09-19"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["betteridge"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 John Betteridge

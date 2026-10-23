@@ -1,7 +1,15 @@
 +++
 title = "Lenin on Imperialism"
 date = "2009-01-03"
-categories = ["articles-and-reviews", "marxism"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["articles-and-reviews", "marxism"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 “Imperialism, the highest stage of capitalism” by V I Lenin

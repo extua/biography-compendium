@@ -1,8 +1,16 @@
 +++
 title = "Robson Robbie"
 date = "2008-09-20"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["robson", "robbie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 _Robert Robson_

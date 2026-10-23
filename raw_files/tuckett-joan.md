@@ -1,8 +1,16 @@
 +++
 title = "Tuckett Joan"
 date = "2010-12-26"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["joan", "tuckett"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Joan Tuckett

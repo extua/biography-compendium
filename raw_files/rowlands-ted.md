@@ -1,8 +1,16 @@
 +++
 title = "Rowlands Ted"
 date = "2011-01-27"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["ted", "rowlands"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ted Rowlands 

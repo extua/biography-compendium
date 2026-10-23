@@ -1,8 +1,16 @@
 +++
 title = "Meyer Ilse and Ernst"
 date = "2011-09-16"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["meyer", "ilse", "ernst"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ilse and Ernst Meyer  

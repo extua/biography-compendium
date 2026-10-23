@@ -1,8 +1,16 @@
 +++
 title = "Paul Willie"
 date = "2008-09-19"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["paul", "willie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/paul%20willie%201924.jpg)William Paul

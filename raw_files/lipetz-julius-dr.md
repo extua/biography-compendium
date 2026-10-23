@@ -1,8 +1,16 @@
 +++
 title = "Lipetz Julius (Dr)"
 date = "2010-12-04"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["dr", "julius", "lipetz"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2010/12/lipetz-Julius-DR-2.jpg)Dr Julius Lipetz

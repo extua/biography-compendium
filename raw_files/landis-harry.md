@@ -1,8 +1,16 @@
 +++
 title = "Landis Harry"
 date = "2011-10-09"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["harry", "landis"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Harry Landis

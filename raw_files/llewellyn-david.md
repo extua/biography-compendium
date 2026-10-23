@@ -1,8 +1,16 @@
 +++
 title = "Llewellyn David"
 date = "2010-12-04"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["david", "llewellyn"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 David Llewellyn

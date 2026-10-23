@@ -1,8 +1,16 @@
 +++
 title = "Greaves C. Desmond"
 date = "2008-09-19"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["greaves", "desmond"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/greaves%20desmond.jpg)C. DESMOND GREAVES

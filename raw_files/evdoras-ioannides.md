@@ -1,8 +1,16 @@
 +++
 title = "Ioannides Evdoras"
 date = "2008-09-19"
-categories = ["i"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["i"]
 tags = ["ioannides", "evdoras"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Evdoras Ioannides

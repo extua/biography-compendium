@@ -1,7 +1,15 @@
 +++
 title = "Barrington, Hanna"
 date = "2019-07-05"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 By Helen Braunholtz Smith, reprinted from the Guardian 26 June 2019

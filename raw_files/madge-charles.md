@@ -1,8 +1,16 @@
 +++
 title = "Madge Charles"
 date = "2010-01-02"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["charles", "madge"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/madge%20charles%20master.jpg)Charles Madge

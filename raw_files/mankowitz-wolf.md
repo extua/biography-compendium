@@ -1,8 +1,16 @@
 +++
 title = "Mankowitz Wolf"
 date = "2011-12-12"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["mankowitz", "wolf"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  Wolf Mankowitz

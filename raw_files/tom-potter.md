@@ -1,8 +1,16 @@
 +++
 title = "Potter Tom"
 date = "2008-09-20"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["tom", "potter"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/potter%20tom.jpg)Tom Potter

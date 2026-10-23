@@ -1,7 +1,15 @@
 +++
 title = "Vyse Nell"
 date = "2010-01-12"
-categories = ["v"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["v"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Nell Vyse

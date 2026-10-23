@@ -1,8 +1,16 @@
 +++
 title = "Campbell Bill"
 date = "2010-03-19"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["bill", "campbell"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bill Campbell

@@ -1,8 +1,16 @@
 +++
 title = "Watson Bill"
 date = "2011-10-02"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["bill", "watson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 _Bill Watson_

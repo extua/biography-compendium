@@ -1,8 +1,16 @@
 +++
 title = "Killen Jack"
 date = "2010-03-20"
-categories = ["k"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["k"]
 tags = ["jack", "killen"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jack Killen

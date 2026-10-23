@@ -1,8 +1,16 @@
 +++
 title = "Syers Sam"
 date = "2011-12-27"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["sam", "syers"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Sam Syers

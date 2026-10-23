@@ -1,8 +1,16 @@
 +++
 title = "Brown Lilian"
 date = "2010-11-19"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["brown", "lilian"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Lilian Brown

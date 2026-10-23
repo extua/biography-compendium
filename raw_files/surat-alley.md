@@ -1,7 +1,15 @@
 +++
 title = "Alley, Surat"
 date = "2019-12-19"
-categories = ["commiepedia", "a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["commiepedia", "a"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Surat Alley was the British representative of the All-India Seamen’s Federation (AISF), who led a wave of strikes in 1939 and 1940 in British ports of Indian seafarers, when, despite repeated jailings, mass desertions by Indian, Chinese, Caribbean, and African seafarers on British ships followed, constituting about a third of the wartime merchant fleet. Ships registered in South Africa, Burma and Australia were also affected. The British Board of Trade, worried over similar demands from white seamen, had got the shipowners to withdraw their offer, creating massive confusion for months. 310 Indian sailors had been jailed before the men's demands were met following negotiations with Alley. 

@@ -1,8 +1,16 @@
 +++
 title = "Henderson Stan"
 date = "2008-11-29"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["stan", "henderson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Stan Henderson

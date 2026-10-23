@@ -1,8 +1,16 @@
 +++
 title = "Ainley Ben"
 date = "2009-03-08"
-categories = ["commiepedia", "a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["commiepedia", "a"]
 tags = ["ben", "ainley"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ben Ainley was a long-standing Manchester Communist and a teacher with 50 years of activity in the NUT and peace movement behind him. 

@@ -1,8 +1,16 @@
 +++
 title = "Cooper Charles"
 date = "2012-01-04"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["cooper", "charles"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Charles Cooper

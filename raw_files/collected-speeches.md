@@ -1,7 +1,15 @@
 +++
 title = "Collected Speeches"
 date = "2008-11-27"
-categories = ["articles-and-reviews", "speeches"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["articles-and-reviews", "speeches"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Some of the major set-piece speeches by Graham Stevenson, follow:

@@ -1,8 +1,16 @@
 +++
 title = "Haldane J B S"
 date = "2008-09-19"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["haldane"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 John Burdon Sanderson Haldane ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/Haldane%20JBS.jpg) 

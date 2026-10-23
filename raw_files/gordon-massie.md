@@ -1,8 +1,16 @@
 +++
 title = "Massie Gordon"
 date = "2008-09-19"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["gordon", "massie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Gordon Massie

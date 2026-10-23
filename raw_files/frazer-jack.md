@@ -1,8 +1,16 @@
 +++
 title = "Frazer Jack"
 date = "2011-07-30"
-categories = ["f"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["f"]
 tags = ["jack", "frazer"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jack Frazer

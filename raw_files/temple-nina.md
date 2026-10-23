@@ -1,8 +1,16 @@
 +++
 title = "Temple Nina"
 date = "2010-04-15"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["nina", "temple"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Nina Temple

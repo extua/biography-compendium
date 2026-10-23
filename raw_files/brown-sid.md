@@ -1,8 +1,16 @@
 +++
 title = "Brown Sid (`Eccles')"
 date = "2011-08-25"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["brown", "sid", "eccles"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Sid Brown

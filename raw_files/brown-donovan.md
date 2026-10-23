@@ -1,8 +1,16 @@
 +++
 title = "Brown Donovan"
 date = "2012-03-12"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["brown", "donovan"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Donovan Brown 

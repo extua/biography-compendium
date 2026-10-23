@@ -1,8 +1,16 @@
 +++
 title = "Daffern Eileen"
 date = "2012-11-16"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["daffern", "eileen"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Eileen M Clough was born on New Year’s Day in 1914 into a middle class family in Sutton-in-Craven, a mill village in the Aire Valley betweenSkipton and Keighley on the edge of the Yorkshire moors. She had a strict Baptist upbringing; non-conformist conscience and discipline may have made her receptive later to left-wing ideas. S she recalled: “maternal grandparents were Inghamites, an offshoot of Methodism, which was radical, pacifist and committed to equality between the sexes”.

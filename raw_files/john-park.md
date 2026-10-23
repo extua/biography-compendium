@@ -1,8 +1,16 @@
 +++
 title = "Park John"
 date = "2008-09-19"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["john", "park"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/park%20john%201945.jpg)John Park

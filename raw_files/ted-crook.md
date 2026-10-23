@@ -1,8 +1,16 @@
 +++
 title = "Crook Ted"
 date = "2008-09-19"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["ted", "crook"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ted Crook

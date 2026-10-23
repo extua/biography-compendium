@@ -1,8 +1,16 @@
 +++
 title = "Hicks  Bill"
 date = "2010-05-29"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["bill", "hicks"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bill Hicks

@@ -1,8 +1,16 @@
 +++
 title = "Thompson Les"
 date = "2010-04-17"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["les", "thompson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Les Thompson

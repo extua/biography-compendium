@@ -1,8 +1,16 @@
 +++
 title = "Evans Chris"
 date = "2013-04-27"
-categories = ["e"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["e"]
 tags = ["evans", "chris"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Chris Evans

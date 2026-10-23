@@ -1,8 +1,16 @@
 +++
 title = "Papworth Bert"
 date = "2008-09-19"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["bert", "papworth"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/papworth%20bert.JPG)Bert Papworth

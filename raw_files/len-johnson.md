@@ -1,8 +1,16 @@
 +++
 title = "Johnson Len"
 date = "2009-03-07"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["johnson", "len"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/johnson%20len.jpg)Len Johnson

@@ -1,8 +1,16 @@
 +++
 title = "Rickman Alan"
 date = "2016-06-05"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["alan", "rickman"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Alan Rickman

@@ -1,8 +1,16 @@
 +++
 title = "Bennett Mick"
 date = "2010-02-13"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["mick", "bennett"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Mick Bennett

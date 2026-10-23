@@ -1,8 +1,16 @@
 +++
 title = "Berry Norman"
 date = "2010-09-23"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["norman", "berry"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Norman Berry

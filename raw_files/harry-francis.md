@@ -1,8 +1,16 @@
 +++
 title = "Francis Harry"
 date = "2008-09-19"
-categories = ["f"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["f"]
 tags = ["harry", "francis"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/francis%20harry%20w%20paul%20robeson%20GDR%201963(1).jpg)Harry Francis

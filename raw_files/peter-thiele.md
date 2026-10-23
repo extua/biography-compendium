@@ -1,8 +1,16 @@
 +++
 title = "Thiele Peter"
 date = "2008-09-20"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["peter", "thiele"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Peter Thiele

@@ -1,8 +1,16 @@
 +++
 title = "MacDiarmid Hugh (Christopher Grieve)"
 date = "2008-09-19"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["hugh", "christopher", "macdiarmid", "grieve"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/macdiarmid%20hugh(1).jpg)Hugh MacDiarmid (Christopher Grieve)

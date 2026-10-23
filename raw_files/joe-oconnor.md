@@ -1,8 +1,16 @@
 +++
 title = "O'Connor Joe"
 date = "2008-09-19"
-categories = ["o"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["o"]
 tags = ["joe", "oconnor"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Joe O'Connor

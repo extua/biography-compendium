@@ -1,8 +1,16 @@
 +++
 title = "Cohen Nat"
 date = "2011-08-25"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["cohen", "nat"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2011/08/cohen-nat-and-ramona.jpg) Nat Cohen

@@ -1,8 +1,16 @@
 +++
 title = "Light Dot"
 date = "2010-02-13"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["light", "dot"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dot Light

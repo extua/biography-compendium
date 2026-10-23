@@ -1,8 +1,16 @@
 +++
 title = "Apling Paddy"
 date = "2008-09-19"
-categories = ["a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["paddy", "apling"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 (E C) Paddy Apling Born in April 1925 as Edward Chatterton Apling, he found his baptismal name a bit too pompous for taste, growing up. With no connections to Ireland, his choice of nickname supplanting his own given name related to a highly successful musical comedy play, which opened the year of his conception, which was in turn based on a best-selling novel. A note of early sharp irony is clearly involved, since the young Edward’s mother had been hoping for a girl before his birth - but there also is a tone of mild rebellion already brewing in the choice.

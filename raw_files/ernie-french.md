@@ -1,8 +1,16 @@
 +++
 title = "French Ernie"
 date = "2008-09-19"
-categories = ["f"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["f"]
 tags = ["ernie", "french"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ernie French

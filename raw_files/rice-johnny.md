@@ -1,8 +1,16 @@
 +++
 title = "Rice Johnny"
 date = "2011-10-08"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["johnny", "rice"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Johnny Rice

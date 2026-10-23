@@ -1,8 +1,16 @@
 +++
 title = "Collins Enoch"
 date = "2010-03-19"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["collins", "enoch"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Enoch Collins

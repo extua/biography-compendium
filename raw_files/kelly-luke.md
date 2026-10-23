@@ -1,8 +1,16 @@
 +++
 title = "Kelly Luke"
 date = "2010-04-04"
-categories = ["k"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["k"]
 tags = ["kelly", "luke"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Luke Kelly

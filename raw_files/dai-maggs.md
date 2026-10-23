@@ -1,8 +1,16 @@
 +++
 title = "Maggs Dai"
 date = "2008-09-19"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["dai", "maggs"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dai Maggs

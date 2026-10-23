@@ -1,8 +1,16 @@
 +++
 title = "Gardner Jim"
 date = "2012-03-12"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["jim", "gardner"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jim Gardner

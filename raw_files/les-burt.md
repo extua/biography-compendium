@@ -1,8 +1,16 @@
 +++
 title = "Burt Les"
 date = "2008-09-19"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["les", "burt"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2020/03/7AA18BC1-D27F-4D2E-9038-9CFBC05E6516-1024x936.jpeg)

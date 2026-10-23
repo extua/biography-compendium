@@ -1,8 +1,16 @@
 +++
 title = "Horn Joshua (Dr)"
 date = "2009-02-21"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["dr", "horn", "joshua"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dr. Joshua Samuel Horn

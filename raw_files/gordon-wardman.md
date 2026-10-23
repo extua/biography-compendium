@@ -1,8 +1,16 @@
 +++
 title = "Wardman Gordon"
 date = "2009-07-19"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["gordon", "wardman"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/wardman%20gordon001.jpg)Gordon Wardman

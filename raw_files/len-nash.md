@@ -1,8 +1,16 @@
 +++
 title = "Nash Len"
 date = "2008-09-19"
-categories = ["n"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["n"]
 tags = ["len", "nash"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Len Nash

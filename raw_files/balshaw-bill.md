@@ -1,8 +1,16 @@
 +++
 title = "Balshaw Bill"
 date = "2010-12-01"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["bill", "balshaw"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bill Balshaw

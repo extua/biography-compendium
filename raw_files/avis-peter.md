@@ -1,8 +1,16 @@
 +++
 title = "Avis Peter"
 date = "2013-04-27"
-categories = ["a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["peter", "avis"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2019/07/avis-peter-avis-010-1.jpg)Peter Avis

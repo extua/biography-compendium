@@ -1,8 +1,16 @@
 +++
 title = "Hannington Wal"
 date = "2008-11-21"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["hannington", "wal"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/hannington wal NUWM deputation No 10 1931pg.jpg)Wal Hannington

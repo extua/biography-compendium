@@ -1,8 +1,16 @@
 +++
 title = "McCluskey Eddie"
 date = "2010-11-23"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["eddie", "mccluskey"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Eddie McCluskey

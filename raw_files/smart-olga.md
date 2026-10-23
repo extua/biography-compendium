@@ -1,8 +1,16 @@
 +++
 title = "Smart Olga"
 date = "2010-12-04"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["olga", "smart"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Olga Smart

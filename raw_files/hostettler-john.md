@@ -1,8 +1,16 @@
 +++
 title = "Hostettler John"
 date = "2013-03-16"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["john", "hostettler"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 John Hostettler

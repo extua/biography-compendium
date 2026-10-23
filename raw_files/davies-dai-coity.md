@@ -1,8 +1,16 @@
 +++
 title = "Davies Dai Coity"
 date = "2010-03-04"
-categories = ["d", "commiepedia"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d", "commiepedia"]
 tags = ["davies", "dai", "coity"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dai Coity Davies spent his entire life in the mining industry of South Wales, firstly as an underground worker at Wern Tarw (Pencoed), then as a full time official of the Wales area of the National Union of Miners. He was elected to the Area Executive of the union in 1955 and became compensation secretary, a post he held until his death.

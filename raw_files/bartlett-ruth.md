@@ -1,8 +1,16 @@
 +++
 title = "Bartlett Ruth"
 date = "2011-08-25"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["bartlett", "ruth"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2011/08/bartlett-ruth.jpg)Ruth Bartlett

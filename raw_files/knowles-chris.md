@@ -1,8 +1,16 @@
 +++
 title = "Knowles Chris"
 date = "2010-04-02"
-categories = ["k"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["k"]
 tags = ["chris", "knowles"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Chris Knowles

@@ -1,8 +1,16 @@
 +++
 title = "Swain Arthur"
 date = "2009-08-29"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["arthur", "swain"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Arthur Swain

@@ -1,8 +1,16 @@
 +++
 title = "Negrea Marjoire (nee Beasly)"
 date = "2008-09-19"
-categories = ["n"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["n"]
 tags = ["nee", "negrea", "marjoire", "beasly"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Marjorie Negrea (nee Beasly)

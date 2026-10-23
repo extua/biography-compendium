@@ -1,8 +1,16 @@
 +++
 title = "Stannard Les"
 date = "2011-06-11"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["les", "stannard"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Les Stannard

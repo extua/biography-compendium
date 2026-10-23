@@ -1,8 +1,16 @@
 +++
 title = "Stone Frank"
 date = "2008-09-20"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["frank", "stone"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/stone%20frank%201(1).jpg)Frank Stone

@@ -1,8 +1,16 @@
 +++
 title = "Sutherland Jack"
 date = "2008-09-20"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["jack", "sutherland"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jack Sutherland

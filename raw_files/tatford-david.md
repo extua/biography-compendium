@@ -1,8 +1,16 @@
 +++
 title = "Tatford David"
 date = "2011-12-12"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["david", "tatford"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 David Tatford

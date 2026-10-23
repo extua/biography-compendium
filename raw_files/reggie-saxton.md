@@ -1,8 +1,16 @@
 +++
 title = "Saxton Reg"
 date = "2008-09-20"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["reg", "saxton"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/Saxton%20Reg%20in%20Spain(1).jpg)Reg Saxton

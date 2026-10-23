@@ -1,8 +1,16 @@
 +++
 title = "Litchfield Mary"
 date = "2008-09-19"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["mary", "litchfield"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Mary Litchfield

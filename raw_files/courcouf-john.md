@@ -1,8 +1,16 @@
 +++
 title = "Courcouf John"
 date = "2010-11-16"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["john", "courcouf"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 In the 1930s, John Courcouf first got involved in politics on being especially concerned about the rise of fascism. A veteran of the Battle of Cable Street, he joined the Communist Party, and fought in the Second World War.

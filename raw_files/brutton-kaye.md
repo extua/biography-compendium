@@ -1,8 +1,16 @@
 +++
 title = "Brutton Kaye"
 date = "2010-01-12"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["brutton", "kaye"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ##### Kaye M Brutton was a Communist councillor in Wolverhampton, elected in particular circumstances.

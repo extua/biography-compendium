@@ -1,8 +1,16 @@
 +++
 title = "Bailey Jack"
 date = "2020-03-15"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["jack", "bailey"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jack Bailey

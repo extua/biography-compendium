@@ -1,8 +1,16 @@
 +++
 title = "Usher Nellie"
 date = "2009-07-28"
-categories = ["u"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["u"]
 tags = ["usher", "nellie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Nellie Usher

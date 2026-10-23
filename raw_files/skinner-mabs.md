@@ -1,8 +1,16 @@
 +++
 title = "Skinner Mabs"
 date = "2010-12-26"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["skinner", "mabs"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Mabs Skinner

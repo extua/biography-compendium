@@ -1,8 +1,16 @@
 +++
 title = "Clark Bill (Frederick le Gros)"
 date = "2008-12-16"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["clark", "bill", "frederick", "le", "gros"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  

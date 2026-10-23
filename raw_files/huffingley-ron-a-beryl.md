@@ -1,8 +1,16 @@
 +++
 title = "Huffingley Ron & Beryl"
 date = "2011-01-28"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["ron", "huffingley", "beryl"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 _Ron and Beryl_ _Huffinley_

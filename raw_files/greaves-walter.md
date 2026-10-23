@@ -1,8 +1,16 @@
 +++
 title = "Greaves Walter"
 date = "2011-12-12"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["greaves", "walter"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  Walter Greaves  

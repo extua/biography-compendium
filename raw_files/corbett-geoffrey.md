@@ -1,8 +1,16 @@
 +++
 title = "Corbett Geoffrey"
 date = "2010-02-19"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["corbett", "geoffrey"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Geoffrey Corbett & Jane Vowles

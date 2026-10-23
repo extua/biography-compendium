@@ -1,8 +1,16 @@
 +++
 title = "Ewer William"
 date = "2010-12-01"
-categories = ["e"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["e"]
 tags = ["william", "ewer"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 William Ewer

@@ -1,8 +1,16 @@
 +++
 title = "Lerner Nat"
 date = "2010-01-19"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["nat", "lerner"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Nat Lerner

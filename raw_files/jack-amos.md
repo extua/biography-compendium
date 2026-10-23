@@ -1,8 +1,16 @@
 +++
 title = "Amos Jack"
 date = "2010-02-22"
-categories = ["a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["jack", "amos"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2010/02/amos-jack.jpg)Jack Amos

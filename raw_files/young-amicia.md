@@ -1,8 +1,16 @@
 +++
 title = "Young Amicia"
 date = "2010-12-26"
-categories = ["y"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["y"]
 tags = ["young", "amicia"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Amicia Young

@@ -1,8 +1,16 @@
 +++
 title = "Sheppard David"
 date = "2011-10-08"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["david", "sheppard"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 David Sheppard

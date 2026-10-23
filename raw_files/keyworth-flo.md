@@ -1,8 +1,16 @@
 +++
 title = "Keyworth Flo"
 date = "2011-01-27"
-categories = ["k"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["k"]
 tags = ["keyworth", "flo"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2011/01/keyworth-flo.jpg)Flo Keyworth

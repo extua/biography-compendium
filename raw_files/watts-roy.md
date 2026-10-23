@@ -1,8 +1,16 @@
 +++
 title = "Watts Roy"
 date = "2012-06-30"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["roy", "watts"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Roy Watts

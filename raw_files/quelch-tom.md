@@ -1,8 +1,16 @@
 +++
 title = "Quelch Tom"
 date = "2010-01-05"
-categories = ["q"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["q"]
 tags = ["tom", "quelch"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Tom Quelch

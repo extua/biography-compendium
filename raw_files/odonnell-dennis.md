@@ -1,8 +1,16 @@
 +++
 title = "O'Donnell Dennis"
 date = "2014-12-27"
-categories = ["o"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["o"]
 tags = ["dennis", "odonnell"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dennis O'Donnell

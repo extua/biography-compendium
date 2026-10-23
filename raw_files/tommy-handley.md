@@ -1,8 +1,16 @@
 +++
 title = "Handley Tommy"
 date = "2009-02-05"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["tommy", "handley"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Tommy Handley

@@ -1,8 +1,16 @@
 +++
 title = "Maxwell Alex"
 date = "2010-01-02"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["alex", "maxwell"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Alex Maxwell

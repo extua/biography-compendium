@@ -1,8 +1,16 @@
 +++
 title = "Quinton Harold"
 date = "2008-09-20"
-categories = ["q"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["q"]
 tags = ["harold", "quinton"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Harold Quinton

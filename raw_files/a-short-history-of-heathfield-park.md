@@ -1,7 +1,15 @@
 +++
 title = "A SHORT HISTORY OF HEATHFIELD PARK"
 date = "2020-04-11"
-categories = ["articles-and-reviews", "history"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["articles-and-reviews", "history"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Handsworth Stories

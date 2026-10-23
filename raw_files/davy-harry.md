@@ -1,8 +1,16 @@
 +++
 title = "Davy Harry"
 date = "2015-12-11"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["davy", "harry"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Harry Davy

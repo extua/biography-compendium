@@ -1,8 +1,16 @@
 +++
 title = "Simpson Derek"
 date = "2012-04-14"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["derek", "simpson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Derek Simpson

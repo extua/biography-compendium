@@ -1,8 +1,16 @@
 +++
 title = "Challis Jim"
 date = "2010-12-26"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["jim", "challis"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jim Challis

@@ -1,8 +1,16 @@
 +++
 title = "MacDonald Minnie"
 date = "2012-03-13"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["macdonald", "minnie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Minnie MacDonald

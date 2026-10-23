@@ -1,8 +1,16 @@
 +++
 title = "Knight Frida"
 date = "2008-09-19"
-categories = ["k"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["k"]
 tags = ["knight", "frida"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Frida Knight

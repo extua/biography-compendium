@@ -1,8 +1,16 @@
 +++
 title = "Hopkins Harold"
 date = "2013-03-26"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["hopkins", "harold"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Harold Hopkins

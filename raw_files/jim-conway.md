@@ -1,8 +1,16 @@
 +++
 title = "Conway Jim"
 date = "2008-09-19"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["jim", "conway"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jim Conway

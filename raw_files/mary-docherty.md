@@ -1,8 +1,16 @@
 +++
 title = "Docherty Mary"
 date = "2009-02-03"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["mary", "docherty"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Mary  Doherty was born  on April 27 1908 in Cowdenbeath, where much of her political work was carried out. Her father was variously a miner and foundry worker. When unemployed as a result of his union activities he sold firewood to help support his family of three daughters.

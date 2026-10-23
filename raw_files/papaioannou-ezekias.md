@@ -1,8 +1,16 @@
 +++
 title = "Papaioannou Ezekias"
 date = "2011-01-27"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["papaioannou", "ezekias"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![Related image](http://www.tanea-london.net/Themata/FAKELOS-FO5_files/AKEL Ezekias Papaioannou-filtered.jpg)Ezekias Papaioannou

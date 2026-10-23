@@ -1,8 +1,16 @@
 +++
 title = "Douglas John"
 date = "2008-09-19"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["john", "douglas"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 John Douglas

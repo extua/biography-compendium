@@ -1,8 +1,16 @@
 +++
 title = "Bone Edith"
 date = "2010-02-15"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["bone", "edith"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Edith Bone

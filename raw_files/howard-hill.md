@@ -1,8 +1,16 @@
 +++
 title = "Hill Howard"
 date = "2009-02-13"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["howard", "hill"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/hill%20howard.jpg)Howard Hill

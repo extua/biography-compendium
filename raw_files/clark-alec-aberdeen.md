@@ -1,8 +1,16 @@
 +++
 title = "Clark Alec (Aberdeen)"
 date = "2010-01-31"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["clark", "alec", "aberdeen"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  Alec Clark (Aberdeen)

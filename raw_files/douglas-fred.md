@@ -1,8 +1,16 @@
 +++
 title = "Douglas Fred"
 date = "2013-04-27"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["douglas", "fred"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Fred Douglas

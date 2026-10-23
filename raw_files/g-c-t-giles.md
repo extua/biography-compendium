@@ -1,8 +1,16 @@
 +++
 title = "Giles G C T"
 date = "2008-09-19"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["giles"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 G C T Giles

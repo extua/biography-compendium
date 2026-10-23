@@ -1,8 +1,16 @@
 +++
 title = "Elsbury Sam"
 date = "2011-07-30"
-categories = ["e"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["e"]
 tags = ["elsbury", "sam"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Sam Elsbury

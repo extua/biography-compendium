@@ -1,8 +1,16 @@
 +++
 title = "Bennett Don & Dusty"
 date = "2009-10-11"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["bennett", "don", "dusty"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Don and Dusty Bennett

@@ -1,8 +1,16 @@
 +++
 title = "Mauger Peter"
 date = "2010-01-02"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["peter", "mauger"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Peter Mauger

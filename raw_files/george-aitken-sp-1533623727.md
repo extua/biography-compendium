@@ -1,8 +1,16 @@
 +++
 title = "Aitken George"
 date = "2009-08-04"
-categories = ["a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["george", "aitken"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2009/08/Aitken-George-1944.jpg)George Aitken

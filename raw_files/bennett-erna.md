@@ -1,8 +1,16 @@
 +++
 title = "Bennett Erna"
 date = "2011-08-25"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["bennett", "erna"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2020/02/38AAC7BE-B745-4351-8EA7-0B6422F171A8-300x260.jpeg)Erna Bennett

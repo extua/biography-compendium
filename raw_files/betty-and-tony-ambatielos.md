@@ -1,8 +1,16 @@
 +++
 title = "Ambatielos Betty and Tony"
 date = "2008-11-21"
-categories = ["a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["betty", "tony", "ambatielos"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  Betty and Tony Ambatielos

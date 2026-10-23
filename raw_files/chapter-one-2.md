@@ -1,7 +1,15 @@
 +++
 title = "Chapter One"
 date = "2018-01-04"
-categories = ["peoples-history-of-derbyshire-part-i"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["peoples-history-of-derbyshire-part-i"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 THE EARLY DAYS

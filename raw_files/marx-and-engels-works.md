@@ -1,7 +1,15 @@
 +++
 title = "Works of Marx and Engels"
 date = "2009-01-04"
-categories = ["marxism"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["marxism"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 SUMMARY OF SOME KEY WORKS

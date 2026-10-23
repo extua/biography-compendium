@@ -1,8 +1,16 @@
 +++
 title = "Dowd Jimmy"
 date = "2012-01-21"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["jimmy", "dowd"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jimmy Dowd

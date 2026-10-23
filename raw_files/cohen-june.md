@@ -1,8 +1,16 @@
 +++
 title = "Cohen June"
 date = "2010-12-01"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["cohen", "june"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 June Cohen

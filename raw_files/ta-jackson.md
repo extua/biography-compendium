@@ -1,8 +1,16 @@
 +++
 title = "Jackson T A"
 date = "2008-09-19"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["jackson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/Jackson%20T%20A%20[1].JPG) T.A. Jackson

@@ -1,8 +1,16 @@
 +++
 title = "Robertson Archie"
 date = "2010-01-31"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["archie", "robertson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Archie Robertson

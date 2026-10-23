@@ -1,8 +1,16 @@
 +++
 title = "Connolly Mick"
 date = "2015-04-09"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["connolly", "mick"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Mick Connolly

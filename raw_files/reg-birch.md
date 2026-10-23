@@ -1,8 +1,16 @@
 +++
 title = "Birch Reg"
 date = "2008-09-19"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["birch", "reg"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2008/09/birch-reg-1973-copyr-will-podmore-bellman-books.jpg)Reg Birch

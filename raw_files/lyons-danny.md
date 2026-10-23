@@ -1,8 +1,16 @@
 +++
 title = "Lyons Danny"
 date = "2011-01-27"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["danny", "lyons"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Danny Lyons

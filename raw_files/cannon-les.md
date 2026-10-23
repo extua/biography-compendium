@@ -1,8 +1,16 @@
 +++
 title = "Cannon Les"
 date = "2011-04-02"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["les", "cannon"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Les Cannon

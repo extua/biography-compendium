@@ -1,7 +1,15 @@
 +++
 title = "McFadden, Berit"
 date = "2020-03-05"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 _Berit McFadden, who originally_ _came from Schorndorf in southern Germany (pictured), died on 18 April 1997, aged 41, from a rare form of lung cancer.  This was 6 weeks after diagnosis and 11 weeks after the birth of her second daughter Sasha.  This is a slightly edited version of the tribute that Martin Levy gave at the funeral_.

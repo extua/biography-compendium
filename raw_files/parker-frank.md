@@ -1,8 +1,16 @@
 +++
 title = "Parker Frank"
 date = "2016-03-04"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["frank", "parker"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Frank Parker  

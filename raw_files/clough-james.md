@@ -1,8 +1,16 @@
 +++
 title = "Clough James"
 date = "2012-09-14"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["james", "clough"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2012/09/A68F4186-E097-4882-A5F0-43507FD65AE2-169x300.jpeg)James Clough 

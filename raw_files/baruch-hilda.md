@@ -1,8 +1,16 @@
 +++
 title = "Baruch Hilda"
 date = "2010-11-30"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["hilda", "baruch"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2010/11/Baruch-Hilda.jpg)Hilda Baruch

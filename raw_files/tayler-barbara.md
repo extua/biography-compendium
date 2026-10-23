@@ -1,8 +1,16 @@
 +++
 title = "Tayler Barbara"
 date = "2012-03-13"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["barbara", "tayler"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Barbara Tayler

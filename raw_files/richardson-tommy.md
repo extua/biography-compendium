@@ -1,8 +1,16 @@
 +++
 title = "Richardson Tommy"
 date = "2010-01-06"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["tommy", "richardson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  Tommy Richardson

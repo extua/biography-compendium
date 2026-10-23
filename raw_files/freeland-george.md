@@ -1,8 +1,16 @@
 +++
 title = "Freeland George"
 date = "2011-08-25"
-categories = ["f"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["f"]
 tags = ["george", "freeland"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  George Freeland

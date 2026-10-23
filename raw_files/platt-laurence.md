@@ -1,7 +1,15 @@
 +++
 title = "Platt, Laurence"
 date = "2019-07-11"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2019/07/PLATT-L-Image-1-1-300x225.jpg)Born David Laurence Platt in 1950 to George and Winfred (nee Haigh), a couple from Huddersfield, who were then living in Melton Mowbray, Laurence’s roots were always firmly planted in what used to be called the North Midlands.

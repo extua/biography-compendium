@@ -1,8 +1,16 @@
 +++
 title = "Hyde Harry"
 date = "2008-09-19"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["harry", "hyde"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Harry Hyde

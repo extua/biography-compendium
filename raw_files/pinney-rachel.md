@@ -1,8 +1,16 @@
 +++
 title = "Pinney Rachel"
 date = "2013-03-27"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["rachel", "pinney"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Rachel Pinney

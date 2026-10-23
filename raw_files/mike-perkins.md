@@ -1,8 +1,16 @@
 +++
 title = "Perkins  Mike"
 date = "2008-09-20"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["perkins", "mike"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Mike Perkins

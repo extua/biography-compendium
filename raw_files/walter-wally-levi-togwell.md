@@ -1,8 +1,16 @@
 +++
 title = 'Togwell Walter "Wally" Levi'
 date = "2008-09-20"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["walter", "wally", "togwell", "levi"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Walter "Wally" Levi Togwell

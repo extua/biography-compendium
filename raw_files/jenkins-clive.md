@@ -1,8 +1,16 @@
 +++
 title = "Jenkins Clive"
 date = "2012-04-05"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["jenkins", "clive"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Clive Jenkins

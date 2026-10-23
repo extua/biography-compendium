@@ -1,8 +1,16 @@
 +++
 title = "Birch Betty"
 date = "2013-10-15"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["birch", "betty"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Betty Birch

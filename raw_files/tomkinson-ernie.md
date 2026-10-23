@@ -1,8 +1,16 @@
 +++
 title = "Tomkinson Ernie"
 date = "2010-04-15"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["ernie", "tomkinson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ernie Tomkinson  

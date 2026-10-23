@@ -1,8 +1,16 @@
 +++
 title = "Darnton Christian"
 date = "2010-12-19"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["darnton", "christian"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Christian Darnton

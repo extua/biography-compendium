@@ -1,8 +1,16 @@
 +++
 title = "Kelly Dave"
 date = "2013-03-16"
-categories = ["k"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["k"]
 tags = ["kelly", "dave"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dave Kelly

@@ -1,7 +1,15 @@
 +++
 title = "Birmingham Communists in action in the 1930s"
 date = "2009-01-04"
-categories = ["articles-and-reviews", "communist-history"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["articles-and-reviews", "communist-history"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 From “the Lucas girls’ joy” to “we won’t pay” –

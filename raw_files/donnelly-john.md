@@ -1,8 +1,16 @@
 +++
 title = "Donnelly John"
 date = "2010-03-04"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["john", "donnelly"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 John Donnelly

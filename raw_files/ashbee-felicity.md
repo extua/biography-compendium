@@ -1,8 +1,16 @@
 +++
 title = "Ashbee Felicity"
 date = "2010-02-22"
-categories = ["a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["ashbee", "felicity"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Felicity Ashbee

@@ -1,8 +1,16 @@
 +++
 title = "Chapter Six"
 date = "2017-12-24"
-categories = ["peoples-history-of-derbyshire-part-i"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["peoples-history-of-derbyshire-part-i"]
 tags = ["chapter"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 The Golden Age of Empire - Derbyshire Trades Unionism 1848-1890

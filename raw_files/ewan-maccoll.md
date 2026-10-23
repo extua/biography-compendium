@@ -1,5 +1,17 @@
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 _Sources: Many newspaper obituaries and sources in the National Archives have been used but a lot of the material is from the The Working Class Movement Library site._

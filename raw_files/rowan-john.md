@@ -1,8 +1,16 @@
 +++
 title = "Rowan John"
 date = "2010-01-06"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["john", "rowan"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/rowan%20john.jpg)John Rowan

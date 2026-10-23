@@ -1,8 +1,16 @@
 +++
 title = "Underwood Brian"
 date = "2016-09-15"
-categories = ["u"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["u"]
 tags = ["brian", "underwood"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
   

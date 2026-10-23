@@ -1,7 +1,9 @@
 +++
 title = "Jackson Frank (b1887, builder & CP librarian)"
 date = "2010-04-10"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = [
     "frank",
     "jackson",
@@ -10,6 +12,12 @@ tags = [
     "cp",
     "librarian",
 ]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Frank Jackson

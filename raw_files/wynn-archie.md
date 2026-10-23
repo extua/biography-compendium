@@ -1,8 +1,16 @@
 +++
 title = "Wynn Archie"
 date = "2010-03-19"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["archie", "wynn"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/wynn%20archie%20in%201984.jpg)Archie Wynn

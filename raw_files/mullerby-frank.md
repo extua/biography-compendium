@@ -1,8 +1,16 @@
 +++
 title = "Mullerby Frank"
 date = "2010-01-03"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["frank", "mullerby"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Frank Mullerby  

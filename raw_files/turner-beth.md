@@ -1,8 +1,16 @@
 +++
 title = "Turner Beth"
 date = "2017-10-03"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["turner", "beth"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Beth Turner

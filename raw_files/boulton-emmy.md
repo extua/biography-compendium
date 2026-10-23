@@ -1,8 +1,16 @@
 +++
 title = "Boulton Emmy"
 date = "2010-01-31"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["boulton", "emmy"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Emmy Boulton

@@ -1,8 +1,16 @@
 +++
 title = "Gandy Robin"
 date = "2008-09-19"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["robin", "gandy"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Robin Gandy _(pictured below c1970)_

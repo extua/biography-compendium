@@ -1,8 +1,16 @@
 +++
 title = "Goodwin Dennis"
 date = "2013-08-24"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["dennis", "goodwin"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dennis Goodwin

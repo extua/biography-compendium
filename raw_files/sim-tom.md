@@ -1,8 +1,16 @@
 +++
 title = "Sims Tom"
 date = "2011-01-27"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["tom", "sims"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Tom Sims

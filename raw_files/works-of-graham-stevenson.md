@@ -1,7 +1,15 @@
 +++
 title = "Site Guide"
 date = "2018-08-26"
-categories = ["articles-and-reviews", "books-and-other-thungs"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["articles-and-reviews", "books-and-other-thungs"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ## What's on this site? Original works of Graham Stevenson - books, pamphlets, articles and speeches.

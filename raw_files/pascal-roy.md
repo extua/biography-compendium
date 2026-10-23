@@ -1,8 +1,16 @@
 +++
 title = "Pascal Roy"
 date = "2015-12-11"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["roy", "pascal"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Roy Pascal

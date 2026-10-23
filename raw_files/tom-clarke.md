@@ -1,8 +1,16 @@
 +++
 title = "Clarke Tom"
 date = "2009-01-09"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["clarke", "tom"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Tom Clarke

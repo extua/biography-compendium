@@ -1,8 +1,16 @@
 +++
 title = "Avner Sid"
 date = "2010-04-02"
-categories = ["a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["sid", "avner"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Sid Avner

@@ -1,8 +1,16 @@
 +++
 title = "Gilmore Jimmy"
 date = "2012-03-13"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["jimmy", "gilmore"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 J R Gilmore

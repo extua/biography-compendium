@@ -1,8 +1,16 @@
 +++
 title = "Anderson Colin"
 date = "2008-09-19"
-categories = ["a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["anderson", "colin"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  Colin Anderson.

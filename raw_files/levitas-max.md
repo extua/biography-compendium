@@ -1,8 +1,16 @@
 +++
 title = "Levitas Max"
 date = "2010-01-31"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["max", "levitas"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/levitas%20max.bmp)Max Levitas

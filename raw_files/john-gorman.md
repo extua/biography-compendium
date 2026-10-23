@@ -1,8 +1,16 @@
 +++
 title = "Gorman John"
 date = "2008-09-19"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["john", "gorman"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/gorman%20john%20and%20banner.jpg)John Gorman

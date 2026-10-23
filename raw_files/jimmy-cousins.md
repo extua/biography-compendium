@@ -1,8 +1,16 @@
 +++
 title = "Cousins Jimmy"
 date = "2008-09-19"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["jimmy", "cousins"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 James Arthur Cousins was born on 2nd July 1894 in Bracknell, Berkshire and, as a child, lived on the north Ascot downs. His parents were relatively independent, financially, in that they owned two semi-detached houses, one they lived in and the other they rented out. Jimmy's father was a skilled stone mason, his mother had a sweet shop in the grounds of their house and both managed their own fruit and vegetable business, complete with horse and cart.

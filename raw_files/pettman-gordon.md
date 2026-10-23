@@ -1,8 +1,16 @@
 +++
 title = "Pettman Gordon"
 date = "2010-01-26"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["gordon", "pettman"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Gordon Pettman

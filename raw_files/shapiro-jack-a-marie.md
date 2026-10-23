@@ -1,8 +1,16 @@
 +++
 title = "Shapiro Jack & Marie"
 date = "2010-04-15"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["jack", "marie", "shapiro"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jack & Marie Shapiro

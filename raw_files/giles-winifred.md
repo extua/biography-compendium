@@ -1,8 +1,16 @@
 +++
 title = "Giles Winifred"
 date = "2011-01-28"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["winifred", "giles"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Winifred Giles

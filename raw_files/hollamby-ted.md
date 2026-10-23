@@ -1,8 +1,16 @@
 +++
 title = "Hollamby Ted"
 date = "2015-12-11"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["hollamby", "ted"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ted Hollamby

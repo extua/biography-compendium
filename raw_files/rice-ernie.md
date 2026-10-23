@@ -1,8 +1,16 @@
 +++
 title = "Rice Ernie"
 date = "2010-04-15"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["ernie", "rice"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ernie Rice

@@ -1,8 +1,16 @@
 +++
 title = "Stubbs Dick"
 date = "2014-07-22"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["dick", "stubbs"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dick Stubbs

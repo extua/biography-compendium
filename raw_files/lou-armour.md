@@ -1,8 +1,16 @@
 +++
 title = "Armour Lou"
 date = "2009-03-08"
-categories = ["a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["armour", "lou"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Lou Armour

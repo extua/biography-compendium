@@ -1,8 +1,16 @@
 +++
 title = "Kunes Hilda"
 date = "2014-07-22"
-categories = ["k"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["k"]
 tags = ["hilda", "kunes"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Hilda Kunes

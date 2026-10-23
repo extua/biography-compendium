@@ -1,8 +1,16 @@
 +++
 title = "Schaffer Sheila"
 date = "2010-12-05"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["schaffer", "sheila"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Sheila Schaffer

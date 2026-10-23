@@ -1,8 +1,16 @@
 +++
 title = "Eggar Dougal"
 date = "2011-06-11"
-categories = ["e"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["e"]
 tags = ["eggar", "dougal"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dougal Eggar

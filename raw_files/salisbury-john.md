@@ -1,8 +1,16 @@
 +++
 title = "Salisbury John"
 date = "2010-01-06"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["john", "salisbury"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  John Salisbury

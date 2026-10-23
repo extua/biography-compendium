@@ -1,8 +1,16 @@
 +++
 title = "Jones Lewis"
 date = "2008-09-19"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["jones", "lewis"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/Jones%20Lewis%20welcomes%20a%20griffiths%20after%20his%20serving%20a%20sentence%20over%201936%20anti-fascist%20demo%20Tonypandy.jpg)Lewis Jones

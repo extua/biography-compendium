@@ -1,8 +1,16 @@
 +++
 title = "Jones Evelyn (nee Taylor) (1st m Browne)"
 date = "2009-03-07"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["evelyn", "jones", "nee", "taylor", "browne"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/jones%20evelyn.jpg)Evelyn Jones (née Taylor)

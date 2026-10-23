@@ -1,8 +1,16 @@
 +++
 title = "Carter Maisie"
 date = "2011-12-09"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["carter", "maisie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  Maisie Carter

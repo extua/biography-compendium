@@ -1,8 +1,16 @@
 +++
 title = "Champion Ron"
 date = "2017-12-16"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["champion", "ron"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ron Champion

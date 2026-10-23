@@ -1,8 +1,16 @@
 +++
 title = "Forman Hilda"
 date = "2011-08-25"
-categories = ["f"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["f"]
 tags = ["forman", "hilda"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  Hilda Forman

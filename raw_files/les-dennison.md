@@ -1,8 +1,16 @@
 +++
 title = "Dennison Les"
 date = "2008-11-29"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["les", "dennison"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Les Dennison

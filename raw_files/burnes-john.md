@@ -1,8 +1,16 @@
 +++
 title = "Burnes John"
 date = "2010-04-02"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["john", "burnes"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 John Burnes

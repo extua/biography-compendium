@@ -1,8 +1,16 @@
 +++
 title = "Cox Dora"
 date = "2008-09-19"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["cox", "dora"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dora Cox’s grandfather, a Yorkshire man, worked on the Russian railways and her father was active in the 1900 wave of strikes there and then had to flee to London, where he met and married Dora's mother, a Latvian Jewish refugee. Dora was born on 29th July 1904 and one of her abiding early memories was of the joy in her home when the Russian revolution took place. She began her political education at a Socialist Sunday School and was one of the founding members of the Young Communist League in 1924.

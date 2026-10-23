@@ -1,8 +1,16 @@
 +++
 title = "Galton Dorothy"
 date = "2010-03-04"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["dorothy", "galton"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dorothy Galton

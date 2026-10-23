@@ -1,8 +1,16 @@
 +++
 title = "Smith Reggie"
 date = "2009-08-08"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["smith", "reggie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/smith%20reggie%20with%20olivia%20manning.jpg)Reggie Smith

@@ -1,8 +1,16 @@
 +++
 title = "Horner Arthur"
 date = "2008-09-19"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["arthur", "horner"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/Horner%20Arthur%20young.jpg)Arthur Horner

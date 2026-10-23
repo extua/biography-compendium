@@ -1,8 +1,16 @@
 +++
 title = "Browne Joan Dillon"
 date = "2010-01-31"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["joan", "browne", "dillon"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Joan Dillon Browne

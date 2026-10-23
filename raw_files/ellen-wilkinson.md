@@ -1,8 +1,16 @@
 +++
 title = "Wilkinson Ellen"
 date = "2008-09-20"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["wilkinson", "ellen"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ellen Wilkinson

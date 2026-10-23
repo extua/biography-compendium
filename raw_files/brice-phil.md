@@ -1,8 +1,16 @@
 +++
 title = "Brice Phil"
 date = "2011-12-09"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["phil", "brice"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2011/12/brice-phil.jpg)Phil Brice

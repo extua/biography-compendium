@@ -1,7 +1,15 @@
 +++
 title = "Reform or Revolution?"
 date = "2020-04-12"
-categories = ["speeches"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["speeches"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Speech given on September 14 2017 in Bristol.

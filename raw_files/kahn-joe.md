@@ -1,8 +1,16 @@
 +++
 title = "Kahn Joe"
 date = "2010-12-26"
-categories = ["k"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["k"]
 tags = ["joe", "kahn"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2010/12/Kahn-Joe.jpg)Joe Kahn

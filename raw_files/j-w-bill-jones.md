@@ -1,8 +1,16 @@
 +++
 title = "Jones Bill (London)"
 date = "2008-09-19"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["bill", "jones", "london"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/jones%20bill%20central%20bus%20committee.jpg)Bill Jones

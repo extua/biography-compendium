@@ -1,8 +1,16 @@
 +++
 title = "Ward Fred"
 date = "2010-02-13"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["fred", "ward"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Fred Ward

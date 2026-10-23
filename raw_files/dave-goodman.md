@@ -1,8 +1,16 @@
 +++
 title = "Goodman Dave"
 date = "2008-09-19"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["dave", "goodman"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  _![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/goodman%20dave%20in%20middle.jpg) left: Dave Goodman (centre) in Spain_

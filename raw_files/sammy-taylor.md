@@ -1,8 +1,16 @@
 +++
 title = "Taylor Sammy"
 date = "2008-09-20"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["sammy", "taylor"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/taylor%20sam%20[1946].jpg)Sammy Taylor

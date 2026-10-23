@@ -1,8 +1,16 @@
 +++
 title = "Middleton Jean"
 date = "2010-12-21"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["middleton", "jean"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jean Middleton  

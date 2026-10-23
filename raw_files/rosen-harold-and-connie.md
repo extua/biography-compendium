@@ -1,8 +1,16 @@
 +++
 title = "Rosen Harold and Connie"
 date = "2010-01-19"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["connie", "harold", "rosen"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Harold and Connie Rosen

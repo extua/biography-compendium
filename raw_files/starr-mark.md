@@ -1,8 +1,16 @@
 +++
 title = "Starr Mark"
 date = "2011-01-27"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["mark", "starr"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Mark Starr

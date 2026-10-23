@@ -1,8 +1,16 @@
 +++
 title = "Lilley (Brammar) Pearl"
 date = "2011-10-09"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["lilley", "brammar", "pearl"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Pearl Lilley

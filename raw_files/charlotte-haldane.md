@@ -1,8 +1,16 @@
 +++
 title = "Haldane Charlotte"
 date = "2008-09-19"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["haldane", "charlotte"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/haldane%20charlotte.jpg)Charlotte Haldane

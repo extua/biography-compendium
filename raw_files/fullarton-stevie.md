@@ -1,8 +1,16 @@
 +++
 title = "Fullarton Stevie"
 date = "2011-12-12"
-categories = ["f"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["f"]
 tags = ["fullarton", "stevie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
   Stevie Fullarton

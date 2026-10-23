@@ -1,8 +1,16 @@
 +++
 title = "Keable Bill"
 date = "2012-09-15"
-categories = ["k"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["k"]
 tags = ["bill", "keable"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bill Keable

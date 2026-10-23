@@ -1,8 +1,16 @@
 +++
 title = "Follis Eddy"
 date = "2012-03-23"
-categories = ["f"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["f"]
 tags = ["follis", "eddy"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Eddy Follis

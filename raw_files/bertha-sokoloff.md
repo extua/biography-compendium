@@ -1,7 +1,15 @@
 +++
 title = "Bertha Sokoloff"
 date = "2019-12-18"
-categories = ["s", "commiepedia"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s", "commiepedia"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ```

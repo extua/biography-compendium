@@ -1,8 +1,16 @@
 +++
 title = "True Arthur"
 date = "2008-09-20"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["arthur", "true"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Arthur True

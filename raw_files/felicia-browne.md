@@ -1,8 +1,16 @@
 +++
 title = "Browne Felicia"
 date = "2008-09-19"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["browne", "felicia"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Felicia Browne was born at Thames Ditton on 18th February 1904, to a middle-class family. Her father, however, held progressive views, although her mother died when she was a child. Her father encouraged Felicia’s artistic talents, sending her to the St John's Wood School of Art. Excelling there, she studied at the Slade Art School from 1924 to 1926,

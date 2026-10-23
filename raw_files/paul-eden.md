@@ -1,8 +1,16 @@
 +++
 title = "Paul Eden"
 date = "2011-01-03"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["paul", "eden"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Eden Paul

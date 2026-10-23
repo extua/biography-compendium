@@ -1,8 +1,16 @@
 +++
 title = "Buckley Roy"
 date = "2008-11-29"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["roy", "buckley"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Buckley joined the Communist Party in 1943 when he was 17 years old and serving an engineering apprenticeship at Rolls-Royce in Derby. As he puts it: _"It was on the night shift," he recalls, "- we had to do it!"_ Alf Brown, the Night Convenor, was a Party member in the Derby Branch and presented Buckley with his first membership card.  He soon became the appointed representative of the junior members of the AEU and was also a member of Derby Trades Council until he moved into the drawing office and joined the AESD union where he became secretary of the Derby No.2 Branch with some two thousand draughtsmen on the books.

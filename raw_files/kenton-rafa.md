@@ -1,8 +1,16 @@
 +++
 title = "Kenton Rafa"
 date = "2011-10-11"
-categories = ["k"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["k"]
 tags = ["kenton", "rafa"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Rafa Kenton  

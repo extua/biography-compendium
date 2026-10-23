@@ -1,8 +1,16 @@
 +++
 title = "Mudie Robin"
 date = "2016-04-27"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["mudie", "robin"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Robin Mudie

@@ -1,8 +1,16 @@
 +++
 title = "Kane Johnny Cllr"
 date = "2010-09-23"
-categories = ["k"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["k"]
 tags = ["cllr", "kane", "johnny"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Councillor Johnny Kane

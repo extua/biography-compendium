@@ -1,8 +1,16 @@
 +++
 title = "Dunstan Robert (Dr)"
 date = "2010-01-19"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["dr", "robert", "dunstan"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dr Robert Dunstan (1878-1961)

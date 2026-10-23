@@ -1,8 +1,16 @@
 +++
 title = "Brown Arthur"
 date = "2017-11-18"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["brown", "arthur"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  

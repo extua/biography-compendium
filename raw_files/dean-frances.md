@@ -1,8 +1,16 @@
 +++
 title = "Dean Frances"
 date = "2012-01-24"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["dean", "frances"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 France Dean

@@ -1,8 +1,16 @@
 +++
 title = "Kiernan Victor"
 date = "2010-05-29"
-categories = ["k"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["k"]
 tags = ["kiernan", "victor"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Victor Kiernan

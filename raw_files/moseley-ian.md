@@ -1,8 +1,16 @@
 +++
 title = "Moseley Ian"
 date = "2010-01-26"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["moseley", "ian"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ian Moseley

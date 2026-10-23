@@ -1,8 +1,16 @@
 +++
 title = "Saville John"
 date = "2009-08-29"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["john", "saville"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/savill%20john%20in%20army%202.jpg)John Saville

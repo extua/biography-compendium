@@ -1,8 +1,16 @@
 +++
 title = "Klugmann James"
 date = "2008-09-19"
-categories = ["k"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["k"]
 tags = ["james", "klugmann"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/klugmann%20james%20major.jpg)

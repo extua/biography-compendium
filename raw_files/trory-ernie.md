@@ -1,8 +1,16 @@
 +++
 title = "Trory Ernie"
 date = "2012-01-07"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["ernie", "trory"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ernie Trory

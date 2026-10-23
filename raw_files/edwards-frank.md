@@ -1,8 +1,16 @@
 +++
 title = "Edwards Frank"
 date = "2011-04-02"
-categories = ["e"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["e"]
 tags = ["frank", "edwards"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Frank Edwards

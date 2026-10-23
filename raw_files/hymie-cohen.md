@@ -1,8 +1,16 @@
 +++
 title = "Cohen Hymie"
 date = "2008-11-29"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["cohen", "hymie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Hymie Cohen

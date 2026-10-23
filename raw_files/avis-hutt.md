@@ -1,8 +1,16 @@
 +++
 title = "Hutt Avis"
 date = "2009-02-19"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["avis", "hutt"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/hutt%20avis%203.jpg)Avis Hutt

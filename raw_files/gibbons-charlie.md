@@ -1,8 +1,16 @@
 +++
 title = "Gibbons Charlie"
 date = "2011-01-28"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["gibbons", "charlie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Charlie Gibbons

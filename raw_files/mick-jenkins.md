@@ -1,8 +1,16 @@
 +++
 title = "Jenkins Mick"
 date = "2008-09-19"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["mick", "jenkins"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Mick Jenkins

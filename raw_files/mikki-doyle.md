@@ -1,8 +1,16 @@
 +++
 title = "Doyle Mikki"
 date = "2008-09-19"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["doyle", "mikki"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/Doyle%20Mikki%20.JPG)Mikki Doyle

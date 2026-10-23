@@ -1,8 +1,16 @@
 +++
 title = "Eddisford Vic"
 date = "2010-03-19"
-categories = ["e"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["e"]
 tags = ["eddisford", "vic"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/eddisford%20vic%201950.jpg)Vic Eddisford

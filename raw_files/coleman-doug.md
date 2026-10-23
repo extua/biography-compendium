@@ -1,8 +1,16 @@
 +++
 title = "Coleman Doug"
 date = "2011-12-10"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["coleman", "doug"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  ![](https://grahamstevenson.me.uk/wp-content/uploads/2011/12/Coleman-Doug-1988.jpg)W L (Doug) Coleman

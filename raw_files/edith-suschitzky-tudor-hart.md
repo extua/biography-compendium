@@ -1,11 +1,19 @@
 +++
 title = "Tudor-Hart Edith (Suschitzky)"
 date = "2009-07-28"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["edith", "tudorhart", "suschitzky"]
 [extra]
 birth = 1908
 death = 1973
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Born Edith Suschitzky in Vienna in 1908, she grew up in radical Jewish circles. She was the daughter of an owner of a socialist bookshop, her younger brother being the celebrated cinematographer, Wolfgang Suschitzky, born in 1912. The family were enthusiastic supporters of the Russian Revolution.

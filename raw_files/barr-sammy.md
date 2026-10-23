@@ -1,8 +1,16 @@
 +++
 title = "Barr Sammy"
 date = "2012-09-19"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["barr", "sammy"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Sammy Barr

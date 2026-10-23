@@ -1,8 +1,16 @@
 +++
 title = "Mitchell Hambis"
 date = "2011-06-11"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["mitchell", "hambis"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Hambis Mitchell

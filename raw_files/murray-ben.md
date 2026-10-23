@@ -1,8 +1,16 @@
 +++
 title = "Murray Ben"
 date = "2011-06-11"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["ben", "murray"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ben Murray  

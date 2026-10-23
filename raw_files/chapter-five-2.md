@@ -1,8 +1,16 @@
 +++
 title = "Chapter Five"
 date = "2017-12-26"
-categories = ["peoples-history-of-derbyshire-part-i"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["peoples-history-of-derbyshire-part-i"]
 tags = ["chapter"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Chapter 5: “Peaceably, If We Can - Forcibly, If We Must": trades unions, the working class and Chartism in Derbyshire in the struggle for economic and political liberty

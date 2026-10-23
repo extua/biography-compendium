@@ -1,8 +1,16 @@
 +++
 title = "Braithwaite Larry"
 date = "2012-06-21"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["braithwaite", "larry"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Larry Braithwaite

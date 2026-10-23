@@ -1,8 +1,16 @@
 +++
 title = "George Ray"
 date = "2010-03-04"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["george", "ray"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/george%20ray%20in%20spain-300x199.jpg)Ray George

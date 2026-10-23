@@ -1,8 +1,16 @@
 +++
 title = "Thompson W.H. (Harry)"
 date = "2008-09-20"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["harry", "thompson", "wh"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 W.H. (Harry) Thompson

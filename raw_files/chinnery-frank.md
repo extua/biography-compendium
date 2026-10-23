@@ -1,8 +1,16 @@
 +++
 title = "Chinnery Frank"
 date = "2010-01-29"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["frank", "chinnery"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Frank Chinnery

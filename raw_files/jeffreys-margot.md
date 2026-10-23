@@ -1,8 +1,16 @@
 +++
 title = "Jeffreys Margot"
 date = "2013-04-28"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["jeffreys", "margot"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 A brief biography of Margot Jefferys

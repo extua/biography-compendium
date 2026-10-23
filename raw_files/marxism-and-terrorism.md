@@ -1,7 +1,15 @@
 +++
 title = "Marxism and terrorism"
 date = "2009-01-03"
-categories = ["marxism"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["marxism"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 MARXISM AND TERRORISM

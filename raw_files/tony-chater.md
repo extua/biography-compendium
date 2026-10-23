@@ -1,8 +1,16 @@
 +++
 title = "Chater Tony"
 date = "2008-09-19"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["tony", "chater"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2008/09/chater-tony-resized.jpg)![](https://grahamstevenson.me.uk/wp-content/uploads/2008/09/chater-tony-1963.jpg)

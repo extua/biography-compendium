@@ -1,8 +1,16 @@
 +++
 title = "Griffin Arthur"
 date = "2011-07-30"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["arthur", "griffin"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Arthur Griffin

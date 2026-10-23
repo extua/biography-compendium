@@ -1,8 +1,16 @@
 +++
 title = "Friell Jimmy (`Gabriel')"
 date = "2008-09-19"
-categories = ["f"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["f"]
 tags = ["jimmy", "friell", "gabriel"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/friell jimmy cartoon a dim view of chamberlain policy on spain.JPG)Jimmy (James) Friell![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/Friell Jimmy aka Gabriel.JPG) - Gabriel of the Daily Worker

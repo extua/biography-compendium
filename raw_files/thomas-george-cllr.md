@@ -1,8 +1,16 @@
 +++
 title = "Thomas George Cllr"
 date = "2011-12-28"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["cllr", "george", "thomas"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Councillor George Thomas

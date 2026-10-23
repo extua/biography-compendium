@@ -1,8 +1,16 @@
 +++
 title = "Ashton Mark"
 date = "2011-06-26"
-categories = ["a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["mark", "ashton"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2019/05/ashton-mark-YCL-gen-sec.jpg)Mark Ashton

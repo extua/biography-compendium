@@ -1,8 +1,16 @@
 +++
 title = "Casosola Roland"
 date = "2010-01-29"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["casosola", "roland"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Roland W Casosola

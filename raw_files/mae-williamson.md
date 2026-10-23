@@ -1,8 +1,16 @@
 +++
 title = "Williamson Mae"
 date = "2009-07-20"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["williamson", "mae"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Mae Williamson

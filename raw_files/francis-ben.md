@@ -1,8 +1,16 @@
 +++
 title = "Francis Ben"
 date = "2010-12-26"
-categories = ["f"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["f"]
 tags = ["francis", "ben"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ben Francis

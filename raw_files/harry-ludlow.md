@@ -1,8 +1,16 @@
 +++
 title = "Ludlow Harry"
 date = "2008-09-19"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["harry", "ludlow"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Harry Ludlow

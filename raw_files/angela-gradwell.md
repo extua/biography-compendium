@@ -1,8 +1,16 @@
 +++
 title = "Gradwell Angela"
 date = "2008-09-19"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["angela", "gradwell"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/gradwell%20angela%20pictured%20with%20petition%20against%20falklands%20war%201982.jpg)Angela Gradwell

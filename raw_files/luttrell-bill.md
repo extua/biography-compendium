@@ -1,8 +1,16 @@
 +++
 title = "Luttrell Bill"
 date = "2013-03-16"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["bill", "luttrell"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bill Luttrell

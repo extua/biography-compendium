@@ -1,8 +1,16 @@
 +++
 title = "Darton Patience (m. Edney)"
 date = "2010-03-04"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["darton", "patience", "edney"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Patience Darton (m. Edney)![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/darton%20patience%20in%201937.jpg)![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/darton%20patience%20in%201937(1).jpg)

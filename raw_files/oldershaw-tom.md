@@ -1,8 +1,16 @@
 +++
 title = "Oldershaw Tom"
 date = "2011-07-17"
-categories = ["o"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["o"]
 tags = ["tom", "oldershaw"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Tom Oldershaw  

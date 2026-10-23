@@ -1,8 +1,16 @@
 +++
 title = "Levine Albert"
 date = "2011-06-11"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["albert", "levine"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Albert Levine

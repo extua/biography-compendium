@@ -1,8 +1,16 @@
 +++
 title = "Ashberry Gordon"
 date = "2012-12-24"
-categories = ["a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["gordon", "ashberry"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Gordon Ashberry

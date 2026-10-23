@@ -1,8 +1,16 @@
 +++
 title = "Hayball Ted"
 date = "2008-11-29"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["ted", "hayball"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ted (Edward) Hayball

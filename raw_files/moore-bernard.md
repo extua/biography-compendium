@@ -1,8 +1,16 @@
 +++
 title = "Moore Bernard"
 date = "2013-12-01"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["moore", "bernard"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bernard Moore

@@ -1,8 +1,16 @@
 +++
 title = "Seabrook Dick"
 date = "2013-03-16"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["dick", "seabrook"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dick Seabrook

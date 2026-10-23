@@ -1,8 +1,16 @@
 +++
 title = "Ramelson Marian"
 date = "2009-08-30"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["marian", "ramelson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Marian Ramelson

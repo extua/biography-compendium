@@ -1,8 +1,16 @@
 +++
 title = "Trotter Jack"
 date = "2012-11-24"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["jack", "trotter"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jack Trotter

@@ -1,8 +1,16 @@
 +++
 title = "Beney Fred"
 date = "2011-08-25"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["fred", "beney"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Fred Beney

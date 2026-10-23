@@ -1,8 +1,16 @@
 +++
 title = "Coult Muriel"
 date = "2010-05-29"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["coult", "muriel"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Muriel Coult was an active member of the Civil Service Clerical Association (the union is today, along with other merging partners, part of PCS, the Public and Commercial Services Union. She was described in the official history of the union as being a "woman who had shown exceptional energy on the Youth Advisory Committee".

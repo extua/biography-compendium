@@ -1,8 +1,16 @@
 +++
 title = "Ashleigh Charles"
 date = "2011-10-01"
-categories = ["a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["charles", "ashleigh"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2011/10/ashleigh-ch-speaking-at-the-funeral-of-3-wobblies.jpg)Charles Ashleigh

@@ -1,8 +1,16 @@
 +++
 title = "Middleton Olga"
 date = "2012-06-21"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["olga", "middleton"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Olga Middleton

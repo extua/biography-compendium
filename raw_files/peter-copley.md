@@ -1,8 +1,16 @@
 +++
 title = "Copley Peter"
 date = "2008-12-16"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["peter", "copley"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Peter Copley

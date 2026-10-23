@@ -1,8 +1,16 @@
 +++
 title = "Thornett Alan"
 date = "2010-12-04"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["alan", "thornett"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Alan Thornett

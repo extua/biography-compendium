@@ -1,8 +1,16 @@
 +++
 title = "Thompson Dave"
 date = "2017-08-26"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["dave", "thompson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dave Thompson

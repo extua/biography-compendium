@@ -1,8 +1,16 @@
 +++
 title = "Bagwell Phillip"
 date = "2009-03-10"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["bagwell", "phillip"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Phillip Bagwell

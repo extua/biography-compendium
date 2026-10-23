@@ -1,7 +1,15 @@
 +++
 title = "Steer, Bernie"
 date = "2019-12-19"
-categories = ["s", "commiepedia"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s", "commiepedia"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bernie Steer

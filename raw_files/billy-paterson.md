@@ -1,8 +1,16 @@
 +++
 title = "Paterson Billy"
 date = "2008-09-19"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["billy", "paterson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Billy Paterson

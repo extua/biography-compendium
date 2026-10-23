@@ -1,8 +1,16 @@
 +++
 title = "Cook Len"
 date = "2009-01-09"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["len", "cook"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Len Cook

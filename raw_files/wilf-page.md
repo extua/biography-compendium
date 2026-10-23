@@ -1,8 +1,16 @@
 +++
 title = "Page Wilf"
 date = "2008-09-19"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["wilf", "page"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Wilfred Rendall Page was born on 11th September 1913 at Newton St. Faith, Cotton, Norfolk, in great poverty. He joined the RAF as a pioneering aerial photographer during WW2. While inthe RAF he was won to the ideas of the CP. In 1945 hebecame the agent for Edwin Gooch, North Norfolk LabourMP and General Secretary of the National Union ofAgricultural Workers.

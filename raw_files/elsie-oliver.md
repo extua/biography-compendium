@@ -1,8 +1,16 @@
 +++
 title = "Oliver Elsie"
 date = "2008-09-19"
-categories = ["o"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["o"]
 tags = ["oliver", "elsie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/oliver%20elsie%20with%20first%20DW.JPG)Elsie Oliver

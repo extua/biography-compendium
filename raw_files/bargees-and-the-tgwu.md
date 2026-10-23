@@ -1,7 +1,15 @@
 +++
 title = "Bargees and the TGWU"
 date = "2020-04-08"
-categories = ["books-and-pamphlets", "trade-union-history"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["books-and-pamphlets", "trade-union-history"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 MIDLANDS CANAL BARGE MASTERS, CREWS, AND FAMILIES 

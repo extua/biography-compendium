@@ -1,8 +1,16 @@
 +++
 title = "Carpenter John `Miles' (Maurice)"
 date = "2008-12-16"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["john", "maurice", "carpenter", "miles"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 John \`Miles’ (Maurice) Carpenter

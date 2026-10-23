@@ -1,8 +1,16 @@
 +++
 title = "Worsley Peter"
 date = "2013-04-29"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["peter", "worsley"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Peter Worsley

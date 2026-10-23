@@ -1,8 +1,16 @@
 +++
 title = "Selkirk Bob"
 date = "2008-09-20"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["bob", "selkirk"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/Selkirk%20Auld%20Bob.jpg)Bob Selkirk

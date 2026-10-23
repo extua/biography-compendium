@@ -1,8 +1,16 @@
 +++
 title = "Dickenson Harold"
 date = "2008-09-19"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["harold", "dickenson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Harold & Bessie Dickenson

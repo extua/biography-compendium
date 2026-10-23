@@ -1,8 +1,16 @@
 +++
 title = "Iliffe Jack"
 date = "2011-12-12"
-categories = ["i"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["i"]
 tags = ["jack", "iliffe"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jack Iliffe

@@ -1,8 +1,16 @@
 +++
 title = "Hall Albert"
 date = "2011-12-12"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["hall", "albert"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Albert Hall

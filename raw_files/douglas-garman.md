@@ -1,8 +1,16 @@
 +++
 title = "Garman Douglas"
 date = "2008-09-19"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["douglas", "garman"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 <table style="width: auto"><tbody><tr><td><input alt="" src="https://lh6.googleusercontent.com/_N652tlEVoqM/TWE_Dgwe3OI/AAAAAAAAAng/4zm8ozrMBE4/s144/garman douglas.jpg" style="float: left; margin: 10px; width: 110px; height: 144px" type="image"></td></tr><tr><td style="font-size: 11px; font-family: arial,sans-serif; text-align: right"><span style="color: black"><strong>Douglas Garman</strong></span></td></tr></tbody></table>

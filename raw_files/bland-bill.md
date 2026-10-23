@@ -1,8 +1,16 @@
 +++
 title = "Bland Bill"
 date = "2010-12-06"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["bill", "bland"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Born on April 28th 1916, Bland paid a visit to the Soviet Union at the age of 21, in 1937, and thereafter dedicated his entire life and activity to the advancement of socialism and communism.

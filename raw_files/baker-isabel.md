@@ -1,8 +1,16 @@
 +++
 title = "Baker Isabel"
 date = "2016-12-09"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["baker", "isabel"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Isabel Baker

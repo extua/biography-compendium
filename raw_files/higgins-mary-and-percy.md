@@ -1,8 +1,16 @@
 +++
 title = "Higgins Mary and Percy"
 date = "2011-12-12"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["percy", "higgins", "mary"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  Mary and Percy Higgins

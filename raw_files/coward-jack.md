@@ -1,8 +1,16 @@
 +++
 title = "Coward Jack"
 date = "2009-10-12"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["jack", "coward"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 An International Brigader who became rather famous in the 1966 seamen’s strike, Jack Coward was born in the Lake District in 1905. At the age of 9 his family moved to look for work to Liverpool, settling in the Brownlow Hill area. There, Jack went to Pleasant Street school and as soon as he was able to became a merchant seafarer.

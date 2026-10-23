@@ -1,8 +1,16 @@
 +++
 title = "Garland Paul"
 date = "2010-12-26"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["paul", "garland"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Paul Garland

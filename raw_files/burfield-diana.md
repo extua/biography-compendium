@@ -1,8 +1,16 @@
 +++
 title = "Burfield Diana"
 date = "2012-02-15"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["burfield", "diana"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Diana was born in Milford on Sea, Hampshire, then brought up in Lee, South London, and went to the John Roan school in Greenwich. She was evacuated from there, and ended her schooldays at Harrow Weald grammar school.When she was at Bedford College, London, she changed from modern languages to psychology and anthropology, joined the Communist Party and spent a month in 1946 as a pioneer building a Yugoslav railway.

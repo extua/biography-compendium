@@ -1,8 +1,16 @@
 +++
 title = "Jeffries Len"
 date = "2009-03-07"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["len", "jeffries"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/jeffries%20len%201931%20down%20with%20hitler%20justice%20ILD(1).jpg)Len Jeffries

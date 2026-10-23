@@ -1,8 +1,16 @@
 +++
 title = "Murdoch iris"
 date = "2010-01-03"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["iris", "murdoch"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Iris Murdoch

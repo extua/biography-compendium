@@ -1,8 +1,16 @@
 +++
 title = "Quaintance Bill"
 date = "2010-04-15"
-categories = ["q"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["q"]
 tags = ["bill", "quaintance"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bill Quaintance

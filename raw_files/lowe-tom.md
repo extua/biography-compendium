@@ -1,8 +1,16 @@
 +++
 title = "Lowe Tom"
 date = "2014-10-25"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["tom", "lowe"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Tom Lowe

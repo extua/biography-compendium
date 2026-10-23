@@ -1,8 +1,16 @@
 +++
 title = "Lilley Sam"
 date = "2011-10-09"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["sam", "lilley"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Sam Lilley 

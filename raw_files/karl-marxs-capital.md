@@ -1,7 +1,15 @@
 +++
 title = "Karl Marx's `Capital'"
 date = "2009-01-03"
-categories = ["marxism"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["marxism"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 KARL MARX’S \`CAPITAL’ – WHAT’S IT ALL ABOUT?

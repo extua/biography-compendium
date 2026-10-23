@@ -1,7 +1,15 @@
 +++
 title = "Vickers Jon"
 date = "2009-07-20"
-categories = ["v"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["v"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jon Vickers  

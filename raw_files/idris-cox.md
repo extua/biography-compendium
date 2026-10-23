@@ -1,8 +1,16 @@
 +++
 title = "Cox Idris"
 date = "2008-09-19"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["cox", "idris"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Idris Cox was born in July 1899 at Llwydarth Cottages, Maesteg, to a mining family that moved to Cwmfelin the following year and where Idris then lived for the next 24 years. He joined his father at Garth pit, working as an assistant to a hewer, when only very young.

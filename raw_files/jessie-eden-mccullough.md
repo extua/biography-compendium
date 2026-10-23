@@ -1,8 +1,16 @@
 +++
 title = "Eden Jessie (McCulloch)"
 date = "2008-09-19"
-categories = ["e"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["e"]
 tags = ["eden", "jessie", "mcculloch"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2008/09/Eden-Jessie-later-McCulloch-c-1926.JPG)[https://twitter.com/StarBirmingham?lang=en](https://twitter.com/StarBirmingham?lang=en)

@@ -1,7 +1,15 @@
 +++
 title = "Guide to Communist Biographies"
 date = "2009-05-02"
-categories = ["commiepedia"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["commiepedia"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ### Guide to Communist Biographies

@@ -1,8 +1,16 @@
 +++
 title = "Bass Alfie"
 date = "2010-04-23"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["bass", "alfie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Alfie Bass

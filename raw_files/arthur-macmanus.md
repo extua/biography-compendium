@@ -1,8 +1,16 @@
 +++
 title = "McManus Arthur"
 date = "2008-09-19"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["arthur", "macmanus"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ### ![](https://grahamstevenson.me.uk/wp-content/uploads/2019/02/macmanus-arthur-1.jpg)

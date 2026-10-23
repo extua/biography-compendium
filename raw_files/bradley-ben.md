@@ -1,8 +1,16 @@
 +++
 title = "Bradley Ben"
 date = "2010-01-20"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["ben", "bradley"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Born in Walthamstowe in 1898 as Benjamin Francis Bradley, Bradley was an engineering worker who joined the Communist Party and became a key figure in the Metalworkers Minority Movement.

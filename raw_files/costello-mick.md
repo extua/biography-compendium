@@ -1,8 +1,16 @@
 +++
 title = "Costello Mick"
 date = "2009-10-12"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["mick", "costello"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Mick Costello’s father, Paddy, was a remarkable New Zealander of left-wing views, born in Auckland on 31 January 1912, who became a career diplomat. His mother, Bella Lerner, was born and brought up in the East End to a family with a Jewish Ukrainian background. They, and she, were very much part of the strong community support for the Communist Party in that part of London in the 1930s.

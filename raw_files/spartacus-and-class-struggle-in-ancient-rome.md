@@ -1,7 +1,15 @@
 +++
 title = "Spartacus and class struggle in ancient Rome"
 date = "2009-01-01"
-categories = ["articles-and-reviews", "history"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["articles-and-reviews", "history"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Spartacus & class struggle in ancient Rome     

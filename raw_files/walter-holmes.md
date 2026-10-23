@@ -1,8 +1,16 @@
 +++
 title = "Holmes Walter"
 date = "2009-02-13"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["walter", "holmes"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/holmes%20walter%20daily%20worker%20columnist.JPG)Walter Holmes

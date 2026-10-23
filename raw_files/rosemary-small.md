@@ -1,8 +1,16 @@
 +++
 title = "Small Rosemary"
 date = "2008-09-20"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["small", "rosemary"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![Small-Rosemary-.jpg - 106.54 kB](https://grahamstevenson.me.uk/wp-content/uploads/2008/09/Small-Rosemary-.jpg)

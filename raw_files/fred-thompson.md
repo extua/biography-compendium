@@ -1,7 +1,15 @@
 +++
 title = "Thompson, Fred"
 date = "2019-12-21"
-categories = ["t", "commiepedia"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t", "commiepedia"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Fred Thompson was born just that – Fred – and was known even to the media of his day as that. The only time he was erroneously called Frederick was when the constabulary charged him. He was from a large working-class family but an attempt to find his birth in the archives had not so far succeeded in disentangling the large number of namesakes. The introduction of elementary education up to the age of thirteen in 1870 was an important step but it was neither compulsory nor free from cost.  This had a knock-on effect on the accuracy of birth dates and there was still resistance from working people to \`busy bodies’ knowing their family affairs. As we shall see later, his origins are likely to relate to the water transport industry in the north-west of England.      

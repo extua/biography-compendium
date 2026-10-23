@@ -1,8 +1,16 @@
 +++
 title = "Garrett George"
 date = "2013-03-17"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["george", "garrett"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Garrett George

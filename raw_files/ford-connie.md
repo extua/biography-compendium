@@ -1,8 +1,16 @@
 +++
 title = "Ford Connie"
 date = "2013-10-02"
-categories = ["f"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["f"]
 tags = ["ford", "connie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Connie Ford

@@ -1,8 +1,16 @@
 +++
 title = "Diamond Dorothy"
 date = "2009-10-13"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["dorothy", "diamond"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dorothy Diamond was born on February 23rd 1909 in a village in Kent. Her father was a clerk and Dorothy attended the local grammar school. She spent four years at University of London and, from 1931, became a teacher of biology, chemistry and general science at Wembley County grammar school.

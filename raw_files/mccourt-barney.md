@@ -1,8 +1,16 @@
 +++
 title = "McCourt Barney"
 date = "2015-11-06"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["mccourt", "barney"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bernard "Barney" McCourt

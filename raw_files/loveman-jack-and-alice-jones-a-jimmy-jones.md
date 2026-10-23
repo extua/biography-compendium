@@ -1,8 +1,16 @@
 +++
 title = "Loveman Jack and Alice (Jones) & Jimmy Jones"
 date = "2013-01-07"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["jimmy", "jack", "jones", "loveman", "alice"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jack and Alice Ivy Loveman (Jones) and Jimmy Jones

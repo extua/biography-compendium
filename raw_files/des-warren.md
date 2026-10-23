@@ -1,8 +1,16 @@
 +++
 title = "Warren Des"
 date = "2008-09-20"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["warren", "des"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/Warren%20Des.JPG)Des Warren

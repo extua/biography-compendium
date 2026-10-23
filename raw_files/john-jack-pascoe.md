@@ -1,8 +1,16 @@
 +++
 title = "Pascoe John (Jack)"
 date = "2008-09-19"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["john", "jack", "pascoe"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 John (Jack) Pascoe

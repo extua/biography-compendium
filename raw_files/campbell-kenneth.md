@@ -1,8 +1,16 @@
 +++
 title = "Campbell Kenneth"
 date = "2010-03-04"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["kenneth", "campbell"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Kenneth John Campbell was born in Crofton Park, south London, on September 26th 1909. The son of a Lloyd's insurance man, he was educated at St Dunstan's school, Lewisham. He was then articled to his uncle’s architectural partnership, continuing to study for his RIBA finals at Regent Street Polytechnic. In 1933, he married Frances Almond, and joined the architect's department of the Miners' Welfare Commission. This role – at this juncture in history – clearly heavily impacted upon the young Ken Campbell. By 1938, he was responsible for the Miner’s Welfare West Midlands sector - and had joined the Communist Party.

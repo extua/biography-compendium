@@ -1,8 +1,16 @@
 +++
 title = "Graves Ken"
 date = "2012-03-11"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["graves", "ken"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ken Graves

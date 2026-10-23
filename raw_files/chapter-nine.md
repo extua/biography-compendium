@@ -1,8 +1,16 @@
 +++
 title = "Chapter Nine"
 date = "2017-12-09"
-categories = ["peoples-history-of-derbyshire-part-iii"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["peoples-history-of-derbyshire-part-iii"]
 tags = ["chapter"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 CHAPTER NINE: REFORM OR REVOLUTION? CLASS POLITICS 1918-25                                                                              

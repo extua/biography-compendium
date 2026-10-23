@@ -1,8 +1,16 @@
 +++
 title = "Clarke Willie Cllr"
 date = "2010-03-04"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["cllr", "clarke", "willie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Councillor Willie Clarke’s represented Ballingry and Lochore on Fife County Council for many decades. He first took up public office in 1973 as a Communist councillor with Fife County Council and went on to be elected as a councillor with Lochgelly District Council, Fife Regional Council and Fife Council.  He has served on a range of committees including roads and drainage, health and education.

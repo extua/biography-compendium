@@ -1,8 +1,16 @@
 +++
 title = "Cook Dave"
 date = "2010-01-31"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["dave", "cook"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dave Cook

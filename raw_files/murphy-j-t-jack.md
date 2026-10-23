@@ -1,8 +1,16 @@
 +++
 title = "Murphy J T (Jack)"
 date = "2010-01-03"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["jack", "murphy"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/murphy%20j%20t%203.jpg)Jack (J T) Murphy

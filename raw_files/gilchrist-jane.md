@@ -1,8 +1,16 @@
 +++
 title = "Gilchrist Jane"
 date = "2014-03-27"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["gilchrist", "jane"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jane Gilchrist

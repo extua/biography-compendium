@@ -1,8 +1,16 @@
 +++
 title = "McKenna Bernard"
 date = "2012-03-13"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["bernard", "mckenna"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bernard McKenna

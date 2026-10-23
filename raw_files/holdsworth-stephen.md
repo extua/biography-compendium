@@ -1,8 +1,16 @@
 +++
 title = "Holdsworth Stephen"
 date = "2012-06-24"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["holdsworth", "stephen"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Stephen Holdsworth

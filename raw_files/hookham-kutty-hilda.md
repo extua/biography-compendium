@@ -1,8 +1,16 @@
 +++
 title = "Hookham (Kutty) Hilda"
 date = "2015-12-11"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["hilda", "hookham", "kutty"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Hilda (Kutty) Hookham

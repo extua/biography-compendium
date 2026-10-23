@@ -1,8 +1,16 @@
 +++
 title = "Carr Bill & Cairns Sammy"
 date = "2008-09-19"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["sammy", "bill", "carr", "cairns"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  

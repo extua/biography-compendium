@@ -1,8 +1,16 @@
 +++
 title = "Boyle Philip"
 date = "2011-06-11"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["boyle", "philip"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Philip Boyle

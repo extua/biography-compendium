@@ -1,8 +1,16 @@
 +++
 title = "Tate Betty"
 date = "2010-04-17"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["betty", "tate"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Betty Tate

@@ -1,8 +1,16 @@
 +++
 title = "Geddes Alec & Effie Jones (nee Geddes)"
 date = "2011-12-10"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["geddes", "alec", "effie", "jones", "nee"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Alec and Effie Geddes (Jones)

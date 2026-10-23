@@ -1,8 +1,16 @@
 +++
 title = "Dingley Tom"
 date = "2012-03-12"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["tom", "dingley"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Tom Dingley

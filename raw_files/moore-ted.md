@@ -1,8 +1,16 @@
 +++
 title = "Moore Ted"
 date = "2010-09-23"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["ted", "moore"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ted Moore

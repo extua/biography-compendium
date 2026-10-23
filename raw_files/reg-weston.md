@@ -1,8 +1,16 @@
 +++
 title = "Weston Reg"
 date = "2009-07-19"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["reg", "weston"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Reg Weston

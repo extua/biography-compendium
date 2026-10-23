@@ -1,8 +1,16 @@
 +++
 title = "Booth Sid"
 date = "2010-01-20"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["sid", "booth"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Sid Booth first came into politics at the age of 16 years old, during the general strike, when he worked for the LMS Railways.

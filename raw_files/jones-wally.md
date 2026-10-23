@@ -1,8 +1,16 @@
 +++
 title = "Jones Wally"
 date = "2010-03-20"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["jones", "wally"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Wally Jones

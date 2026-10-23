@@ -1,8 +1,16 @@
 +++
 title = "Pitt Malcolm"
 date = "2010-12-04"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["malcolm", "pitt"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Malcolm Pitt

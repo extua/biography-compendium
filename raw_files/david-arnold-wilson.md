@@ -1,8 +1,16 @@
 +++
 title = "Wilson David Arnold"
 date = "2008-09-20"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["david", "arnold", "wilson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 David Arnold Wilson

@@ -1,8 +1,16 @@
 +++
 title = "Papworth Betty"
 date = "2010-01-04"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["betty", "papworth"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/papworth%20betty%20cut.jpg)Betty Papworth

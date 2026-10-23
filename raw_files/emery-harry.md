@@ -1,8 +1,16 @@
 +++
 title = "Emery Harry"
 date = "2012-06-29"
-categories = ["e"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["e"]
 tags = ["harry", "emery"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Harry Emery

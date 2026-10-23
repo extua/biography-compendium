@@ -1,8 +1,16 @@
 +++
 title = "McKay Tom"
 date = "2010-04-14"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["tom", "mckay"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Tom McKay  

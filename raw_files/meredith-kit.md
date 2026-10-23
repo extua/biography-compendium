@@ -1,8 +1,16 @@
 +++
 title = "Meredith Kit"
 date = "2014-04-18"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["meredith", "kit"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Kit Meredith

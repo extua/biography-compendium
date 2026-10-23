@@ -1,8 +1,16 @@
 +++
 title = "Hitchens Gilbert"
 date = "2012-03-21"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["hitchens", "gilbert"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Gilbert Hitchings

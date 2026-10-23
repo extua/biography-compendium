@@ -1,8 +1,16 @@
 +++
 title = "Howley Evelyn"
 date = "2011-04-02"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["evelyn", "howley"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Evelyn Howley

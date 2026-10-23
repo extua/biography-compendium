@@ -1,8 +1,16 @@
 +++
 title = "Gibbons Danny"
 date = "2011-08-25"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["danny", "gibbons"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  Danny Gibbons

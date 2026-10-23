@@ -1,7 +1,15 @@
 +++
 title = "Introduction"
 date = "2018-08-05"
-categories = ["defence-or-defiance"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["defence-or-defiance"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 “Defence or Defiance- a people’s history of Derbyshire” is at once a complete book of all things to do with the working class and progressive movement, in the whole of Derbyshire from the earliest times to 1970, as well as a snap-shot of the leading personalities and events in those times.

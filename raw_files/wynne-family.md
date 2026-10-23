@@ -1,8 +1,16 @@
 +++
 title = "Wynne family"
 date = "2012-06-21"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["family", "wynne"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 The Wynne family 

@@ -1,8 +1,16 @@
 +++
 title = "Jenkins Gordon"
 date = "2009-03-07"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["jenkins", "gordon"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Gordon Jenkins

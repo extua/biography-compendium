@@ -1,8 +1,16 @@
 +++
 title = "Oliver Daphne"
 date = "2010-04-15"
-categories = ["o"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["o"]
 tags = ["oliver", "daphne"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Daphne Oliver

@@ -1,8 +1,16 @@
 +++
 title = "Jackson Frank (b1910 Wales)"
 date = "2009-03-07"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["frank", "wales", "jackson", "b1910"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Frank Jackson (1910-2004, Wales)

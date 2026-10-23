@@ -1,8 +1,16 @@
 +++
 title = "McMichael Joan Dr"
 date = "2008-09-19"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["joan", "dr", "mcmichael"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dr Joan McMichael ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/mcmichael%20joan%20as%20carritt%204.jpg) 

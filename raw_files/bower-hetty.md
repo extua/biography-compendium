@@ -1,8 +1,16 @@
 +++
 title = "Bower Hetty"
 date = "2011-01-27"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["bower", "hetty"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2011/01/bower-hetty.gif)Hetty Bower

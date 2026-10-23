@@ -1,8 +1,16 @@
 +++
 title = "Baines Harry"
 date = "2010-01-16"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["harry", "baines"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Harry Baines

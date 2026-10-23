@@ -1,8 +1,16 @@
 +++
 title = "Broadbridge Stan"
 date = "2013-02-19"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["broadbridge", "stan"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  

@@ -1,8 +1,16 @@
 +++
 title = "Wild Bessie"
 date = "2011-10-02"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["bessie", "wild"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bessie Wild

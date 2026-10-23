@@ -1,8 +1,16 @@
 +++
 title = "Nickolai Lawrie"
 date = "2010-04-01"
-categories = ["n"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["n"]
 tags = ["lawrie", "nickolai"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/Lawrie%20Canada(1).jpg)Lawrie Nickolay 

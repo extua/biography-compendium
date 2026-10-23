@@ -1,8 +1,16 @@
 +++
 title = "Lamont Willie"
 date = "2010-09-23"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["willie", "lamont"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Willie (Bill) “Bunger” Lamont

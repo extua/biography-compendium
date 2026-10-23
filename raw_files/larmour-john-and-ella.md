@@ -1,8 +1,16 @@
 +++
 title = "Larmour John and Ella"
 date = "2009-12-22"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["john", "larmour", "ella"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/lamour%20john%20centre%20in%20spain.jpg)John and Ella Larmour

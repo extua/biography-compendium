@@ -1,8 +1,16 @@
 +++
 title = "Grandjean Duke"
 date = "2012-03-21"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["grandjean", "duke"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Duke Grandjean

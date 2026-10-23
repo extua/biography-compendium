@@ -1,8 +1,16 @@
 +++
 title = "Carter Trevor"
 date = "2011-08-25"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["carter", "trevor"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2011/08/carter-trevor-2.jpg) Trevor Carter

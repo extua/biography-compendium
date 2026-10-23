@@ -1,8 +1,16 @@
 +++
 title = "Edwards Bert"
 date = "2011-08-25"
-categories = ["e"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["e"]
 tags = ["edwards", "bert"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  Bert Edwards

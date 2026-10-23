@@ -1,8 +1,16 @@
 +++
 title = "A guide"
 date = "2018-01-01"
-categories = ["commiepedia"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["commiepedia"]
 tags = ["guide"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 There are many individual Communist Biographies in this section of this site, adding up to hundreds and hundreds of thousands of words! Work on newly researched biographies is on-going and suggestions, new information, additions, corrections, and queries from readers are always welcome. Reminiscences that readers have are particularly interesting. Use the contact me tab to get in touch.

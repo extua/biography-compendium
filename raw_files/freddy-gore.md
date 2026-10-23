@@ -1,8 +1,16 @@
 +++
 title = "Gore Freddy"
 date = "2009-02-04"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["gore", "freddy"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/gore%20freddy.jpg)Freddy Gore

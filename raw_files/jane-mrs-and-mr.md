@@ -1,8 +1,16 @@
 +++
 title = "Mrs and Mr Jane"
 date = "2010-04-18"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["jane"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Mrs Jane and Mr Jane

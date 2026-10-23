@@ -1,8 +1,16 @@
 +++
 title = "Jeffrey Nora"
 date = "2008-09-19"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["nora", "jeffrey"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/jeffery nora 1966.jpg)![](https://grahamstevenson.me.uk/wp-content/uploads/2008/09/jeffery-nora.jpg)Nora Jeffrey

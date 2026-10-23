@@ -1,8 +1,16 @@
 +++
 title = "Borman Barney"
 date = "2011-07-30"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["barney", "borman"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2011/07/Boorman-Barney-w-Krushchev-1950s-Moscow-K-was-just-walking-along-street.jpg)Barney Borman

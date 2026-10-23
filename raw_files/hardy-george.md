@@ -1,8 +1,16 @@
 +++
 title = "Hardy George"
 date = "2013-04-28"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["george", "hardy"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 A brief biography of George Hardy

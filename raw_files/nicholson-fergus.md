@@ -1,8 +1,16 @@
 +++
 title = "Nicholson Fergus"
 date = "2012-06-21"
-categories = ["n"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["n"]
 tags = ["nicholson", "fergus"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Fergus Nicholson

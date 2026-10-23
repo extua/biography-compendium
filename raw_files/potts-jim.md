@@ -1,8 +1,16 @@
 +++
 title = "Potts Jim"
 date = "2012-01-21"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["jim", "potts"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jim Potts

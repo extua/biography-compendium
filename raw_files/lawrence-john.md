@@ -1,8 +1,16 @@
 +++
 title = "Lawrence John"
 date = "2010-12-06"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["john", "lawrence"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 John Lawrence

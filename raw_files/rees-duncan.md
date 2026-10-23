@@ -1,8 +1,16 @@
 +++
 title = "Rees Duncan"
 date = "2012-04-14"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["duncan", "rees"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Duncan Rees

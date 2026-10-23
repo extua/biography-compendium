@@ -1,8 +1,16 @@
 +++
 title = "Gallacher Willie"
 date = "2008-09-19"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["willie", "gallacher"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Willie Gallacher![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/gallacher%20willie%20in%201945.jpg)

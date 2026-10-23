@@ -1,8 +1,16 @@
 +++
 title = "Dickman Terry"
 date = "2008-11-29"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["terry", "dickman"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Terry Dickman  

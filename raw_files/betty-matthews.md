@@ -1,8 +1,16 @@
 +++
 title = "Matthews Betty"
 date = "2008-09-19"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["betty", "matthews"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/matthews%20betty%20in%20mock%20peasant%20costume%20during%20a%201980s%20poll%20tax%20demo.jpg)Betty Matthews

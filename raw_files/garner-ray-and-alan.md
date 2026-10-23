@@ -1,8 +1,16 @@
 +++
 title = "Garner Ray and Alan"
 date = "2011-12-12"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["garner", "ray", "alan"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  Ray and Alan Garner

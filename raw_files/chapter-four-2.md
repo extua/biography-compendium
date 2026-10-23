@@ -1,8 +1,16 @@
 +++
 title = "Chapter Four"
 date = "2018-01-01"
-categories = ["peoples-history-of-derbyshire-part-i"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["peoples-history-of-derbyshire-part-i"]
 tags = ["chapter"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2018/01/throwing-or-spinning-by-hand-300x91.jpg)

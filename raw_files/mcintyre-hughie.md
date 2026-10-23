@@ -1,8 +1,16 @@
 +++
 title = "McIntyre Hughie"
 date = "2010-09-23"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["mcintyre", "hughie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Hughie McIntyre

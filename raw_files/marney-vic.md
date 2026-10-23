@@ -1,8 +1,16 @@
 +++
 title = "Marney Vic"
 date = "2010-04-14"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["vic", "marney"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Vic Marney

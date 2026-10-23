@@ -1,7 +1,15 @@
 +++
 title = "Appendices"
 date = "2017-12-21"
-categories = ["peoples-history-of-derbyshire-part-iv"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["peoples-history-of-derbyshire-part-iv"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 APPENDICES

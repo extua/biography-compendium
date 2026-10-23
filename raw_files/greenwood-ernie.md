@@ -1,8 +1,16 @@
 +++
 title = "Greenwood Ernie"
 date = "2009-10-15"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["ernie", "greenwood"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 The abiding memory of Ernie Greenwood, who died aged 82, is that his anecdotes concerning people or incidents invariably ended with an astute aside accompanied by a deep chuckle, his huge frame gently shaking.   This was so with the most dramatic event in his working life when, while taking pictures during the Wapping print dispute, he was run down and dragged under a policeman's horse. He ended up pleading only a slight - but in fact very painful - injury, claiming that while in the army he had worked with horses in Italy and so could avoid more serious injury by knowing what the horse would do next with its hooves.

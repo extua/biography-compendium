@@ -1,8 +1,16 @@
 +++
 title = "Fraser Harry"
 date = "2010-04-02"
-categories = ["f"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["f"]
 tags = ["harry", "fraser"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 [](https://picasaweb.google.com/lh/photo/Z9GH3C-wvIO_0EhUdRL0vqMR4-4keDfr8DJMqSHXq2I?feat=embedwebsite)

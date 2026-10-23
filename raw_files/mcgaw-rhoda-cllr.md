@@ -1,8 +1,16 @@
 +++
 title = "McGaw Rhoda Cllr"
 date = "2010-05-30"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["cllr", "rhoda", "mcgaw"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Rhoda McGaw

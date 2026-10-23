@@ -1,8 +1,16 @@
 +++
 title = "Brooks Alan"
 date = "2010-01-12"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["alan", "brooks"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Alan Brooks

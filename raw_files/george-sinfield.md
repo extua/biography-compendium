@@ -1,8 +1,16 @@
 +++
 title = "Sinfield George"
 date = "2009-08-02"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["george", "sinfield"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/sinfield%20g%20on%20return%20fr%20ussr%203.jpg)George Sinfield

@@ -1,8 +1,16 @@
 +++
 title = "Frow Eddie"
 date = "2008-09-19"
-categories = ["f"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["f"]
 tags = ["eddie", "frow"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Eddie Frow

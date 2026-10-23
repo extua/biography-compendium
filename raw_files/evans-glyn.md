@@ -1,8 +1,16 @@
 +++
 title = "Evans Glyn"
 date = "2010-09-23"
-categories = ["e"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["e"]
 tags = ["evans", "glyn"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Glyn Evans

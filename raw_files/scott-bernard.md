@@ -1,8 +1,16 @@
 +++
 title = "Scott Bernard"
 date = "2017-09-10"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["bernard", "scott"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bernard Scott

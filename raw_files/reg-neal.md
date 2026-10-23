@@ -1,8 +1,16 @@
 +++
 title = "Neal Reg"
 date = "2008-09-19"
-categories = ["n"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["n"]
 tags = ["neal", "reg"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Reg Neal

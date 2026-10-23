@@ -1,8 +1,16 @@
 +++
 title = "Gadsby Jack"
 date = "2008-09-19"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["jack", "gadsby"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/gadsby%20jack%20in%201952.jpg)Jack Gadsby                      

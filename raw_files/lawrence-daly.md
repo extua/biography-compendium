@@ -1,8 +1,16 @@
 +++
 title = "Daly Laurence"
 date = "2008-09-19"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["laurence", "daly"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/daly%20lawrence_daly_1413709c.jpg)Laurence Daly

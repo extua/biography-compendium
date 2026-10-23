@@ -1,8 +1,16 @@
 +++
 title = "Dixon Bob"
 date = "2010-01-31"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["bob", "dixon"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bob Dixon was born on 29th November 1931 in Spennymoor, Co. Durham, then a mining village. He was brought up by his grandmother, only to discover when he was a 14-year old grammar school boy that Hilda, the woman he has though to be an older sister was in fact his mother – he had been an illegitimate baby. The experience would later be reflected in the poetry for which he is mostly remembered.

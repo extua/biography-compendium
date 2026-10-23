@@ -1,8 +1,16 @@
 +++
 title = "Clarke William Lawrie"
 date = "2014-07-19"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["clarke", "william", "lawrie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 William Lawrie Clarke

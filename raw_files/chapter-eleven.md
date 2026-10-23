@@ -1,8 +1,16 @@
 +++
 title = "Chapter Eleven"
 date = "2017-12-18"
-categories = ["peoples-history-of-derbyshire-part-iii"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["peoples-history-of-derbyshire-part-iii"]
 tags = ["chapter", "eleven"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 CHAPTER 11 1927-1939

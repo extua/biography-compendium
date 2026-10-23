@@ -1,8 +1,16 @@
 +++
 title = "Witham Margaret"
 date = "2008-09-20"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["margaret", "witham"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Margaret Witham

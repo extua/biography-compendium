@@ -1,8 +1,16 @@
 +++
 title = "Henderson Arnold"
 date = "2010-09-23"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["henderson", "arnold"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Arnold Henderson

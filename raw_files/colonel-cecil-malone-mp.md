@@ -1,8 +1,16 @@
 +++
 title = "Malone Cecil (Lt. Col) MP"
 date = "2008-09-19"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["cecil", "malone", "lt", "col", "mp"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/Malone-book%201920.jpg)Colonel Cecil Malone MP

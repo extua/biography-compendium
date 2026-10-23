@@ -1,8 +1,16 @@
 +++
 title = "Deegan Frank"
 date = "2009-01-12"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["frank", "deegan"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Frank Deegan

@@ -1,8 +1,16 @@
 +++
 title = "Allen William (Rev)"
 date = "2008-12-13"
-categories = ["a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["william", "allen", "rev"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Reverend William Allen

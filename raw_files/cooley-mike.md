@@ -1,8 +1,16 @@
 +++
 title = "Cooley Mike"
 date = "2010-09-23"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["cooley", "mike"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Mike Cooley _(pictured in 1961)_ was born in Ireland and became a well-studied professional engineer.

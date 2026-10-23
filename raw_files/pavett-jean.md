@@ -1,8 +1,16 @@
 +++
 title = "Pavett Jean"
 date = "2016-12-31"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["pavett", "jean"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jean Pavett

@@ -1,8 +1,16 @@
 +++
 title = "Edwards Jack"
 date = "2010-01-20"
-categories = ["e"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["e"]
 tags = ["jack", "edwards"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/edwards%20jack%202.jpg)Jack Edwards

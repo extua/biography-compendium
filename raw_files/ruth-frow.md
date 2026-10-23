@@ -1,8 +1,16 @@
 +++
 title = "Frow Ruth"
 date = "2008-09-19"
-categories = ["f"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["f"]
 tags = ["ruth", "frow"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/frow%20ruth.jpg)Ruth Frow

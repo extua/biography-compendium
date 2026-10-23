@@ -1,8 +1,16 @@
 +++
 title = "Rickman Irene"
 date = "2016-06-03"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["irene", "rickman"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Irene Rickman

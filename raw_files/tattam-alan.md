@@ -1,8 +1,16 @@
 +++
 title = "Tattam Alan"
 date = "2011-06-11"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["alan", "tattam"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Alan Tattam

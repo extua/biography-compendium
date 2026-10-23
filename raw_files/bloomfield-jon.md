@@ -1,8 +1,16 @@
 +++
 title = "Bloomfield Jon"
 date = "2010-05-19"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["bloomfield", "jon"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  

@@ -1,8 +1,16 @@
 +++
 title = "Gee Bill"
 date = "2010-02-22"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["bill", "gee"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
   

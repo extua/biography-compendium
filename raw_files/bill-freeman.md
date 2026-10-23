@@ -1,8 +1,16 @@
 +++
 title = "Freeman Bill"
 date = "2008-11-29"
-categories = ["f"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["f"]
 tags = ["bill", "freeman"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bill Freeman was from a Communist family and a noted leader of print workers in the 1970s and 80s. His father, also Bill Freeman (1911-1986), was a veteran Communist and member of NATSOPA and SOGAT London Machine Branch.

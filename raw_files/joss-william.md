@@ -1,8 +1,16 @@
 +++
 title = "Joss William"
 date = "2010-06-23"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["william", "joss"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 William Joss

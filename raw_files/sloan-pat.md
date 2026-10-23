@@ -1,8 +1,16 @@
 +++
 title = "Sloan Pat"
 date = "2013-08-23"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["pat", "sloan"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Pat Sloan 

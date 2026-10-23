@@ -1,8 +1,16 @@
 +++
 title = "Cohen Monty"
 date = "2008-09-19"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["cohen", "monty"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  ![](https://grahamstevenson.me.uk/wp-content/uploads/2008/09/cohen-monty.jpg)

@@ -1,8 +1,16 @@
 +++
 title = "Dutt Salme"
 date = "2009-01-17"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["dutt", "salme"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Salme Dutt

@@ -1,8 +1,16 @@
 +++
 title = "Ellis Les"
 date = "2008-09-19"
-categories = ["e"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["e"]
 tags = ["ellis", "les"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Les Ellis

@@ -1,8 +1,16 @@
 +++
 title = "Garber Joe"
 date = "2010-12-26"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["joe", "garber"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 <table style="width: auto"><tbody><tr><td><a href="https://picasaweb.google.com/lh/photo/9B66mPcs5TL5vTFZo3hJU6MR4-4keDfr8DJMqSHXq2I?feat=embedwebsite"><input alt="" src="https://lh6.googleusercontent.com/_N652tlEVoqM/TWE-_fKz_PI/AAAAAAAAAm0/odAbRqrW438/s144/garber joe.jpg" style="float: left; margin: 10px; width: 111px; height: 144px" type="image"></a></td></tr><tr><td style="font-size: 11px; font-family: arial,sans-serif; text-align: right">Joe Garber&nbsp;</td></tr></tbody></table>

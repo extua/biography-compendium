@@ -1,8 +1,16 @@
 +++
 title = "Fineberg Joe"
 date = "2010-06-20"
-categories = ["f"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["f"]
 tags = ["joe", "fineberg"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Joe Fineberg

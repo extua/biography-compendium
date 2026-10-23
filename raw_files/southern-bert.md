@@ -1,8 +1,16 @@
 +++
 title = "Southern Bert"
 date = "2010-01-12"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["bert", "southern"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bert Southern

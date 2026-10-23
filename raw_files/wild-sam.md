@@ -1,8 +1,16 @@
 +++
 title = "Wild Sam"
 date = "2011-10-02"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["sam", "wild"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2011/10/wild-sam-centre.jpg)Sam Wild

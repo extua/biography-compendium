@@ -1,8 +1,16 @@
 +++
 title = "Klingender Francis"
 date = "2015-04-24"
-categories = ["k"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["k"]
 tags = ["francis", "klingender"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Francis Klingender

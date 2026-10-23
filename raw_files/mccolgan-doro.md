@@ -1,8 +1,16 @@
 +++
 title = "McColgan Doro"
 date = "2013-03-26"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["mccolgan", "doro"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dorothea McColgan (also known as Lerner and Flatto)

@@ -1,8 +1,16 @@
 +++
 title = "Inkpin Julia"
 date = "2009-02-21"
-categories = ["i"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["i"]
 tags = ["inkpin", "julia"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Julia Inkpin  

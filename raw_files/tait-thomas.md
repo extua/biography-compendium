@@ -1,8 +1,16 @@
 +++
 title = "Tait Thomas"
 date = "2012-04-06"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["thomas", "tait"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Thomas Tait 

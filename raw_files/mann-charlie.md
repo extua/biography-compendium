@@ -1,8 +1,16 @@
 +++
 title = "Mann Charlie"
 date = "2013-03-16"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["mann", "charlie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Charlie Mann

@@ -1,8 +1,16 @@
 +++
 title = "Cave Cissie"
 date = "2011-10-01"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["cave", "cissie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Cissie Cave

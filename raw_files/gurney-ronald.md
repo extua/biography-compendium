@@ -1,7 +1,15 @@
 +++
 title = "Gurney, Ronald"
 date = "2019-05-24"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ronald Gurney

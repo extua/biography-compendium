@@ -1,8 +1,16 @@
 +++
 title = "Piccirelli Carlo"
 date = "2010-01-05"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["piccirelli", "carlo"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Carlo Piccirelli

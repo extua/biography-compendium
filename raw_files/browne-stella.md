@@ -1,8 +1,16 @@
 +++
 title = "Browne Stella"
 date = "2011-04-02"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["stella", "browne"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  [![](https://lh6.googleusercontent.com/-2Js7AzCBpOE/Tgdib4w7xkI/AAAAAAAAA7s/b2z8FNYU6xE/s144/browne%2520stella%25203.jpg)](https://picasaweb.google.com/lh/photo/f8azBXj7K08ptbrBjdxqKkoRKQX2HLZN7LAGYFtvc9A?feat=embedwebsite)

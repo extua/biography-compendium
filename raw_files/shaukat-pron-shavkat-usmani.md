@@ -1,8 +1,16 @@
 +++
 title = "Usmani Shaukat"
 date = "2008-09-20"
-categories = ["u"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["u"]
 tags = ["usmani", "shaukat"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 _![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/usmani-shaukat-intro-vote[1].JPG)Shaukat Usmani_

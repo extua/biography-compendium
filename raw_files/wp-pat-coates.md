@@ -1,8 +1,16 @@
 +++
 title = "Coates WP (Pat)"
 date = "2008-09-19"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["pat", "coates", "wp"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 WP (Pat) Coates

@@ -1,8 +1,16 @@
 +++
 title = "Rose Margaret"
 date = "2014-04-18"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["rose", "margaret"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Margaret Rose

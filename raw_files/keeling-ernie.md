@@ -1,8 +1,16 @@
 +++
 title = "Keeling Ernie"
 date = "2017-10-10"
-categories = ["k"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["k"]
 tags = ["ernie", "keeling"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ernie Keeling

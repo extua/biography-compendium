@@ -1,8 +1,16 @@
 +++
 title = "Gersham J(ohn)"
 date = "2009-10-15"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["john", "gersham"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 J(ohn) Gersham

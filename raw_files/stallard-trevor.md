@@ -1,8 +1,16 @@
 +++
 title = "Stallard Trevor"
 date = "2010-02-13"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["trevor", "stallard"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Trevor Stallard

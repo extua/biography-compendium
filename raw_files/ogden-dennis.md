@@ -1,8 +1,16 @@
 +++
 title = "Ogden Dennis"
 date = "2011-12-27"
-categories = ["o"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["o"]
 tags = ["dennis", "ogden"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dennis Ogden 

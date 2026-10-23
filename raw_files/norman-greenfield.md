@@ -1,8 +1,16 @@
 +++
 title = "Greenfield Norman"
 date = "2008-09-19"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["norman", "greenfield"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/greenfield%20norman%20as%20fireman%201946.jpg)Norman Greenfield

@@ -1,8 +1,16 @@
 +++
 title = "Wright, Jim"
 date = "2019-02-15"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["jim", "wright"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2019/02/wright-jim-1-e1550242882536.jpeg)

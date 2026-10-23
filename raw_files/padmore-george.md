@@ -1,8 +1,16 @@
 +++
 title = "Padmore George"
 date = "2011-10-09"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["george", "padmore"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 George Padmore 

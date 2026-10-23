@@ -1,8 +1,16 @@
 +++
 title = "Lewis D H"
 date = "2010-09-23"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["lewis"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 D H Lewis 

@@ -1,8 +1,16 @@
 +++
 title = "Jones David Ivon"
 date = "2011-10-11"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["jones", "david", "ivon"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 David Ivon Jones

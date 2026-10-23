@@ -1,8 +1,16 @@
 +++
 title = "Rees Harry"
 date = "2010-02-19"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["harry", "rees"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Harry Rees

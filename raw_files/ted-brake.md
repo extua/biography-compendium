@@ -1,8 +1,16 @@
 +++
 title = "Brake Ted"
 date = "2008-12-13"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["ted", "brake"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Born Edward Ernest Brake on May 15th 913, near Malvern, he left school at 14 to become an apprentice at a local garage. He joined the National Union of Coppersmiths, Braziers and Sheet Metal Workers and on becoming a skilled worker was employed at the Morgan sports car company.

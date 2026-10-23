@@ -1,8 +1,16 @@
 +++
 title = "Rosser-Hicks Mary"
 date = "2010-12-01"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["mary", "rosserhicks"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Mary Rosser-Hicks

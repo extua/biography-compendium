@@ -1,8 +1,16 @@
 +++
 title = "Fuhr Joe"
 date = "2010-04-02"
-categories = ["f"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["f"]
 tags = ["joe", "fuhr"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Joe Fuhr

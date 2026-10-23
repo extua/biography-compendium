@@ -1,8 +1,16 @@
 +++
 title = "Rosen Tubby"
 date = "2010-01-06"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["rosen", "tubby"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 “Tubby” (Maurice Israel) Rosen

@@ -1,8 +1,16 @@
 +++
 title = "O'Hare Dan Cllr (and the Vale of Leven)"
 date = "2010-09-23"
-categories = ["o"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["o"]
 tags = ["cllr", "ohare", "dan", "vale", "leven"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dan O’Hare

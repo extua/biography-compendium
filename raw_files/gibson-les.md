@@ -1,8 +1,16 @@
 +++
 title = "Gibson Les"
 date = "2010-04-02"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["gibson", "les"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Les Gibson

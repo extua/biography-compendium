@@ -1,8 +1,16 @@
 +++
 title = "Chapter Thirteen"
 date = "2017-12-14"
-categories = ["peoples-history-of-derbyshire-part-iv"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["peoples-history-of-derbyshire-part-iv"]
 tags = ["chapter", "thirteen"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 CHAPTER 13
@@ -57,7 +65,13 @@ xiii)        USDAW
 
 11        Chapter 13 References
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
++++
 
 1 The overall political and economic situation
 

@@ -1,8 +1,16 @@
 +++
 title = "Krasner Ray (Rachel)"
 date = "2010-04-17"
-categories = ["k"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["k"]
 tags = ["ray", "krasner", "rachel"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ray (Rachel) Krasner (Westland-Krasner)

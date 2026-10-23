@@ -1,8 +1,16 @@
 +++
 title = "Young Harry"
 date = "2009-06-07"
-categories = ["y"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["y"]
 tags = ["harry", "young"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Harry Young

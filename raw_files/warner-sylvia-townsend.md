@@ -1,8 +1,16 @@
 +++
 title = "Warner Sylvia Townsend"
 date = "2012-03-21"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["sylvia", "warner", "townsend"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Sylvia Townsend Warner

@@ -1,8 +1,16 @@
 +++
 title = "Gibbon Lewis Grassic (Leslie Mitchell)"
 date = "2008-09-19"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["leslie", "gibbon", "lewis", "grassic", "mitchell"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Le![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/gibbon%20grassic%20L.jpg)wis Grassic Gibbon (Leslie Mitchell)

@@ -1,8 +1,16 @@
 +++
 title = "Chivers Len"
 date = "2010-11-15"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["len", "chivers"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Len Chivers

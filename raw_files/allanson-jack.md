@@ -1,8 +1,16 @@
 +++
 title = "Allanson Jack"
 date = "2010-12-01"
-categories = ["a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["jack", "allanson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jack Allanson

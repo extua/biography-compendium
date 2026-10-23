@@ -1,7 +1,15 @@
 +++
 title = "Westwood, Jim Councillor"
 date = "2019-12-31"
-categories = ["w", "commiepedia"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w", "commiepedia"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
   

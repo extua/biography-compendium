@@ -1,7 +1,15 @@
 +++
 title = "Migrants & the TGWU"
 date = "2020-04-10"
-categories = ["books-and-pamphlets", "trade-union-history"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["books-and-pamphlets", "trade-union-history"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 This feature on migrant labour and the TGWU in the 1960s and 1970s is a work in progress, with ongoing research into relations in West Midlands foundries in the 1960s, the ban on bus workers wearing turbans in the late 60s to early 70s and the regional union inquiry into events in Leicester in 1974 all the subject of likely future revisions.  

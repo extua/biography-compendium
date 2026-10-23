@@ -1,8 +1,16 @@
 +++
 title = "Kitson Dave"
 date = "2011-01-28"
-categories = ["k"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["k"]
 tags = ["dave", "kitson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 David Kitson

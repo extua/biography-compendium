@@ -1,8 +1,16 @@
 +++
 title = "Jordan Maggie"
 date = "2008-09-19"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["jordan", "maggie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2008/09/Jordan-Maggie-1920s-soviet-banner-given-to-her.jpg) 

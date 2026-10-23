@@ -1,8 +1,16 @@
 +++
 title = "Siret Charlie"
 date = "2013-03-16"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["charlie", "siret"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Charlie Siret

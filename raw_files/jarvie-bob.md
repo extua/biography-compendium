@@ -1,8 +1,16 @@
 +++
 title = "Jarvie Bob"
 date = "2013-03-16"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["bob", "jarvie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bob Jarvie 

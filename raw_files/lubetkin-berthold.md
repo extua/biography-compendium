@@ -1,8 +1,16 @@
 +++
 title = "Lubetkin Berthold"
 date = "2011-12-27"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["lubetkin", "berthold"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  Berthold Lubetkin

@@ -1,8 +1,16 @@
 +++
 title = "Atkinson Eric"
 date = "2012-03-18"
-categories = ["a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["eric", "atkinson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2019/07/atkinson-eric-late-1-300x274.jpg)Eric Atkinson:

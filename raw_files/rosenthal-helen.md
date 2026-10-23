@@ -1,8 +1,16 @@
 +++
 title = "Rosenthal Helen"
 date = "2013-04-28"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["rosenthal", "helen"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Helen Rosenthal

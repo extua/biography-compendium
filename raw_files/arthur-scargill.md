@@ -1,8 +1,16 @@
 +++
 title = "Scargill Arthur"
 date = "2008-09-20"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["arthur", "scargill"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/Scargill%20Arthur%20election%20address%201960%20resized.jpg)Arthur Scargill

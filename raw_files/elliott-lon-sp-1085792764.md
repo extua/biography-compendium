@@ -1,8 +1,16 @@
 +++
 title = "Elliott Lon"
 date = "2014-04-18"
-categories = ["e"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["e"]
 tags = ["elliott", "lon"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Lon Elliott

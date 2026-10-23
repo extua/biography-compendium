@@ -1,6 +1,12 @@
 +++
 title = "Miscellany"
 date = "2018-01-01"
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Movement matters is a wide ranging collection of articles, epubs, speeches and snippets:

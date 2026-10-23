@@ -1,8 +1,16 @@
 +++
 title = "Robinson Ron"
 date = "2010-01-26"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["ron", "robinson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ron Robinson

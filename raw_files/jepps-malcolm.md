@@ -1,8 +1,16 @@
 +++
 title = "Jepps Malcolm"
 date = "2012-06-24"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["jepps", "malcolm"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Malcolm Jepps

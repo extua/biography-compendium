@@ -1,8 +1,16 @@
 +++
 title = "Gower Eric"
 date = "2013-04-28"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["eric", "gower"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 A brief biography of Eric Gower

@@ -1,8 +1,16 @@
 +++
 title = "Johnston Archie"
 date = "2010-12-01"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["johnston", "archie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Archie Johnston 

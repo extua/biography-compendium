@@ -1,8 +1,16 @@
 +++
 title = "Rosenberg Jack & Harry"
 date = "2012-08-08"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["jack", "harry", "rosenberg"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jack and Harry Rosenberg

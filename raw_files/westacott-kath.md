@@ -1,8 +1,16 @@
 +++
 title = "Westacott Kath"
 date = "2011-08-28"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["kath", "westacott"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Kath Westacott

@@ -1,8 +1,16 @@
 +++
 title = "Goodwin Harold"
 date = "2010-02-13"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["goodwin", "harold"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Harold Goodwin

@@ -1,8 +1,16 @@
 +++
 title = "Ball Billy"
 date = "2012-01-28"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["billy", "ball"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 William Ball was born in Reading in 1915. His father, Henry Ball, ran a chemist shop in Oxford Road and lived in Clifton Park Road, Caversham. The young Billy went to Reading School where he had been in the Officer Training Corps, an approach that provided boys with basic military training and familiarity with weapons. Bill became a corporal and was also a member of the School's rifle shooting team.

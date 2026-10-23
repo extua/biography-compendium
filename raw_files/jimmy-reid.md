@@ -1,8 +1,16 @@
 +++
 title = "Reid Jimmy"
 date = "2008-09-20"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["jimmy", "reid"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jimmy Reid

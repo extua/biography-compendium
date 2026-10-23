@@ -1,8 +1,16 @@
 +++
 title = "Hunt Eric"
 date = "2010-09-26"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["eric", "hunt"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Eric Hunt

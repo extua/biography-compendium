@@ -1,8 +1,16 @@
 +++
 title = "Cowley Joe"
 date = "2010-02-22"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["joe", "cowley"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Joe Cowley

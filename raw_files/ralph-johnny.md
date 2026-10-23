@@ -1,8 +1,16 @@
 +++
 title = "Ralph Johnny"
 date = "2010-06-23"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["johnny", "ralph"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Johnny Ralph

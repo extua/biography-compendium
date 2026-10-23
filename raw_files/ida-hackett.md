@@ -1,8 +1,16 @@
 +++
 title = "Hackett Ida"
 date = "2008-09-19"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["ida", "hackett"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ida Hackett![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/Hackett Ida(1).jpg)

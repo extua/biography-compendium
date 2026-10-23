@@ -1,8 +1,16 @@
 +++
 title = "Chinque Samuel"
 date = "2009-10-12"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["chinque", "samuel"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Samuel Chinque

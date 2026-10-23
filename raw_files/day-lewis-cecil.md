@@ -1,8 +1,16 @@
 +++
 title = "Day-Lewis Cecil"
 date = "2012-03-23"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["daylewis", "cecil"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Day-Lewis was born on 27th April 1904 in Ballintubbert, Stradbally, in southern Ireland, the son of a member of the clergy. After the death of his mother in 1906, he was brought up in London by his father.

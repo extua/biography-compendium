@@ -1,7 +1,15 @@
 +++
 title = "Collected short book reviews"
 date = "2009-03-20"
-categories = ["articles-and-reviews", "books-and-other-thungs"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["articles-and-reviews", "books-and-other-thungs"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Collected Short Book Reviews:

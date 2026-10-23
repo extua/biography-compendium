@@ -1,8 +1,16 @@
 +++
 title = "Mason Johnnie"
 date = "2010-05-30"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["johnnie", "mason"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  

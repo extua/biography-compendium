@@ -1,8 +1,16 @@
 +++
 title = "Gilbert Esther"
 date = "2008-11-29"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["gilbert", "esther"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Esther Gilbert

@@ -1,8 +1,16 @@
 +++
 title = "Garson Sol"
 date = "2009-02-03"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["sol", "garson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/garson%20sol.JPG)Sol Garson

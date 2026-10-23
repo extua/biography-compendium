@@ -1,8 +1,16 @@
 +++
 title = "Dutt Clemens Palme"
 date = "2008-09-19"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["dutt", "palme", "clemens"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/dutt%20clemens%20ONE%20young%20c1921.JPG)Clemens Palme Dutt

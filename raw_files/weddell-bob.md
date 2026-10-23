@@ -1,8 +1,16 @@
 +++
 title = "Weddell Bob"
 date = "2011-12-27"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["bob", "weddell"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  Bob Weddell

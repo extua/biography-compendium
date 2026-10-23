@@ -1,8 +1,16 @@
 +++
 title = "Hughes John"
 date = "2010-03-06"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["john", "hughes"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 John Hughes

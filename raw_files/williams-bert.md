@@ -1,8 +1,16 @@
 +++
 title = "Williams Bert"
 date = "2013-09-29"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["bert", "williams"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2020/01/1F1D6838-CD1C-4C6F-A5C0-689A56CC5C2C-196x300.jpeg)Bert Williams

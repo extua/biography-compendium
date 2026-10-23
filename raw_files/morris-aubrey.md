@@ -1,8 +1,16 @@
 +++
 title = "Morris Aubrey"
 date = "2011-09-16"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["aubrey", "morris"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Aubrey Morris

@@ -1,8 +1,16 @@
 +++
 title = "Morgan Marguerite (Green)"
 date = "2008-09-19"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["green", "morgan", "marguerite"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/morgan%20marguerite%202.JPG)Marguerite Morgan

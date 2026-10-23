@@ -1,8 +1,16 @@
 +++
 title = "Barzey Jimmy"
 date = "2013-10-18"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["barzey", "jimmy"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jimmy Barzey

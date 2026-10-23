@@ -1,8 +1,16 @@
 +++
 title = "Cant Ernie"
 date = "2008-09-19"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["ernie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Born Ernest Walter Cant in 1890 in Stoke Newington, Ernie Cant became a commercial chemist after leaving elementary school. He was, in his youth, a fine athlete, and an especially renowned cross country runner.

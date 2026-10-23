@@ -1,8 +1,16 @@
 +++
 title = "Silverthorne Shon"
 date = "2011-10-08"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["silverthorne", "shon"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Shon (R J) Silverthorne

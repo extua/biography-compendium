@@ -1,8 +1,16 @@
 +++
 title = "Hutton (Mennell) Bill"
 date = "2009-02-19"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["bill", "hutton", "mennell"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bill HuttonWilliam Hutton was better known as Bill Mennell or William Mennell and he was the Daily Worker's economic affairs correspondent for over twenty years. Bill Hutton was born in Tadcaster in Yorkshire around 1909 and lived at 6 Wesley Terrace, Tadcaster. His father worked at the local John Smith Brewery. During the Second World War, Hutton had initially been a conscious objector and was able to work in the education service of the forces. He moved to London living in Balham, Morden and later Acton in West Middlesex where they lived in St Dunstan's  Avenue with his wife, Joyce, also a Communist Party member, a teacher originally from Durham. While living in London he worked as an accountant at Dr Bernardo's, but later worked the prestigious Vanderbilt Stock Brokers. It would seem that while it was known as a Communist, his economic expertise was sufficiently valuable to make his employment worthwhile, as long as he was not public about his Party membership. This did not prevent him from being Secretary of the Communist Party Economics Sub-Committee for ten years as well as writing numerous articles for the Daily Worker.In April 1950, Hutton uncovered a plan by the Bank of England to sell its stake to the US in a strategically important Tanzanian Copper mines, leading to spectre of large numbers of the Daily Worker being sold in Throgmorton Street in the City of London. He would also seem to have been advising some Eastern European governments on economics. His daughter was even instructed never to speak about who visited the house or what they discussed. It is likely that this is also the same Bill Hutton who also having served in the Second World War, in February 1952, applied for sanction to be accepted as a conscientious objector, when called up to serve in Malaya. His reasons were set out in the relevant form, a copy of which can be seen here.

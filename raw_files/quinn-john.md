@@ -1,8 +1,16 @@
 +++
 title = "Quinn John"
 date = "2012-06-21"
-categories = ["q"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["q"]
 tags = ["john", "quinn"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 John Quinn

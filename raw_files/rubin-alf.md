@@ -1,8 +1,16 @@
 +++
 title = "Rubin Alf"
 date = "2017-11-19"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["alf", "rubin"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Alf Rubin

@@ -1,8 +1,16 @@
 +++
 title = "Morely Iris"
 date = "2012-01-21"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["morely", "iris"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Iris Morley (Jacob)

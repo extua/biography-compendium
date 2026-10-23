@@ -1,8 +1,16 @@
 +++
 title = "Blackburn Jack"
 date = "2010-01-12"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["jack", "blackburn"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jack Blackburn

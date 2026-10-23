@@ -1,8 +1,16 @@
 +++
 title = "Young Stan"
 date = "2010-12-04"
-categories = ["y"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["y"]
 tags = ["stan", "young"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Stan Young

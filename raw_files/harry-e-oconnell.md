@@ -1,7 +1,15 @@
 +++
 title = "O’Connell, Harry"
 date = "2019-12-21"
-categories = ["o", "commiepedia"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["o", "commiepedia"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Harry E O’Connell 

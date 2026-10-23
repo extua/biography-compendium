@@ -1,8 +1,16 @@
 +++
 title = "Bates Ralph"
 date = "2010-01-11"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["bates", "ralph"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ralph Bates was born on November 3rd 1899 in Swindon. In his youth, he worked at a Great Western Railway factory but in 1917, he was in the British army, training soldiers to become used to poison gas attacks. After the war, he travelled widely, in 1923 visiting Spain, which he had developed a romanticised desire to visit since he had learnt in boyhood that his great-grandfather, a naval captain, was buried there.

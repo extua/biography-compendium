@@ -1,8 +1,16 @@
 +++
 title = "Hastings Jack"
 date = "2017-06-23"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["jack", "hastings"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jack Hastings![](https://grahamstevenson.me.uk/wp-content/uploads/2017/06/hastings-jack-in-st-johns-wood-studio.jpg)

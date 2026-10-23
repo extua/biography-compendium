@@ -1,8 +1,16 @@
 +++
 title = "Gill Vi"
 date = "2010-12-01"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["gill", "vi"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 <table align="left"><tbody><tr><td><font color="#000000"><b style="mso-bidi-font-weight: normal"><span lang="EN-US" style="font-size: 10pt; font-family: arial; mso-ansi-language: en-us"><span lang="EN-US" style="font-size: 10pt; font-family: arial; mso-ansi-language: en-us"><a href="https://picasaweb.google.com/lh/photo/3qpO0r7p30bkpWf_dSKnKaMR4-4keDfr8DJMqSHXq2I?feat=embedwebsite"><input alt="" src="https://lh3.googleusercontent.com/_N652tlEVoqM/TWE9-19iySI/AAAAAAAAAg8/r8dMfcSmuNM/s144/gill vi.jpg" style="float: left; margin: 10px; width: 125px; height: 144px" type="image"></a></span></span></b></font></td></tr><tr><td style="font-size: 11px; font-family: arial,sans-serif; text-align: right"><span style="font-family: arial"><font size="3"><font color="#000000"><strong>Vi Gill<o:p></o:p></strong></font></font></span></td></tr></tbody></table>

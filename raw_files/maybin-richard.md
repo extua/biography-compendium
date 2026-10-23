@@ -1,8 +1,16 @@
 +++
 title = "Maybin Richard"
 date = "2010-09-28"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["richard", "maybin"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Richard Maybin

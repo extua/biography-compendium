@@ -1,8 +1,16 @@
 +++
 title = "Hornsby Stan"
 date = "2015-01-25"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["stan", "hornsby"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Stan Hornsby

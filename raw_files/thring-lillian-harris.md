@@ -1,8 +1,16 @@
 +++
 title = "Thring Lillian (Harris)"
 date = "2012-09-15"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["thring", "lillian", "harris"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Lillian Thring

@@ -1,8 +1,16 @@
 +++
 title = "Hudd Walter `Dicky'"
 date = "2010-12-01"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["walter", "hudd", "dicky"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Walter Hudd

@@ -1,8 +1,16 @@
 +++
 title = "Jacobs Julie"
 date = "2008-09-19"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["jacobs", "julie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/jacobs%20julie%20%20stepney%20ch%20bexley%20w%20claud%20berdg%20(behind%20band).JPG)Julie (Julius) Jacobs

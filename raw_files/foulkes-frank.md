@@ -1,8 +1,16 @@
 +++
 title = "Foulkes Frank"
 date = "2011-04-02"
-categories = ["f"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["f"]
 tags = ["frank", "foulkes"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Frank Foulkes

@@ -1,8 +1,16 @@
 +++
 title = "Perkins Stella"
 date = "2011-06-11"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["perkins", "stella"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Stella Perkins

@@ -1,8 +1,16 @@
 +++
 title = 'Levitas Maurice "Morry"'
 date = "2008-09-19"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["maurice", "levitas", "morry"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Born February 1st 1917, died February 14th 2001 - Levitas was by then one of the last surviving Irish veterans who served with the International Brigade in the fight against Fascism in Spain. Born in Dublin's Warren Street, a predominantly Jewish neighbourhood of artisan housing in the Portobello area. The families of his parents, Harry Levitas (his family name was Kovno, from the Lithuanian shtetl of Akmeyan) and Leah Rick (whose family came from the Latvian capital of Riga) had fled anti-Semitic pogroms in Tsarist Russia to join relatives already residing in Dublin. Harry went to Ireland in 1912 and Leah was born in Dublin on 1st February 1917. It was to prove to be a life-saving choice for Morry and his part of the extended family. 

@@ -1,8 +1,16 @@
 +++
 title = "Webb Harry"
 date = "2012-06-29"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["harry", "webb"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Harry Webb

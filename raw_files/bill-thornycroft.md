@@ -1,7 +1,15 @@
 +++
 title = "Bill Thornycroft"
 date = "2019-12-18"
-categories = ["t", "commiepedia"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t", "commiepedia"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Born Francis Thornycroft in 1926 near Worthing, he was the last of the five children of Oliver and Dorothy Thornycroft. His father was from the Thornycroft engineering family and was a senior engineer at the Admiralty. His mother was a political activist, having been a member of the Labour Party from its earliest days.  In fact, there was a long history of involvement in left wing politics. Bill’s grandmother, Lizzie Rose, and mother, Dorothy Rose, later Thornycroft, were both at the First Fabian Summer School at George Bernard Shaw's house in Wales. Dorothy went on to be a Labour Councillor all her life, and to have five children, all of whom were, or at least started off, Communist or Labour. They all supported the Republican side in the Spanish Civil War - Christopher fought in it and the others did fundraising and managed children's homes for the refugee children from Bilbao. They later supported refugees from Hitler too.  Bill was still vehemently anti-capitalist to the end.

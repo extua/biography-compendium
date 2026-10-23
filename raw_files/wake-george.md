@@ -1,8 +1,16 @@
 +++
 title = "Wake George"
 date = "2010-09-23"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["george", "wake"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 George Wake

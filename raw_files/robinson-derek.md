@@ -1,8 +1,16 @@
 +++
 title = "Robinson Derek"
 date = "2010-04-14"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["derek", "robinson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Derek Robinson  

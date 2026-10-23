@@ -1,8 +1,16 @@
 +++
 title = "Cullen Dr C K"
 date = "2013-01-18"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["cullen", "dr"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  

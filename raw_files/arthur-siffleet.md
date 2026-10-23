@@ -1,8 +1,16 @@
 +++
 title = "Siffleet Arthur"
 date = "2009-08-01"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["arthur", "siffleet"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Arthur Siffleet

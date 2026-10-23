@@ -1,8 +1,16 @@
 +++
 title = "Heatley Bobby"
 date = "2010-12-01"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["heatley", "bobby"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bobbie Heatley

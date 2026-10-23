@@ -1,8 +1,16 @@
 +++
 title = "Priscott Dave"
 date = "2008-09-20"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["dave", "priscott"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dave Priscott

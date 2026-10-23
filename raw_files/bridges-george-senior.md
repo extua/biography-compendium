@@ -1,8 +1,16 @@
 +++
 title = "Bridges George Senior"
 date = "2010-12-01"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["george", "bridges", "senior"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  

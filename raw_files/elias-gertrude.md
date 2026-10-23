@@ -1,8 +1,16 @@
 +++
 title = "Elias Gertrude"
 date = "2012-12-24"
-categories = ["e"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["e"]
 tags = ["elias", "gertrude"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 A brief biography of Gertrude Elias by Graham Stevenson: info@grahamstevenson.me.uk

@@ -1,8 +1,16 @@
 +++
 title = "Cowe Bill"
 date = "2010-01-20"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["bill", "cowe"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bill Cowe 

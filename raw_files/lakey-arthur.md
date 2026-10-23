@@ -1,8 +1,16 @@
 +++
 title = "Lakey Arthur"
 date = "2010-02-19"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
 tags = ["arthur", "lakey"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Arthur Lakey

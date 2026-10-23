@@ -1,8 +1,16 @@
 +++
 title = "Carritt Bill"
 date = "2008-09-19"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["bill", "carritt"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2008/09/carritt-bill-1946.jpg)![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/carritt%20bill%201.jpg)

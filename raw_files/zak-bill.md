@@ -1,8 +1,16 @@
 +++
 title = "Zak Bill"
 date = "2012-03-21"
-categories = ["z"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["z"]
 tags = ["bill", "zak"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bill Zak

@@ -1,8 +1,16 @@
 +++
 title = "Nettleton Dick"
 date = "2010-01-03"
-categories = ["n"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["n"]
 tags = ["nettleton", "dick"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Dick Nettleton

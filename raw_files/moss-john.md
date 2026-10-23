@@ -1,8 +1,16 @@
 +++
 title = "Moss John"
 date = "2010-01-26"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["john", "moss"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 John Moss was the full-time Young Communist League National Secretary in the 1950s. The role would be renamed \`General Secretary’ later in YCL history.

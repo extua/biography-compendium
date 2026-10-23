@@ -1,8 +1,16 @@
 +++
 title = "Braunthal Bertha (Clark)"
 date = "2015-11-25"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["braunthal", "bertha", "clark"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bertha Braunthal (Clark)

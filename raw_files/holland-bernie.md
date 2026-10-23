@@ -1,8 +1,16 @@
 +++
 title = "Holland Bernie"
 date = "2010-04-02"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["holland", "bernie"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bernie Holland

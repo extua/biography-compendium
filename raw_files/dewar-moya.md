@@ -1,8 +1,16 @@
 +++
 title = "Dewar Moya"
 date = "2010-11-18"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["dewar", "moya"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Moya Dewar was a school headmistress from Basingstoke, Hampshire who joined the Communist Party in 1948 and was active certainly until the late 1960s.

@@ -1,8 +1,16 @@
 +++
 title = "Stratton Lil"
 date = "2010-12-28"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["lil", "stratton"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Lil Stratton

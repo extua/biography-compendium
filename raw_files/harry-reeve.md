@@ -1,8 +1,16 @@
 +++
 title = "Reeve Harry"
 date = "2009-08-30"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["harry", "reeve"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Harry Reeve

@@ -1,8 +1,16 @@
 +++
 title = "Darley Peggy"
 date = "2010-12-26"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["darley", "peggy"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Born Peggy McBride in Belfast, she came from a large working-class family. At Gallaher's cigarette factory, she became a shop steward and eventually joined the Communist Party of Ireland, where she met Eddie Darley, a shipyard worker. They married in 1955 in England, while working as hop-pickers.

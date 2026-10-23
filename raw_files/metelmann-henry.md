@@ -1,8 +1,16 @@
 +++
 title = "Metelmann Henry"
 date = "2011-12-12"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["metelmann", "henry"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Henry Metelmann

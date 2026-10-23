@@ -1,8 +1,16 @@
 +++
 title = "Hess Hans"
 date = "2012-08-17"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["hess", "hans"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Hans Hess

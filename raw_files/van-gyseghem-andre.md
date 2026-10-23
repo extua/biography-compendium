@@ -1,8 +1,16 @@
 +++
 title = "Gyseghem (van) Andre"
 date = "2011-12-12"
-categories = ["g"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["g"]
 tags = ["gyseghem", "van", "andre"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  André van Gyseghem

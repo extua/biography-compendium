@@ -1,8 +1,16 @@
 +++
 title = "O'Hara Roger"
 date = "2011-06-11"
-categories = ["o"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["o"]
 tags = ["ohara", "roger"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Roger O'Hara

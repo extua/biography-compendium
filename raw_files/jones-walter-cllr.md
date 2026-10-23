@@ -1,8 +1,16 @@
 +++
 title = "Jones Walter (Cllr)"
 date = "2010-01-31"
-categories = ["j"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["j"]
 tags = ["cllr", "walter", "jones"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Walter Jones (Cllr)

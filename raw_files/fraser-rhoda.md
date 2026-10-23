@@ -1,8 +1,16 @@
 +++
 title = "Fraser Rhoda"
 date = "2013-04-28"
-categories = ["f"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["f"]
 tags = ["fraser", "rhoda"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 A brief biography of Rhoda Fraser

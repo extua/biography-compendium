@@ -1,8 +1,16 @@
 +++
 title = "Marsland Terry"
 date = "2010-11-23"
-categories = ["m", "commiepedia"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m", "commiepedia"]
 tags = ["marsland", "terri"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Terry Marsland was born Theresa Bailey on 6 July 1931 into a large family of Irish Liverpudlians, one of ten children.  In 1953, when she married Michael A Marsland, she married into a Communist family. She became much influenced by her mother-in-law Marion Marsland, a stalwart of the National Assembly of Women. After being blacklisted, Michael became a Regional Officer of the shop workers union, USDAW, just as fellow Communist, Sid Atkin (see separate entry) was stepping down as a full-time officer.    

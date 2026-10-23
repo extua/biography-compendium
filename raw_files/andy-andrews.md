@@ -1,8 +1,16 @@
 +++
 title = "Andrews Andy (Howard)"
 date = "2008-09-19"
-categories = ["a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["andrews", "howard", "andy"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2008/09/andrews-andy-at-101-resized-222x300.jpg)

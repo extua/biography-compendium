@@ -1,8 +1,16 @@
 +++
 title = "Patterson Walter"
 date = "2015-04-09"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["walter", "patterson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Walter Patterson

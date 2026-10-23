@@ -1,8 +1,16 @@
 +++
 title = "Norris Gordon"
 date = "2010-01-03"
-categories = ["n"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["n"]
 tags = ["norris", "gordon"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2010/01/norris-gordon-nu-seamen.jpg)Gordon Norris

@@ -1,8 +1,16 @@
 +++
 title = "Poole Ted"
 date = "2011-01-27"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["ted", "poole"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ted Poole

@@ -1,8 +1,16 @@
 +++
 title = "Pink Peter"
 date = "2012-08-29"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["peter", "pink"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Peter Pink

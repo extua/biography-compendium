@@ -1,8 +1,16 @@
 +++
 title = "Eaton Alex"
 date = "2010-10-17"
-categories = ["e"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["e"]
 tags = ["eaton", "alex"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Alex Eaton

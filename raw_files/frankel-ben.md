@@ -1,8 +1,16 @@
 +++
 title = "Frankel Ben"
 date = "2010-04-02"
-categories = ["f"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["f"]
 tags = ["frankel", "ben"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/frankel%20ben.jpg)Ben Frankel

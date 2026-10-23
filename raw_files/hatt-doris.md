@@ -1,8 +1,16 @@
 +++
 title = "Hatt Doris"
 date = "2011-12-12"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["hatt", "doris"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  Doris Hatt

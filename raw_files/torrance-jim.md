@@ -1,8 +1,16 @@
 +++
 title = "Torrance Jim"
 date = "2010-02-13"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["jim", "torrance"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jim Torrance

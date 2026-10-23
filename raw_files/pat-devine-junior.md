@@ -1,8 +1,16 @@
 +++
 title = "Devine Pat (Junior)"
 date = "2008-09-19"
-categories = ["d"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["d"]
 tags = ["devine", "pat", "junior"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Pat Devine (Junior)

@@ -1,8 +1,16 @@
 +++
 title = "Shields Willie"
 date = "2010-04-15"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["willie", "shields"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Willie Shields

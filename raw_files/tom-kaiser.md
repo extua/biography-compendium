@@ -1,8 +1,16 @@
 +++
 title = "Kaiser Tom"
 date = "2008-09-19"
-categories = ["k"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["k"]
 tags = ["tom", "kaiser"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Tom Kaiser

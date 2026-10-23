@@ -1,8 +1,16 @@
 +++
 title = "Clare Joan"
 date = "2015-04-09"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["clare", "joan"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Joan Clare

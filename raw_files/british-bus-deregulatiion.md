@@ -1,7 +1,15 @@
 +++
 title = "British bus deregulatiion"
 date = "2009-04-02"
-categories = ["books-and-pamphlets", "trade-union-history"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["books-and-pamphlets", "trade-union-history"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 BRITISH BUS DEREGULATION

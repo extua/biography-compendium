@@ -1,8 +1,16 @@
 +++
 title = "Morgan Geri"
 date = "2010-12-26"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["morgan", "geri"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Geri Morgan

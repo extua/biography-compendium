@@ -1,8 +1,16 @@
 +++
 title = 'Coe "Peter"'
 date = "2013-04-27"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["coe", "peter"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 \`Peter' Coe was born Percy Newbold Coe in Kingston, Surrey, in 1919, the eldest child of Violet (née Newbold) and Percy Coe Sr.

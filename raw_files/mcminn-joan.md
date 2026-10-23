@@ -1,8 +1,16 @@
 +++
 title = "McMinn Joan"
 date = "2012-04-14"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["joan", "mcminn"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Joan McMinn

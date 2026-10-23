@@ -1,8 +1,16 @@
 +++
 title = "Abbott Dorothy"
 date = "2017-12-19"
-categories = ["a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["dorothy", "abbott"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2008/09/Abbott-Knight-Dorothy-PASSPORT-PIC-1945.jpg)Dorothy Pauline Abbott (Knight)

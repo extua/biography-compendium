@@ -1,8 +1,16 @@
 +++
 title = "Halverson Ron"
 date = "2011-01-27"
-categories = ["h"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["h"]
 tags = ["ron", "halverson"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Ron Halverson

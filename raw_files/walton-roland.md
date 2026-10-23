@@ -1,8 +1,16 @@
 +++
 title = "Walton Roland"
 date = "2012-06-30"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["roland", "walton"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Roland Walton

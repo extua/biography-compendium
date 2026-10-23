@@ -1,8 +1,16 @@
 +++
 title = "Atienza, Tony"
 date = "2017-10-10"
-categories = ["commiepedia", "a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["commiepedia", "a"]
 tags = ["atienza", "tony"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2017/10/Atienza.jpg)Tony Atienza

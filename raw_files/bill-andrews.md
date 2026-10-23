@@ -1,8 +1,16 @@
 +++
 title = "Andrews Bill"
 date = "2008-11-29"
-categories = ["a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["a"]
 tags = ["bill", "andrews"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
   

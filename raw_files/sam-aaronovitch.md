@@ -1,8 +1,16 @@
 +++
 title = "Aaronovitch Sam"
 date = "2017-12-24"
-categories = ["commiepedia", "a"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["commiepedia", "a"]
 tags = ["sam", "aaronovitch"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  ![](https://grahamstevenson.me.uk/wp-content/uploads/2019/07/Aaronovitch-Sam-248x300.jpg) Sam Aaronovitch

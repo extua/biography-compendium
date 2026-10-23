@@ -1,8 +1,16 @@
 +++
 title = "Burns Emile"
 date = "2009-02-03"
-categories = ["b"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["b"]
 tags = ["burns", "emile"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Emile Burns

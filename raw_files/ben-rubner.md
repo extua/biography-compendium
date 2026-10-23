@@ -1,8 +1,16 @@
 +++
 title = "Rubner Ben"
 date = "2008-09-20"
-categories = ["r"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["r"]
 tags = ["ben", "rubner"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/Rubner%20Ben%202(1).jpg)Ben Rubner 

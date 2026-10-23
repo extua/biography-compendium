@@ -1,8 +1,16 @@
 +++
 title = "Watters George"
 date = "2009-07-19"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["george", "watters"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/watters%20george%201904-80%20prestonpans%20c%201976.jpg)George Watters

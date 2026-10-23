@@ -1,8 +1,16 @@
 +++
 title = "Smith Cyril"
 date = "2009-08-02"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["smith", "cyril"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Cyril Smith  

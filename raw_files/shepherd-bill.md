@@ -1,8 +1,16 @@
 +++
 title = "Shephard Bill"
 date = "2013-04-28"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["bill", "shephard"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Bill was born to a working class family in Petts Wood, Kent.

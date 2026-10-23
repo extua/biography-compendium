@@ -1,7 +1,15 @@
 +++
 title = "Carritt Michael"
 date = "2019-12-20"
-categories = ["c", "commiepedia"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c", "commiepedia"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Michael John Carritt was born on 3rd January 1906, the eldest son of four brothers and two girls, the brother of Gabriel Carritt (see separate entry). Coming from an academic background, he was educated locally in Oxford and at Oxford University.  Finding jobs hard to come by after university from 1928, he eventually became a civil servant in India, leaving in November 1930 for Mumbai to become an assistant district officer in Midnapore, now in West Bengal, India. 

@@ -1,8 +1,16 @@
 +++
 title = "Sahnow Will"
 date = "2011-07-17"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["sahnow"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Will Sahnow

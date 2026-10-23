@@ -1,7 +1,15 @@
 +++
 title = "Jean & Maurice Styles"
 date = "2019-12-18"
-categories = ["s", "commiepedia"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s", "commiepedia"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Jean Esther Styles was born on October 19th 1927; she joined the Communist Party in 1947.

@@ -1,7 +1,15 @@
 +++
 title = "Marx the man and thinker"
 date = "2020-04-11"
-categories = ["marxism"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["marxism"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Karl Marx wrote to his wife Jenny in 1856: “My love of you, as soon as you are distant, appears as a giant … the love, not of Feuerbach's human being … not of the proletariat, but the love of the beloved, namely of you, makes the man once again into a man.” Alas, he also fell prey to unfaithfulness during his wife’s prolonged absence.

@@ -1,8 +1,16 @@
 +++
 title = "Skipwith Sofka"
 date = "2010-12-21"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["skipwith", "sofka"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Sofka Skipwith

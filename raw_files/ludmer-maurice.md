@@ -1,7 +1,15 @@
 +++
 title = "Ludmer, Maurice"
 date = "2020-03-31"
-categories = ["l"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["l"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Maurice Ludmer

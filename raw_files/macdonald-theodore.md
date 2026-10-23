@@ -1,8 +1,16 @@
 +++
 title = "MacDonald Theodore"
 date = "2011-10-09"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["macdonald", "theodore"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Theodore MacDonald

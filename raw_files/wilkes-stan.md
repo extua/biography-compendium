@@ -1,8 +1,16 @@
 +++
 title = "Wilkes Stan"
 date = "2010-12-04"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["stan", "wilkes"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](https://grahamstevenson.me.uk/wp-content/uploads/2019/07/wilkes-stan-256x300.jpg)Stan Wilkes

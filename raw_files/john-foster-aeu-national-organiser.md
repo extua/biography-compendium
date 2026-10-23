@@ -1,8 +1,16 @@
 +++
 title = "Foster John (AEU)"
 date = "2009-01-27"
-categories = ["f"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["f"]
 tags = ["john", "foster", "aeu"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 John Foster

@@ -1,8 +1,16 @@
 +++
 title = "Walker, John Craig Cllr"
 date = "2014-12-27"
-categories = ["w"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["w"]
 tags = ["cllr", "john", "craig", "walker"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 John Craig Walker

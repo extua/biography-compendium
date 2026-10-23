@@ -1,8 +1,16 @@
 +++
 title = "Shapiro Michael"
 date = "2009-07-31"
-categories = ["s"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["s"]
 tags = ["michael", "shapiro"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
   

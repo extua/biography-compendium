@@ -1,8 +1,16 @@
 +++
 title = "Evans George Ewart"
 date = "2012-03-25"
-categories = ["e"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["e"]
 tags = ["evans", "george", "ewart"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 George Ewart Evans

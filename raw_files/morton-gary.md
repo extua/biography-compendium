@@ -1,8 +1,16 @@
 +++
 title = "Morton Gary"
 date = "2015-04-09"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["morton", "gary"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Gary Morton

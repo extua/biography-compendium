@@ -1,8 +1,16 @@
 +++
 title = "Pollitt Brian"
 date = "2011-07-17"
-categories = ["p"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["p"]
 tags = ["brian", "pollitt"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Brian Pollitt

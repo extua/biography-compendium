@@ -1,8 +1,16 @@
 +++
 title = "Thornton Rosa (Rust)"
 date = "2008-09-20"
-categories = ["t"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["t"]
 tags = ["rust", "thornton", "rosa"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 ![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/thornton%20rosa%20rust%20resized.jpg)Rosa (Rust) Thornton

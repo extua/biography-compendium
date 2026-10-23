@@ -1,8 +1,16 @@
 +++
 title = "Miller Joyce"
 date = "2010-04-15"
-categories = ["m"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["m"]
 tags = ["joyce", "miller"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Joyce Miller

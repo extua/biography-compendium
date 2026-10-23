@@ -1,8 +1,16 @@
 +++
 title = "Carter Pete"
 date = "2011-12-24"
-categories = ["c"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["c"]
 tags = ["carter", "pete"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
 Born Peter Edward Carter in Tipton in 8th July 1938, he was the eldest of five children to Ted and Mabel Carter, public house licencees of the Whitehall Tavern in Greets Green, West Bromwich. He joined the Young Communist League around 1960.

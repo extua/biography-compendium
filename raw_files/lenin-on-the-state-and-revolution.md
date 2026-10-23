@@ -1,7 +1,15 @@
 +++
 title = "Lenin on the state and revolution"
 date = "2009-01-03"
-categories = ["articles-and-reviews", "marxism"]
+authors = ["xxx"]
+[taxonomies]
+surname_initial = ["articles-and-reviews", "marxism"]
+sex = ["xxx"]
+[extra]
+birth = xxx
+death = xxx
+sources = ["xxx"]
+aka = "xxx"
 +++
 
  
