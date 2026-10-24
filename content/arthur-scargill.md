@@ -1,19 +1,11 @@
 +++
-title = "Scargill Arthur"
+title = "Arthur Scargill"
 date = "2008-09-20"
-authors = ["xxx"]
 [taxonomies]
 surname_initial = ["s"]
-tags = ["arthur", "scargill"]
-sex = ["xxx"]
-[extra]
-birth = xxx
-death = xxx
-sources = ["xxx"]
-aka = "xxx"
+tags = ["arthur", "scargill", "NUM", "YCL"]
+sex = ["man"]
 +++
-
-![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/Scargill%20Arthur%20election%20address%201960%20resized.jpg)Arthur Scargill
 
 Best known, of course, for his leadership of the National Union of Mineworkers, Arthur Scargill joined the Young Communist League in 1956.
 
