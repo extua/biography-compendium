@@ -8,7 +8,7 @@ sex = ["man"]
 [extra]
 birth = 1907
 death = 2008
-sources = ["Morning Star 15th February 2006","Tribute to a remarkable centenarian: Howard Andrews of Taunton by Dave Chapple, Somerset Association of Trades Union Councils", "Comments Ken Keable, Secretary, Somerset Branch, Communist Party of Britain", "Stoke-sub-Hamdon, and Marlene Sidaway, Secretary, International Brigade Memorial Trust, 23 May 2008", "Funeral tribute for Howard Andrews, Taunton, Somerset, 22nd May 2008" "Pauline Fraser - obituary in Morning Star 2 June 2008"]
+sources = ["Morning Star 15th February 2006","Tribute to a remarkable centenarian: Howard Andrews of Taunton by Dave Chapple, Somerset Association of Trades Union Councils", "Comments Ken Keable, Secretary, Somerset Branch, Communist Party of Britain", "Stoke-sub-Hamdon, and Marlene Sidaway, Secretary, International Brigade Memorial Trust, 23 May 2008", "Funeral tribute for Howard Andrews, Taunton, Somerset, 22nd May 2008", "Pauline Fraser - obituary in Morning Star 2 June 2008"]
 aka = "Howard Andrews"
 +++
 
