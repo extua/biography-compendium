@@ -1,19 +1,16 @@
 +++
-title = "Allanson Jack"
+title = "Jack Allanson"
 date = "2010-12-01"
 authors = ["xxx"]
 [taxonomies]
 surname_initial = ["a"]
-tags = ["jack", "allanson"]
-sex = ["xxx"]
+tags = ["jack", "allanson", "NUS"]
+sex = ["man"]
 [extra]
-birth = xxx
-death = xxx
-sources = ["xxx"]
-aka = "xxx"
+birth = 1919
+death = 1999
+sources = ["Daily Express 1st March 1949", "Guardian 22nd July 1999"]
 +++
-
-Jack Allanson
 
 The first Communist President of the National Union of Students.
 
@@ -28,5 +25,3 @@ In 1949 he was appointed an electrical engineering lecturer at Birmingham Univer
 He left the Party in the 1950s and in 1959 became professor and head of the undergraduate school in Birmingham.  For a quarter of a century he was a dominating figure on the Joint Matriculation Board. He chaired the Research Advisory Committee, served on the Schools Council, the Secondary Examinations Council, and the Standing Conference on University Entrance.
 
 Allanson died on July 7th 1999, aged aged 79.
-
-_Sources include: Daily Express 1st March 1949, Guardian 22nd July 1999_
