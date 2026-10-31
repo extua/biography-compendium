@@ -1,19 +1,16 @@
 +++
-title = "Attwood Arthur"
+title = "Arthur Attwood"
 date = "2008-09-19"
-authors = ["xxx"]
 [taxonomies]
 surname_initial = ["a"]
-tags = ["arthur", "attwood"]
-sex = ["xxx"]
+tags = ["arthur", "attwood", "NCP"]
+sex = ["man"]
 [extra]
-birth = xxx
-death = xxx
-sources = ["xxx"]
+birth = 1913
+death = 2008
+sources = ["Eric Trevett, Jim Gibb, Stewart Edgell", "The Guardian Thursday May 22 2008"]
 aka = "xxx"
 +++
-
-![](https://grahamstevenson.me.uk/wp-content/uploads/2008/09/attwood-arthur.jpg)Arthur Attwood
 
 Born in Wandsworth in 1913, Arthur was the son of a postman and the former housemaid of the cricketer, WG Grace. Arthur left school at the age of 14 and started training as an artist, but after a year of mostly cleaning his tutor's brushes, he left to join the firm of Morgan Crucible and train as an electrician at night school. In the early 1930s, as a keen member of Balham Cycling Club, he won several road and track races and time trials. He married Violet White in 1936, joined the Communist Party in 1941.  
 
@@ -32,5 +29,3 @@ Throughout he continued his involvement with the unions, including a period as a
 Arthur served on the Communist Party’s Surrey District Committee for a number of years before joining the New Communist Party in 1979.
 
 Upon retirement, Arthur indulged his passion for walking, covering great distances, often with Violet or friends but sometimes alone. He walked the Pennine Way, part of Offa's Dyke, the Coast-to-Coast and the Shaftesbury Shuffle. The latter, conceived to raise funds for his chosen causes, started at his home in Oakley, Hampshire, and ended 60 miles away in Shaftesbury, Dorset. It would have been a challenge for most people but was one that he managed - at the age of 79 - in 20hrs 15min. He celebrated his 80th year by walking the 80 miles to Gloucester in 28hrs 7min. All this in spite of having heart problems that required surgery.  Arthur also spent time in retirement writing and drawing. When he died in 2008, aged 95, he left two daughters, Audrey and Carole, a son Peter, 10 grandchildren, 22 great-grandchildren and three great-great-grandchildren. Violet died in 2004, after 68 years of marriage.
-
-_Sources: Eric Trevett, Jim Gibb, Stewart Edgell, [The Guardian](http://www.guardian.co.uk/theguardian),_ _Thursday May 22 2008_
