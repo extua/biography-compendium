@@ -1,7 +1,6 @@
 +++
 title = "Jack Allanson"
 date = "2010-12-01"
-authors = ["xxx"]
 [taxonomies]
 surname_initial = ["a"]
 tags = ["jack", "allanson", "NUS"]

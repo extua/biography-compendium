@@ -1,19 +1,15 @@
 +++
 title = "Powell Annie"
 date = "2008-09-20"
-authors = ["xxx"]
 [taxonomies]
 surname_initial = ["p"]
 tags = ["powell", "annie"]
-sex = ["xxx"]
+sex = ["woman"]
 [extra]
-birth = xxx
-death = xxx
-sources = ["xxx"]
-aka = "xxx"
+birth = 1906
+death = 1986
+sources = ["Morning Star 29 August 1986", "contemporary issues of Comment and the Daily Worker", "additional information from Michael Walker"]
 +++
-
-![](http://79.170.40.183/grahamstevenson.me.uk/images/stories/powell%20annie.jpg)Annie Powell
 
 Annie Powell was born in September 1906 into a strong traditional chapel family, both parents being teachers from a mining background. She attended the Central Chapel in Tonypandy and was educated at Pente Grammar School and then at Glamorgan’s teacher training school in Barry. It was while undertaking taking teacher training during the period of the 1926 General Strike that Annie Powell first became interested in politics and she subsequently joined the Labour Party.
 
@@ -23,7 +19,11 @@ Following her parents’ footsteps, she became a teacher first at Trebanog and t
 
 Annie Powell stood for election to the local council for the Communist Party thirteen times before she was finally elected in 1955. For years she played a key role in the campaign for more council houses in the Rhondda, The area having the lowest ratio of council houses (28 per thousand of the population) and some of the worst housing in the country. She played a leading part in getting 148 council houses built at Dinas to re-house the demolished homes of owner occupiers.  
   
-Amos Prosser reporting in the  May 1965 edition of Comment stated "Annie Powell pounds the pavements and knocks on knockers of the Rhondda streets (how steep they are) as much as if not more now than during the thirteen years when she was unsuccessful in her bid to secure election." Every Saturday morning Annie's branch, Penygraig, sold 120 Daily Workers on the doorstep.
+Amos Prosser reporting in the May 1965 edition of Comment stated
+
+> Annie Powell pounds the pavements and knocks on knockers of the Rhondda streets (how steep they are) as much as if not more now than during the thirteen years when she was unsuccessful in her bid to secure election.
+
+Every Saturday morning Annie's branch, Penygraig, sold 120 Daily Workers on the doorstep.
 
 Annie was first elected as a Communist councillor for Penygraig to the Rhondda Borough Council in 1955. She lost the seat, after Labour banged the anti-communist drum, citing Hungary, when her time for re-election came around in 1958. Although the penny increasingly dropped that Hungary had little to do with Penycraig, as the Communist Party fought back in its Rhondda base, beginning the organisation of, amongst other things, a regular St David's Day parade which continued well into the 1960s.
 
@@ -37,10 +37,4 @@ Annie Powell was retired from formal working by the time of her election as Mayo
 
 As such, it might be said that, for a time, Annie Powell almost achieved fame in her final years. She was certainly very well known in Wales and no stranger to regional television. Her achievement is so remarkable that it has often been overstated to the extent of her being erroneously described as Britain’s first, even only, Communist Mayor.
 
-Joe Vaughan of Stepney had been truly the first Communist mayor in the 1920s. But Finlay Hart had beaten Annie to it in Clydebank by several years in modern times; the fact that Hart’s post was called \`provost’, the uniquely Scottish equivalent, has clouded the issue somewhat. Even so, Communists in Wales are rightly proud of Annie’s great achievement. She stated in one interview that she had learnt valuable lessons from respected Communists such as Arthur Horner, Harry Pollitt, Will Paynter, Jack Davies and, the South Walian, Jack Jones. Annie Powell died on August 29th 1986 aged seventy nine, only days before her 80th birthday. 
-
-_
-
-Sources: Morning Star 29 August 1986, contemporary issues of Comment and the Daily Worker, and other sources, including additional information from Michael Walker
-
-_
+Joe Vaughan of Stepney had been truly the first Communist mayor in the 1920s. But Finlay Hart had beaten Annie to it in Clydebank by several years in modern times; the fact that Hart’s post was called \`provost’, the uniquely Scottish equivalent, has clouded the issue somewhat. Even so, Communists in Wales are rightly proud of Annie’s great achievement. She stated in one interview that she had learnt valuable lessons from respected Communists such as Arthur Horner, Harry Pollitt, Will Paynter, Jack Davies and, the South Walian, Jack Jones. Annie Powell died on August 29th 1986 aged seventy nine, only days before her 80th birthday.
