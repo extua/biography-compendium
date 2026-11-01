@@ -1,19 +1,12 @@
 +++
-title = "Avis Peter"
+title = "Peter Avis"
 date = "2013-04-27"
 authors = ["xxx"]
 [taxonomies]
 surname_initial = ["a"]
-tags = ["peter", "avis"]
-sex = ["xxx"]
-[extra]
-birth = xxx
-death = xxx
-sources = ["xxx"]
-aka = "xxx"
+tags = ["peter", "avis", "Morning Star"]
+sex = ["man"]
 +++
-
-![](https://grahamstevenson.me.uk/wp-content/uploads/2019/07/avis-peter-avis-010-1.jpg)Peter Avis
 
 Avis began working for the Observer in the 1960s and was with it on an off until 2003.
 
