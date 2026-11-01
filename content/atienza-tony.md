@@ -1,23 +1,18 @@
 +++
-title = "Atienza, Tony"
+title = "Tony Atienza"
 date = "2017-10-10"
-authors = ["xxx"]
 [taxonomies]
 surname_initial = ["commiepedia", "a"]
 tags = ["atienza", "tony"]
-sex = ["xxx"]
+sex = ["man"]
 [extra]
-birth = xxx
-death = xxx
-sources = ["xxx"]
-aka = "xxx"
+birth = 1921
+death = 2017
 +++
-
-![](https://grahamstevenson.me.uk/wp-content/uploads/2017/10/Atienza.jpg)Tony Atienza
 
 Full name Anthony David Atienza and born in Lambeth on 2 October 1921, he was the son of a Spanish bank clerk whose ancestors had been Spanish army officers. By 1939, the family had moved to Beckenhamd, as his father (born in 1891) gained promotion.
 
-Tony gained a place at Kings College London to study History in 1938. However, his studies were put on hold when he was called up to serve for the RAF as a radar mechanic for five years during World War Twoin Iraq.
+Tony gained a place at Kings College London to study History in 1938. However, his studies were put on hold when he was called up to serve for the RAF as a radar mechanic for five years during the Second World War in Iraq.
 
 Following the war, Tony Atienza married Betty, completed his history degree at Kings College, and trained as a teacher. He taught at Stratford Grammar School, Ilford, and at Latton Bush Comprehensive School where he was eventually appointed head teacher. The school had an excellent record of results and he encouraged members of staff to seek additional qualification to help them achieve promotion.
 
