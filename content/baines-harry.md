@@ -1,19 +1,15 @@
 +++
-title = "Baines Harry"
+title = "Harry Baines"
 date = "2010-01-16"
-authors = ["xxx"]
 [taxonomies]
 surname_initial = ["b"]
 tags = ["harry", "baines"]
-sex = ["xxx"]
+sex = ["man"]
 [extra]
-birth = xxx
-death = xxx
-sources = ["xxx"]
-aka = "xxx"
+birth = 1910
+death = 1995
+sources = ["The Guardian, 18th November 1995"]
 +++
-
-Harry Baines
 
 Frederick Harry Baines was born in Manchester on 19th June 1910. He attended a local junior art school from the age of 14 and, from 1930 to 1934, Manchester School of Art, where obtained a diploma.
 
@@ -23,12 +19,8 @@ Along with many others from Manchester Art School, Baines joined the Communist P
 
 He was called up in 1940 and posted to India to do service in the Royal Engineers from 1941 to 1946. Seconded to be design studio director for the Indian government's Exhibitions Division Information Department, Baines recorded impressions of in his artistic work, returning to India throughout his life, and eventually co-writing a book on temple sculpture late in life.
 
-_Left: Harry Baines_
-
-Baines would have liked to stay in India after demobilisation but for family reasons returned to London, joining the Ministry of Information exhibitions, where he met his wife, Pauline Behr, a typographer and book designer.  Disliking an office-bound life, Baines soon left to freelance. Despite the post-war backlash against naturalism, Baines continued to produced landscapes, still lifes and portraits, often inspired by his travels.
+Baines would have liked to stay in India after demobilisation but for family reasons returned to London, joining the Ministry of Information exhibitions, where he met his wife, Pauline Behr, a typographer and book designer. Disliking an office-bound life, Baines soon left to freelance. Despite the post-war backlash against naturalism, Baines continued to produced landscapes, still lifes and portraits, often inspired by his travels.
 
 He would seem to have drifted from the Communist Party during the Cold War period but kept to the left politically and maintained friendly relations with those he had known from Artists International and the Manchester Art School in the 1930s, such as Cliff Rowe, Ray Watkinson, Ern Brooks and Barbara Niven.
 
 Baines died on 8th October 1995, aged 85.
-
-_Sources include: Guardian_ _18th November 1995_

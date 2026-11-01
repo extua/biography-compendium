@@ -1,19 +1,11 @@
 +++
-title = "Bale D J"
+title = "DJ Bale"
 date = "2010-02-13"
-authors = ["xxx"]
 [taxonomies]
 surname_initial = ["b"]
-tags = ["bale"]
-sex = ["xxx"]
-[extra]
-birth = xxx
-death = xxx
-sources = ["xxx"]
-aka = "xxx"
+tags = ["bale", "TGWU"]
+sex = ["man"]
 +++
-
-D J Bale
 
 Bale was a Newport docker and Communist. He joined the Dock, Wharf, Riverside and General Labourers Union in 1917 and, along with other South Wales dockers, was a supporter of  the formation of the amalgamation that founded the Transport & General Workers Union in 1922.  
 

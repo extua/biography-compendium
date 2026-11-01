@@ -1,19 +1,15 @@
 +++
-title = "Baker Betty"
+title = "Betty Baker"
 date = "2010-01-12"
-authors = ["xxx"]
 [taxonomies]
 surname_initial = ["b"]
 tags = ["baker", "betty"]
-sex = ["xxx"]
+sex = ["woman"]
 [extra]
-birth = xxx
-death = xxx
-sources = ["xxx"]
-aka = "xxx"
+birth = 1921
+death = 2009
+sources = ["Morning Star 5th January 2010"]
 +++
-
-Betty Baker
 
 Betty was born on July 14 1921 in Hackney to Charles and Holly Franklin; having an older brother, Charlie, and two younger sisters, Stella and Olive.
 
@@ -24,5 +20,3 @@ Betty was married to Bert Baker, who as Stewart Lane, was Daily Worker and Morni
 On her retirement, she continued her political commitment by being the treasurer of “Green Socs”.
 
 Betty Baker died aged 88 on December 28th 2009.
-
-_Source: Morning Star_ _5th January 2010_
