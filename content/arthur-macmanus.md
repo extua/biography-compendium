@@ -1,21 +1,17 @@
 +++
-title = "McManus Arthur"
+title = "Arthur McManus"
 date = "2008-09-19"
-authors = ["xxx"]
 [taxonomies]
 surname_initial = ["m"]
 tags = ["arthur", "macmanus"]
-sex = ["xxx"]
+sex = ["man"]
 [extra]
-birth = xxx
-death = xxx
-sources = ["xxx"]
-aka = "xxx"
+birth = 1891
+death = 1927
+aka = "James Anderson"
 +++
 
-### ![](https://grahamstevenson.me.uk/wp-content/uploads/2019/02/macmanus-arthur-1.jpg)
-
-### Arthur McManus was born in Belfast in 1891 but within months his family relocated to Scotland. He was editor of the SLP journal, \`The Glasgow Socialist’ and a fitter and member of the ASE. One of the leaders of the Clyde Workers' Committee during the First World War, he was deported to Edinburgh on March 25th 1916 following the dispute which began at Beardmore engineering works in Parkhead, Glasgow and led to an almost total stoppage across the city, led by the CWC, from 17th March to 4th April 1916.  
+Arthur McManus was born in Belfast in 1891 but within months his family relocated to Scotland. He was editor of the SLP journal, <cite>The Glasgow Socialist</cite> and a fitter and member of the ASE. One of the leaders of the Clyde Workers' Committee during the First World War, he was deported to Edinburgh on March 25th 1916 following the dispute which began at Beardmore engineering works in Parkhead, Glasgow and led to an almost total stoppage across the city, led by the CWC, from 17th March to 4th April 1916.  
 
 The strike was against the government's war-time employment policies that imported cheap unskilled male and female workers to engineering and shipbuilding works. On the day he was internally deported, McManus was about to bring out the shipbuilders on that day and then go to Woolwich Arsenal and bring out the men there.
 
@@ -35,10 +31,7 @@ From December 1922 until August 1923,  McManus was away in Moscow, where he wa
 
 He was one of the 12 Communist Party leaders arrested on various charges of sedition and mutiny in 1925, to deprive the movement of clear sighted leadership ahead of the looming general strike. He received six months imprisonment after refusing an offer to walk free if he renounced the Party.
 
-McManus died in Moscow of a serious illness in 1927, having been, as the Party statement put it, “in harness … up to the last”, attending a conference in Brussels to found the League Against Imperialism a week before he died. 
+McManus died in Moscow of a serious illness in 1927, having been, as the Party statement put it, <q>in harness … up to the last</q>, attending a conference in Brussels to found the League Against Imperialism a week before he died. 
 
 Some of MacManus’s ashes were interred in the wall of the Kremlin in recognition of his role as a pioneer of Communism. The rest were repatriated and placed in Golders Green crematorium, after a grand ceremony organised by the British Communist Party.
 
-The photograph of MacManus was taken in 1914.
-
-![](https://grahamstevenson.me.uk/wp-content/uploads/2008/09/macmanus-1927-funeral-leaflet-257x300.jpg)
