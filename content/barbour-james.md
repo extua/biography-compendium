@@ -1,25 +1,18 @@
 +++
-title = "Barbour James Cllr"
+title = "James Barbour"
 date = "2014-12-27"
-authors = ["xxx"]
 [taxonomies]
 surname_initial = ["b"]
-tags = ["barbour", "james", "cllr"]
-sex = ["xxx"]
+tags = ["barbour", "james"]
+sex = ["man"]
 [extra]
-birth = xxx
-death = xxx
-sources = ["xxx"]
-aka = "xxx"
+birth = 1893
+death = 1959
 +++
-
-James Barbour
 
 James Barbour was born around 1893 and served in the Royal Army Medical Corps during the First World War.
 
 He was first elected as a Communist Councillor in Perth, Scotland, in 1928. Having resigned for personal reasons three years later, he re-entered civic life in 1935, when he was then living at 31 Canal Street.
-
-_See Daily Worker cutting 1st November 1935 - left_
 
 He gained massive support from Labour activists, in support of the united front. A letter to the electors of the ward , urging their vote be given to Barbour, was signed by two NUR branch secretaries, the local ASLEF secretary, the secretary of the Scottish Painters, the secretary of the Slaters' Society, the secretary of the Perth Unemployed Association, a Labour body, the chair of the Co-op Education Committee, and the presidents of both the Men's and Women's Co-op Guilds. Thus elected to represent Perth’s Second Ward, after this massive endorsement, he was re-elected at the top of the poll in November 1938.
 
