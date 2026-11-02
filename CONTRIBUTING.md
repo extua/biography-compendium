@@ -24,35 +24,37 @@ aka = "xxx"
 
 ### Data model
 
-title
-: The title of the biography. You will usually find this in the form Lastname Firstname, and you should switch this around to Firstname(s) Lastname. The only reason this hasn't been changed automatically is because of people with middle names.
+<dl>
+<dt>title</dt>
+<dd>The title of the biography. You will usually find this in the form Lastname Firstname, and you should switch this around to Firstname(s) Lastname. The only reason this hasn't been changed automatically is because of people with middle names.</dd>
 
-: date
-The date the post was originally published; should already be present.
+<dt>date</dt>
+<dd>The date the post was originally published; should already be present.</dd>
 
-: authors
-You might find Michael Walker's name at the bottom of some of these, in which case you can add his name here. Otherwise, Graham Stevenson is assumed to be the default author so you can delete this field.
+<dt>authors</dt>
+<dd>You might find Michael Walker's name at the bottom of some of these, in which case you can add his name here. Otherwise, Graham Stevenson is assumed to be the default author so you can delete this field.</dd>
 
-:surname_initial
-The first letter of the person's last name, used for categorisation.
+<dt>surname_initial</dt>
+<dd>The first letter of the person's last name, used for categorisation.</dd>
 
-: tags
-Any keywords associated with the person. These are optional and it's up to you what you put here.
+<dt>tags</dt>
+<dd>Any keywords associated with the person. These are optional and it's up to you what you put here.</dd>
 
-: sex
-The sex of the person. Can be either man or woman.
+<dt>sex</dt>
+<dd>The sex of the person. Can be either man or woman.</dd>
 
-: birth
-Year of birth, optional.
+<dt>birth</dt>
+<dd>Year of birth, optional.</dd>
 
-: death
-Year of death, optional.
+<dt>death</dt>
+<dd>Year of death, optional.</dd>
 
-: sources
-Any sources referenced in the article. These are not structured in any consistent way.
+<dt>sources</dt>
+<dd>Any sources referenced in the article. These are not structured in any consistent way.</dd>
 
-: aka
-Alternative names for the person, if they were known by a pseudonym or a common nickname.
+<dt>aka</dt>
+<dd>Alternative names for the person, if they were known by a pseudonym or a common nickname.</dd>
+</dl>
 
 Read through the article and fill in any details in the front matter. 
 
