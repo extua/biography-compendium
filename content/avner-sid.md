@@ -4,7 +4,7 @@ date = "2010-04-02"
 authors = ["Michael Walker"]
 [taxonomies]
 surname_initial = ["a"]
-tags = ["sid", "avner", "YCL", "London", Spanish Civil War"]
+tags = ["sid", "avner", "YCL", "London", "Spanish Civil War"]
 sex = ["man"]
 [extras]
 death = 1936
