@@ -1,15 +1,14 @@
 +++
 title = "Felicity Ashbee"
 date = "2010-02-22"
-authors = ["xxx"]
 [taxonomies]
 surname_initial = ["a"]
 tags = ["ashbee", "felicity"]
-sex = ["xxx"]
+sex = ["woman"]
 [extra]
 birth = 1913
-death = xxx
-sources = ["xxx"]
+death = 2008
+sources = ["Guardian 20th August 2008", "http://eastlondonhistory.com/felicity-ashbee/", "http://www.independent.co.uk/news/obituaries/felicity-ashbee-memoirist-of-the-arts-and-crafts-era-889306.html"]
 +++
 
 Felicity’s father, Charles Robert Ashbee, was an influential figure in the Arts and Crafts movement of the late 19th century. In his ‘Mile End Experiment’, he attempted to remake society - at least in microcosm – via architecture.
@@ -28,12 +27,6 @@ After 1945 she worked briefly with her sister Helen in Manchester, designing tex
 
 Felicity developed a huge personal collection of photographs of Russia in these years, some of the earliest being taken in the mid 19th century. She wrote scholarly articles on art history and, in 1988, she published a book produced by the National Galleries of Scotland about a photographer who set up a studio in St Petersburg. As Ashbee points out it was the <q>people, the downtrodden, humble, humorous, happy-go-lucky Russian people</q> who interested him the most.
 
-One of her great satisfactions in her late years was to see the historical reputation of her father and other members of her family growing through a series of books. Felicity herself wrote about the photographer William Carrick and, in 2002, herself wrote “Janet Ashbee: Love, Marriage and the Arts and Crafts Movement”, which brought her mother out of the shadows.
+One of her great satisfactions in her late years was to see the historical reputation of her father and other members of her family growing through a series of books. Felicity herself wrote about the photographer William Carrick and, in 2002, herself wrote <cite>Janet Ashbee: Love, Marriage and the Arts and Crafts Movement</cite>, which brought her mother out of the shadows.
 
 Felicity Ashbee died aged 95 on July 26th 2008.
-
-_Sources:  Guardian_ _20th August 2008;_
-
-[http://www.independent.co.uk/news/obituaries/felicity-ashbee-memoirist-of-the-arts-and-crafts-era-889306.html](http://www.independent.co.uk/news/obituaries/felicity-ashbee-memoirist-of-the-arts-and-crafts-era-889306.html)
-
-[http://eastlondonhistory.com/felicity-ashbee/](http://eastlondonhistory.com/felicity-ashbee/)
